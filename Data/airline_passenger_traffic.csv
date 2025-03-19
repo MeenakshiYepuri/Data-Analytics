@@ -1,0 +1,1251 @@
+Flight_ID,Date,Airline,Origin,Destination,Passenger_Name,Class,Fare,Status,Payment_Method,Cabin_Baggage_KG,Checkin_Baggage_KG
+FL1001,2025-12-05,SpiceJet,Delhi,New York,Passenger_1,Economy,6264.7,Delayed,Debit Card,5.0,20.0
+FL1002,2025-12-22,Air India,Chennai,Paris,Passenger_2,First Class,16030.48,On-Time,,,25.0
+FL1003,2025-08-25,GoAir,Hyderabad,Bangkok,Passenger_3,First Class,10303.66,On-Time,Credit Card,7.0,15.0
+FL1004,2025-08-16,SpiceJet,Kolkata,New York,Passenger_4,Economy,,On-Time,Credit Card,10.0,30.0
+FL1005,2025-09-26,Vistara,Delhi,London,Passenger_5,Business,8063.49,On-Time,,,25.0
+FL1006,2025-08-10,IndiGo,Chennai,Bangkok,Passenger_6,Business,4604.81,On-Time,,10.0,
+FL1007,2025-12-08,AirAsia,Mumbai,Bangkok,Passenger_7,Economy,14878.98,Cancelled,UPI,7.0,15.0
+FL1008,2025-08-11,Air India,Delhi,Bangkok,Passenger_8,Business,8988.39,Delayed,Debit Card,7.0,
+FL1009,2025-10-19,GoAir,Mumbai,Bangkok,Passenger_9,Business,14709.43,On-Time,Net Banking,5.0,
+FL1010,2025-08-11,Vistara,Chennai,New York,Passenger_10,Business,8166.84,Delayed,Credit Card,10.0,15.0
+FL1011,2025-06-07,SpiceJet,Chennai,Bangkok,Passenger_11,Business,5480.8,Delayed,Net Banking,10.0,20.0
+FL1012,2025-03-12,Air India,Hyderabad,Singapore,Passenger_12,First Class,4777.09,On-Time,UPI,7.0,30.0
+FL1013,2025-12-01,SpiceJet,Delhi,Bangkok,Passenger_13,Economy,7550.09,Delayed,,10.0,20.0
+FL1014,2025-12-28,Air India,Chennai,Bangkok,Passenger_14,First Class,17190.39,Delayed,,10.0,20.0
+FL1015,2025-12-08,Vistara,Hyderabad,New York,Passenger_15,Business,4944.57,On-Time,,,15.0
+FL1016,2025-06-05,Air India,Kolkata,Paris,Passenger_16,Economy,12045.65,Delayed,Credit Card,,
+FL1017,2025-05-04,AirAsia,Mumbai,Singapore,Passenger_17,Business,17999.28,Cancelled,UPI,,15.0
+FL1018,2025-08-10,IndiGo,Chennai,Singapore,Passenger_18,Business,7541.33,Cancelled,,,
+FL1019,2025-12-20,IndiGo,Delhi,London,Passenger_19,Economy,16858.8,Cancelled,UPI,,20.0
+FL1020,2025-07-27,IndiGo,Mumbai,Dubai,Passenger_20,First Class,12140.95,Cancelled,Debit Card,,20.0
+FL1021,2025-07-14,GoAir,Mumbai,London,Passenger_21,Economy,16705.61,Cancelled,UPI,,15.0
+FL1022,2025-03-09,AirAsia,Bangalore,Bangkok,Passenger_22,Economy,12164.81,Delayed,Debit Card,,20.0
+FL1023,2025-12-23,GoAir,Delhi,Singapore,Passenger_23,Economy,16787.91,On-Time,,,25.0
+FL1024,2025-07-17,AirAsia,Delhi,Dubai,Passenger_24,Economy,7484.06,On-Time,,,30.0
+FL1025,2025-10-22,AirAsia,Hyderabad,Paris,Passenger_25,Business,3206.08,Delayed,Credit Card,7.0,25.0
+FL1026,2025-04-14,Vistara,Hyderabad,London,Passenger_26,Business,17190.19,On-Time,Debit Card,7.0,
+FL1027,2025-01-02,Vistara,Chennai,New York,Passenger_27,Business,,Cancelled,Credit Card,,
+FL1028,2025-11-04,Vistara,Delhi,Singapore,Passenger_28,Economy,17322.67,On-Time,UPI,10.0,15.0
+FL1029,2025-02-16,Air India,Delhi,Paris,Passenger_29,Economy,7055.67,Cancelled,,7.0,25.0
+FL1030,2025-05-17,IndiGo,Chennai,Singapore,Passenger_30,First Class,10452.16,Delayed,Credit Card,10.0,20.0
+FL1031,2025-07-19,AirAsia,Mumbai,Paris,Passenger_31,Business,9628.55,Delayed,Debit Card,,
+FL1032,2025-07-01,IndiGo,Bangalore,Dubai,Passenger_32,First Class,15842.63,Delayed,Net Banking,7.0,
+FL1033,2025-05-01,AirAsia,Bangalore,New York,Passenger_33,First Class,10200.14,Delayed,Credit Card,,30.0
+FL1034,2025-02-24,Vistara,Bangalore,Singapore,Passenger_34,Economy,4133.81,Delayed,,10.0,30.0
+FL1035,2025-09-19,AirAsia,Kolkata,Dubai,Passenger_35,First Class,10541.97,On-Time,,10.0,
+FL1036,2025-10-11,AirAsia,Kolkata,London,Passenger_36,First Class,6099.9,Cancelled,,7.0,30.0
+FL1037,2025-02-28,Air India,Kolkata,New York,Passenger_37,Economy,5884.5,On-Time,UPI,10.0,25.0
+FL1038,2025-01-01,GoAir,Hyderabad,London,Passenger_38,Business,4520.83,On-Time,,7.0,20.0
+FL1039,2025-02-08,IndiGo,Delhi,Singapore,Passenger_39,Business,5601.45,On-Time,Net Banking,5.0,
+FL1040,2025-05-24,AirAsia,Kolkata,Paris,Passenger_40,First Class,19784.4,On-Time,,7.0,15.0
+FL1041,2025-01-03,IndiGo,Hyderabad,London,Passenger_41,First Class,17942.26,Cancelled,Credit Card,5.0,30.0
+FL1042,2025-04-20,Air India,Chennai,New York,Passenger_42,Economy,8632.21,On-Time,Net Banking,5.0,30.0
+FL1043,2025-07-09,AirAsia,Chennai,Singapore,Passenger_43,Economy,14975.86,Cancelled,Credit Card,,20.0
+FL1044,2025-01-25,IndiGo,Chennai,Dubai,Passenger_44,First Class,15152.03,On-Time,Net Banking,10.0,15.0
+FL1045,2025-04-08,Air India,Kolkata,New York,Passenger_45,First Class,3348.83,On-Time,Net Banking,,30.0
+FL1046,2025-09-17,Air India,Hyderabad,Singapore,Passenger_46,Economy,11430.98,Delayed,,,25.0
+FL1047,2025-08-17,SpiceJet,Hyderabad,New York,Passenger_47,First Class,13699.86,Delayed,Net Banking,,20.0
+FL1048,2025-01-17,Air India,Delhi,Paris,Passenger_48,First Class,17055.83,On-Time,,5.0,15.0
+FL1049,2025-02-07,Vistara,Mumbai,London,Passenger_49,Business,17433.94,On-Time,Credit Card,5.0,
+FL1050,2025-08-14,Air India,Kolkata,Singapore,Passenger_50,Business,16595.84,Delayed,Debit Card,,
+FL1051,2025-12-28,Air India,Kolkata,Dubai,Passenger_51,Economy,11282.01,On-Time,,,20.0
+FL1052,2025-08-03,Air India,Chennai,Dubai,Passenger_52,Business,19570.63,Cancelled,Credit Card,5.0,25.0
+FL1053,2025-06-18,IndiGo,Delhi,Dubai,Passenger_53,Business,8174.39,On-Time,,5.0,25.0
+FL1054,2025-08-15,Vistara,Kolkata,Singapore,Passenger_54,First Class,13252.36,On-Time,Debit Card,7.0,25.0
+FL1055,2025-12-14,Air India,Chennai,Bangkok,Passenger_55,First Class,7076.41,Cancelled,,7.0,15.0
+FL1056,2025-07-01,SpiceJet,Mumbai,Bangkok,Passenger_56,Economy,16272.2,Delayed,UPI,5.0,25.0
+FL1057,2025-07-16,IndiGo,Delhi,London,Passenger_57,Business,19974.03,On-Time,UPI,7.0,25.0
+FL1058,2025-02-26,SpiceJet,Mumbai,New York,Passenger_58,Economy,12128.92,Cancelled,Net Banking,10.0,15.0
+FL1059,2025-10-24,AirAsia,Kolkata,New York,Passenger_59,Economy,4837.26,On-Time,Debit Card,,
+FL1060,2025-10-13,GoAir,Hyderabad,Singapore,Passenger_60,Economy,11704.97,On-Time,Net Banking,,30.0
+FL1061,2025-07-04,Vistara,Bangalore,New York,Passenger_61,Economy,3694.78,Cancelled,UPI,7.0,30.0
+FL1062,2025-12-17,GoAir,Mumbai,New York,Passenger_62,Business,10993.37,On-Time,Debit Card,5.0,
+FL1063,2025-06-07,Air India,Chennai,London,Passenger_63,Economy,10366.61,Delayed,Credit Card,10.0,
+FL1064,2025-08-02,SpiceJet,Hyderabad,Singapore,Passenger_64,Economy,19873.09,Cancelled,Credit Card,,15.0
+FL1065,2025-03-28,GoAir,Bangalore,London,Passenger_65,Business,3328.62,Cancelled,Net Banking,7.0,20.0
+FL1066,2025-08-05,SpiceJet,Bangalore,Singapore,Passenger_66,Economy,17610.52,Delayed,Credit Card,10.0,15.0
+FL1067,2025-01-19,AirAsia,Hyderabad,Dubai,Passenger_67,Business,8495.86,On-Time,Debit Card,10.0,30.0
+FL1068,2025-05-11,GoAir,Delhi,Singapore,Passenger_68,Business,15628.18,On-Time,Net Banking,5.0,25.0
+FL1069,2025-03-27,SpiceJet,Bangalore,Singapore,Passenger_69,First Class,6854.5,Delayed,Debit Card,7.0,20.0
+FL1070,2025-02-19,SpiceJet,Kolkata,Dubai,Passenger_70,Economy,16499.64,Cancelled,Credit Card,,
+FL1071,2025-10-17,Air India,Chennai,Singapore,Passenger_71,Business,9204.4,On-Time,Credit Card,10.0,15.0
+FL1072,2025-08-25,AirAsia,Chennai,Bangkok,Passenger_72,Economy,,Cancelled,UPI,10.0,15.0
+FL1073,2025-12-06,AirAsia,Bangalore,Paris,Passenger_73,Economy,7356.72,Delayed,Credit Card,7.0,25.0
+FL1074,2025-06-18,Air India,Chennai,Dubai,Passenger_74,Economy,14952.41,Delayed,UPI,5.0,20.0
+FL1075,2025-03-17,AirAsia,Bangalore,Bangkok,Passenger_75,Economy,15414.98,On-Time,,,15.0
+FL1076,2025-07-13,AirAsia,Delhi,Paris,Passenger_76,Economy,6739.34,Cancelled,Net Banking,,25.0
+FL1077,2025-04-15,Vistara,Hyderabad,Paris,Passenger_77,Economy,6656.5,On-Time,UPI,10.0,20.0
+FL1078,2025-03-09,GoAir,Bangalore,Singapore,Passenger_78,First Class,4448.01,Cancelled,Debit Card,,
+FL1079,2025-06-20,AirAsia,Hyderabad,Paris,Passenger_79,Economy,6688.01,Cancelled,,7.0,25.0
+FL1080,2025-03-25,AirAsia,Chennai,New York,Passenger_80,Economy,3645.13,On-Time,UPI,10.0,30.0
+FL1081,2025-10-22,Vistara,Mumbai,New York,Passenger_81,Business,11037.28,On-Time,Net Banking,10.0,
+FL1082,2025-05-07,AirAsia,Chennai,London,Passenger_82,Business,15778.75,Cancelled,,7.0,20.0
+FL1083,2025-04-08,IndiGo,Bangalore,London,Passenger_83,Economy,9611.58,On-Time,Net Banking,5.0,30.0
+FL1084,2025-12-16,SpiceJet,Mumbai,New York,Passenger_84,First Class,12481.75,On-Time,UPI,5.0,30.0
+FL1085,2025-03-26,Air India,Chennai,Bangkok,Passenger_85,Business,6953.35,Cancelled,,,
+FL1086,2025-08-19,Air India,Kolkata,New York,Passenger_86,First Class,6617.11,Delayed,Net Banking,,25.0
+FL1087,2025-05-24,Vistara,Kolkata,Paris,Passenger_87,First Class,5857.42,Cancelled,,5.0,20.0
+FL1088,2025-08-23,IndiGo,Kolkata,Dubai,Passenger_88,Economy,11757.34,Cancelled,Debit Card,5.0,15.0
+FL1089,2025-09-24,IndiGo,Mumbai,New York,Passenger_89,Business,10490.49,Delayed,Net Banking,10.0,
+FL1090,2025-07-10,AirAsia,Mumbai,Paris,Passenger_90,Business,16454.41,Cancelled,Net Banking,5.0,25.0
+FL1091,2025-06-09,Vistara,Chennai,Singapore,Passenger_91,First Class,19901.52,Cancelled,,,15.0
+FL1092,2025-03-25,Vistara,Delhi,New York,Passenger_92,First Class,10536.33,On-Time,UPI,10.0,
+FL1093,2025-08-07,GoAir,Delhi,Singapore,Passenger_93,First Class,17076.45,On-Time,,,25.0
+FL1094,2025-09-19,AirAsia,Mumbai,London,Passenger_94,First Class,3534.88,Cancelled,Net Banking,,25.0
+FL1095,2025-10-01,AirAsia,Delhi,Dubai,Passenger_95,Business,6224.4,Delayed,UPI,7.0,20.0
+FL1096,2025-05-21,IndiGo,Hyderabad,Singapore,Passenger_96,First Class,14736.82,Cancelled,,10.0,30.0
+FL1097,2025-05-07,SpiceJet,Mumbai,New York,Passenger_97,First Class,7734.19,Delayed,UPI,10.0,30.0
+FL1098,2025-03-06,Air India,Bangalore,London,Passenger_98,Economy,7426.15,On-Time,Debit Card,,
+FL1099,2025-04-17,IndiGo,Hyderabad,Dubai,Passenger_99,Economy,16303.93,On-Time,Debit Card,10.0,30.0
+FL1100,2025-01-18,AirAsia,Delhi,Paris,Passenger_100,Business,17685.9,Delayed,Credit Card,5.0,15.0
+FL1101,2025-02-12,Air India,Delhi,Singapore,Passenger_101,Economy,12628.59,On-Time,Net Banking,10.0,25.0
+FL1102,2025-07-05,IndiGo,Chennai,Dubai,Passenger_102,Economy,5773.38,On-Time,Credit Card,10.0,15.0
+FL1103,2025-10-08,Vistara,Bangalore,Bangkok,Passenger_103,First Class,16229.52,On-Time,UPI,,20.0
+FL1104,2025-05-17,IndiGo,Bangalore,Bangkok,Passenger_104,Business,17231.38,Cancelled,Debit Card,,30.0
+FL1105,2025-05-09,AirAsia,Delhi,Bangkok,Passenger_105,Business,5038.68,On-Time,Credit Card,5.0,20.0
+FL1106,2025-11-19,GoAir,Chennai,New York,Passenger_106,First Class,12297.08,On-Time,Credit Card,7.0,20.0
+FL1107,2025-08-23,IndiGo,Bangalore,London,Passenger_107,First Class,6777.41,Cancelled,Debit Card,7.0,15.0
+FL1108,2025-09-18,IndiGo,Chennai,London,Passenger_108,First Class,6742.71,Cancelled,Debit Card,7.0,25.0
+FL1109,2025-12-23,AirAsia,Delhi,Bangkok,Passenger_109,Business,15841.19,On-Time,,,20.0
+FL1110,2025-03-17,AirAsia,Bangalore,London,Passenger_110,Business,,Cancelled,UPI,10.0,15.0
+FL1111,2025-03-09,Air India,Hyderabad,Singapore,Passenger_111,Business,,On-Time,,,
+FL1112,2025-07-11,GoAir,Delhi,Bangkok,Passenger_112,Economy,3758.21,Delayed,,7.0,20.0
+FL1113,2025-09-04,SpiceJet,Bangalore,Bangkok,Passenger_113,First Class,6999.34,Delayed,UPI,7.0,25.0
+FL1114,2025-12-27,GoAir,Bangalore,Singapore,Passenger_114,First Class,3447.14,Delayed,Debit Card,,20.0
+FL1115,2025-10-08,Vistara,Chennai,Dubai,Passenger_115,First Class,10524.84,Cancelled,Credit Card,7.0,25.0
+FL1116,2025-12-28,GoAir,Delhi,London,Passenger_116,Business,18899.76,On-Time,Credit Card,7.0,30.0
+FL1117,2025-10-05,GoAir,Bangalore,Dubai,Passenger_117,Economy,8967.07,Delayed,Credit Card,10.0,30.0
+FL1118,2025-08-09,AirAsia,Mumbai,New York,Passenger_118,First Class,13525.25,Delayed,Debit Card,,
+FL1119,2025-01-09,IndiGo,Delhi,Paris,Passenger_119,First Class,19888.58,Cancelled,UPI,10.0,20.0
+FL1120,2025-03-06,Vistara,Kolkata,New York,Passenger_120,First Class,17409.67,On-Time,Credit Card,7.0,25.0
+FL1121,2025-10-17,AirAsia,Chennai,London,Passenger_121,Business,14528.79,Cancelled,Debit Card,7.0,
+FL1122,2025-09-04,SpiceJet,Hyderabad,Dubai,Passenger_122,Business,12505.94,Cancelled,Debit Card,7.0,
+FL1123,2025-10-06,Vistara,Kolkata,New York,Passenger_123,Business,7516.26,Delayed,Debit Card,7.0,
+FL1124,2025-01-08,Vistara,Mumbai,Dubai,Passenger_124,First Class,14779.04,Cancelled,Debit Card,,
+FL1125,2025-02-21,IndiGo,Chennai,Paris,Passenger_125,Economy,16447.87,Delayed,Credit Card,,25.0
+FL1126,2025-03-16,IndiGo,Delhi,New York,Passenger_126,Economy,4682.29,On-Time,Credit Card,7.0,20.0
+FL1127,2025-04-21,SpiceJet,Kolkata,London,Passenger_127,Business,3599.77,Delayed,Net Banking,5.0,15.0
+FL1128,2025-09-03,AirAsia,Bangalore,Bangkok,Passenger_128,Business,12382.79,On-Time,,5.0,20.0
+FL1129,2025-04-11,AirAsia,Delhi,Singapore,Passenger_129,Business,14722.14,Delayed,Debit Card,7.0,30.0
+FL1130,2025-01-19,Air India,Bangalore,Paris,Passenger_130,Business,8210.17,Cancelled,Credit Card,10.0,30.0
+FL1131,2025-09-12,IndiGo,Chennai,New York,Passenger_131,Economy,14929.37,Delayed,UPI,5.0,20.0
+FL1132,2025-11-13,Vistara,Bangalore,Bangkok,Passenger_132,First Class,,On-Time,Debit Card,10.0,30.0
+FL1133,2025-11-21,Vistara,Chennai,Dubai,Passenger_133,Economy,9183.67,On-Time,Credit Card,10.0,15.0
+FL1134,2025-10-09,Vistara,Kolkata,New York,Passenger_134,Business,19482.37,On-Time,Credit Card,10.0,
+FL1135,2025-03-19,SpiceJet,Hyderabad,Bangkok,Passenger_135,First Class,7052.81,On-Time,Net Banking,7.0,30.0
+FL1136,2025-06-01,IndiGo,Delhi,Singapore,Passenger_136,Economy,5574.11,Delayed,Net Banking,5.0,
+FL1137,2025-06-19,IndiGo,Mumbai,Dubai,Passenger_137,Business,8827.54,On-Time,Credit Card,10.0,15.0
+FL1138,2025-08-19,SpiceJet,Mumbai,Dubai,Passenger_138,Economy,6124.59,On-Time,UPI,7.0,30.0
+FL1139,2025-12-02,IndiGo,Delhi,Dubai,Passenger_139,First Class,3803.42,Delayed,,10.0,25.0
+FL1140,2025-09-25,Vistara,Kolkata,London,Passenger_140,Business,3352.67,Cancelled,,7.0,30.0
+FL1141,2025-12-22,AirAsia,Delhi,Dubai,Passenger_141,First Class,18181.74,Cancelled,,7.0,30.0
+FL1142,2025-04-28,AirAsia,Mumbai,New York,Passenger_142,Business,12456.25,Delayed,UPI,5.0,
+FL1143,2025-02-12,GoAir,Hyderabad,New York,Passenger_143,Economy,14689.32,On-Time,Net Banking,10.0,25.0
+FL1144,2025-02-28,Vistara,Mumbai,Paris,Passenger_144,Economy,17793.87,Cancelled,Debit Card,5.0,
+FL1145,2025-11-15,SpiceJet,Bangalore,Dubai,Passenger_145,Economy,13006.1,Delayed,UPI,7.0,
+FL1146,2025-11-18,GoAir,Hyderabad,Paris,Passenger_146,First Class,19211.86,On-Time,Credit Card,7.0,15.0
+FL1147,2025-12-28,SpiceJet,Delhi,Singapore,Passenger_147,First Class,6811.73,Delayed,,5.0,25.0
+FL1148,2025-01-13,Air India,Kolkata,London,Passenger_148,Business,,On-Time,UPI,5.0,
+FL1149,2025-02-20,Air India,Chennai,New York,Passenger_149,Economy,3597.81,Delayed,Net Banking,5.0,30.0
+FL1150,2025-05-22,IndiGo,Hyderabad,London,Passenger_150,First Class,16895.41,Cancelled,Debit Card,5.0,20.0
+FL1151,2025-04-01,Air India,Kolkata,Singapore,Passenger_151,Business,11312.03,Delayed,Net Banking,7.0,30.0
+FL1152,2025-01-05,AirAsia,Mumbai,Paris,Passenger_152,Business,10738.57,On-Time,Net Banking,10.0,15.0
+FL1153,2025-11-14,GoAir,Kolkata,Singapore,Passenger_153,Business,4571.42,On-Time,,7.0,30.0
+FL1154,2025-02-03,IndiGo,Mumbai,New York,Passenger_154,Business,18544.3,Delayed,,,30.0
+FL1155,2025-09-11,Vistara,Delhi,Bangkok,Passenger_155,Business,17137.08,Cancelled,UPI,10.0,15.0
+FL1156,2025-03-16,SpiceJet,Bangalore,Bangkok,Passenger_156,First Class,16547.02,Cancelled,Debit Card,10.0,20.0
+FL1157,2025-06-13,SpiceJet,Delhi,Paris,Passenger_157,Business,9715.69,Delayed,,,30.0
+FL1158,2025-02-01,Vistara,Hyderabad,Dubai,Passenger_158,Economy,15579.41,Cancelled,Net Banking,10.0,15.0
+FL1159,2025-06-09,Vistara,Bangalore,Bangkok,Passenger_159,Economy,3485.25,Cancelled,,5.0,20.0
+FL1160,2025-07-12,GoAir,Chennai,Dubai,Passenger_160,Business,6176.47,Delayed,UPI,7.0,30.0
+FL1161,2025-06-20,IndiGo,Kolkata,Paris,Passenger_161,Economy,12139.68,Cancelled,,,30.0
+FL1162,2025-06-27,AirAsia,Bangalore,New York,Passenger_162,Business,15013.83,On-Time,Net Banking,5.0,15.0
+FL1163,2025-06-28,IndiGo,Chennai,Bangkok,Passenger_163,First Class,18426.16,Cancelled,Debit Card,10.0,
+FL1164,2025-01-11,GoAir,Bangalore,London,Passenger_164,First Class,4062.12,Delayed,,7.0,
+FL1165,2025-04-11,Vistara,Kolkata,New York,Passenger_165,Business,12863.75,Delayed,Net Banking,,20.0
+FL1166,2025-12-06,GoAir,Bangalore,Bangkok,Passenger_166,Business,19407.6,Cancelled,UPI,,20.0
+FL1167,2025-06-08,Vistara,Bangalore,Singapore,Passenger_167,Economy,17509.31,On-Time,Net Banking,10.0,25.0
+FL1168,2025-03-10,AirAsia,Bangalore,Dubai,Passenger_168,Business,16047.27,Delayed,UPI,10.0,30.0
+FL1169,2025-08-04,GoAir,Chennai,Paris,Passenger_169,Business,5555.26,Delayed,Net Banking,7.0,
+FL1170,2025-08-18,AirAsia,Bangalore,Bangkok,Passenger_170,Business,,On-Time,Debit Card,5.0,
+FL1171,2025-01-22,Vistara,Mumbai,Bangkok,Passenger_171,Economy,13683.36,Delayed,Net Banking,5.0,15.0
+FL1172,2025-12-28,GoAir,Mumbai,Singapore,Passenger_172,Business,17441.53,On-Time,UPI,,
+FL1173,2025-11-03,Air India,Mumbai,Singapore,Passenger_173,Economy,3434.97,Cancelled,Debit Card,10.0,15.0
+FL1174,2025-04-06,Vistara,Kolkata,Bangkok,Passenger_174,Business,,Cancelled,Debit Card,7.0,15.0
+FL1175,2025-07-08,SpiceJet,Kolkata,London,Passenger_175,Economy,3277.38,Cancelled,,,
+FL1176,2025-01-18,IndiGo,Chennai,Bangkok,Passenger_176,First Class,9285.52,Cancelled,Debit Card,,25.0
+FL1177,2025-11-25,IndiGo,Delhi,Bangkok,Passenger_177,Economy,18975.68,On-Time,UPI,10.0,20.0
+FL1178,2025-08-21,AirAsia,Chennai,Paris,Passenger_178,First Class,12319.1,Cancelled,UPI,,25.0
+FL1179,2025-01-03,Vistara,Hyderabad,Paris,Passenger_179,Economy,17399.55,Cancelled,Credit Card,7.0,30.0
+FL1180,2025-02-20,AirAsia,Chennai,Singapore,Passenger_180,Business,18751.16,Cancelled,,10.0,
+FL1181,2025-02-14,SpiceJet,Hyderabad,London,Passenger_181,Business,13979.43,On-Time,Credit Card,,20.0
+FL1182,2025-01-17,Vistara,Hyderabad,Singapore,Passenger_182,First Class,6110.47,On-Time,UPI,7.0,15.0
+FL1183,2025-06-28,SpiceJet,Mumbai,London,Passenger_183,Business,18746.35,On-Time,Debit Card,7.0,25.0
+FL1184,2025-08-11,Vistara,Kolkata,Singapore,Passenger_184,Business,15020.93,On-Time,UPI,5.0,25.0
+FL1185,2025-04-11,SpiceJet,Mumbai,London,Passenger_185,Economy,17523.63,Delayed,UPI,,25.0
+FL1186,2025-12-25,GoAir,Bangalore,Dubai,Passenger_186,Economy,9454.6,On-Time,Credit Card,5.0,
+FL1187,2025-10-07,IndiGo,Hyderabad,New York,Passenger_187,Economy,16345.38,Delayed,Net Banking,5.0,20.0
+FL1188,2025-09-05,Vistara,Kolkata,Paris,Passenger_188,Business,8264.62,Cancelled,Net Banking,,20.0
+FL1189,2025-04-03,IndiGo,Chennai,London,Passenger_189,First Class,16450.77,On-Time,Credit Card,10.0,30.0
+FL1190,2025-11-20,IndiGo,Chennai,Dubai,Passenger_190,Economy,13516.66,Cancelled,Debit Card,5.0,25.0
+FL1191,2025-08-12,SpiceJet,Kolkata,Paris,Passenger_191,Economy,16691.35,Cancelled,UPI,,25.0
+FL1192,2025-08-19,GoAir,Bangalore,Singapore,Passenger_192,Business,9370.42,Cancelled,Net Banking,10.0,30.0
+FL1193,2025-03-16,Air India,Kolkata,Dubai,Passenger_193,First Class,11008.38,On-Time,Credit Card,,20.0
+FL1194,2025-02-07,AirAsia,Chennai,Bangkok,Passenger_194,First Class,19064.97,On-Time,UPI,,15.0
+FL1195,2025-08-20,Vistara,Mumbai,London,Passenger_195,Business,11534.53,On-Time,Debit Card,,30.0
+FL1196,2025-05-06,Vistara,Delhi,Singapore,Passenger_196,Business,17636.39,On-Time,Debit Card,7.0,20.0
+FL1197,2025-04-21,Air India,Mumbai,Dubai,Passenger_197,First Class,8939.22,On-Time,Debit Card,10.0,15.0
+FL1198,2025-01-22,IndiGo,Mumbai,New York,Passenger_198,Business,3785.33,Delayed,Net Banking,7.0,25.0
+FL1199,2025-11-24,AirAsia,Chennai,London,Passenger_199,First Class,18937.83,Cancelled,UPI,5.0,15.0
+FL1200,2025-03-01,IndiGo,Hyderabad,New York,Passenger_200,Business,4468.1,Delayed,,,25.0
+FL1201,2025-09-23,IndiGo,Delhi,Paris,Passenger_201,First Class,19782.25,Delayed,,7.0,30.0
+FL1202,2025-05-27,SpiceJet,Chennai,Singapore,Passenger_202,Business,17625.15,On-Time,Net Banking,5.0,20.0
+FL1203,2025-01-14,AirAsia,Mumbai,Dubai,Passenger_203,First Class,15732.78,Cancelled,Credit Card,,
+FL1204,2025-05-10,Vistara,Hyderabad,London,Passenger_204,First Class,8083.56,On-Time,Credit Card,5.0,25.0
+FL1205,2025-09-24,SpiceJet,Delhi,London,Passenger_205,Economy,16747.06,On-Time,Debit Card,5.0,25.0
+FL1206,2025-05-28,GoAir,Delhi,Paris,Passenger_206,First Class,13656.69,Delayed,Credit Card,10.0,30.0
+FL1207,2025-07-11,SpiceJet,Chennai,Singapore,Passenger_207,Business,,Cancelled,Net Banking,,15.0
+FL1208,2025-09-24,GoAir,Kolkata,Paris,Passenger_208,Business,14314.74,Cancelled,Debit Card,7.0,
+FL1209,2025-08-22,Air India,Bangalore,Bangkok,Passenger_209,Economy,15093.39,Delayed,Debit Card,,
+FL1210,2025-03-24,Air India,Bangalore,Paris,Passenger_210,Business,13082.3,Cancelled,UPI,7.0,
+FL1211,2025-06-10,Vistara,Mumbai,Bangkok,Passenger_211,First Class,6483.92,Cancelled,Debit Card,5.0,20.0
+FL1212,2025-12-23,Vistara,Hyderabad,Bangkok,Passenger_212,First Class,6734.84,Delayed,,10.0,25.0
+FL1213,2025-03-22,AirAsia,Hyderabad,Bangkok,Passenger_213,Business,11562.89,Delayed,Debit Card,,15.0
+FL1214,2025-05-07,GoAir,Delhi,Dubai,Passenger_214,Economy,10199.35,Delayed,Credit Card,7.0,25.0
+FL1215,2025-04-09,IndiGo,Kolkata,Paris,Passenger_215,First Class,19325.57,Cancelled,Debit Card,,30.0
+FL1216,2025-11-24,SpiceJet,Kolkata,London,Passenger_216,Business,5688.7,Cancelled,Credit Card,,15.0
+FL1217,2025-08-27,SpiceJet,Delhi,London,Passenger_217,Economy,19418.92,On-Time,Debit Card,5.0,25.0
+FL1218,2025-07-08,SpiceJet,Chennai,Paris,Passenger_218,First Class,16852.63,Cancelled,UPI,10.0,25.0
+FL1219,2025-09-15,AirAsia,Chennai,Dubai,Passenger_219,First Class,5115.64,Cancelled,,,20.0
+FL1220,2025-10-03,GoAir,Bangalore,Paris,Passenger_220,Business,12112.29,On-Time,Net Banking,5.0,
+FL1221,2025-05-23,SpiceJet,Bangalore,Singapore,Passenger_221,Economy,16794.95,On-Time,UPI,,25.0
+FL1222,2025-05-21,Vistara,Chennai,Dubai,Passenger_222,Economy,6838.4,On-Time,UPI,10.0,
+FL1223,2025-11-07,AirAsia,Kolkata,Singapore,Passenger_223,Economy,14237.66,Cancelled,Debit Card,,25.0
+FL1224,2025-10-25,Air India,Delhi,Singapore,Passenger_224,Business,18568.56,Cancelled,,10.0,30.0
+FL1225,2025-07-09,AirAsia,Chennai,New York,Passenger_225,First Class,4644.49,Cancelled,Credit Card,,
+FL1226,2025-01-16,SpiceJet,Kolkata,Dubai,Passenger_226,First Class,19906.98,Delayed,UPI,5.0,
+FL1227,2025-09-22,Vistara,Hyderabad,Bangkok,Passenger_227,Economy,15928.14,Cancelled,Net Banking,7.0,15.0
+FL1228,2025-02-24,IndiGo,Bangalore,Paris,Passenger_228,First Class,9557.53,On-Time,UPI,7.0,25.0
+FL1229,2025-08-23,SpiceJet,Bangalore,Paris,Passenger_229,First Class,10822.22,Delayed,UPI,7.0,30.0
+FL1230,2025-10-23,SpiceJet,Mumbai,London,Passenger_230,Economy,9901.48,Delayed,Debit Card,,
+FL1231,2025-03-01,IndiGo,Mumbai,Bangkok,Passenger_231,Economy,13664.46,Delayed,,10.0,15.0
+FL1232,2025-06-19,AirAsia,Hyderabad,Bangkok,Passenger_232,Economy,7646.36,Delayed,Net Banking,5.0,
+FL1233,2025-04-17,GoAir,Chennai,Bangkok,Passenger_233,Business,11634.54,Cancelled,UPI,,25.0
+FL1234,2025-10-06,GoAir,Mumbai,Paris,Passenger_234,First Class,10094.21,Cancelled,Debit Card,7.0,15.0
+FL1235,2025-11-22,SpiceJet,Hyderabad,New York,Passenger_235,Economy,14565.82,On-Time,UPI,5.0,
+FL1236,2025-08-06,Vistara,Hyderabad,Paris,Passenger_236,Business,16671.56,Delayed,,7.0,25.0
+FL1237,2025-07-21,GoAir,Chennai,Singapore,Passenger_237,Economy,14286.36,Delayed,Debit Card,5.0,25.0
+FL1238,2025-11-20,Air India,Kolkata,New York,Passenger_238,First Class,18686.76,Cancelled,Credit Card,5.0,20.0
+FL1239,2025-06-19,AirAsia,Delhi,Dubai,Passenger_239,Business,5296.72,On-Time,Debit Card,5.0,
+FL1240,2025-01-16,AirAsia,Mumbai,Paris,Passenger_240,Economy,19695.37,Cancelled,,5.0,25.0
+FL1241,2025-06-17,IndiGo,Chennai,New York,Passenger_241,Business,,Cancelled,,,20.0
+FL1242,2025-03-18,SpiceJet,Bangalore,New York,Passenger_242,First Class,6260.94,Delayed,Net Banking,10.0,20.0
+FL1243,2025-07-28,Vistara,Mumbai,Paris,Passenger_243,Business,16489.67,Delayed,Net Banking,,25.0
+FL1244,2025-08-10,Air India,Delhi,Paris,Passenger_244,Economy,19035.64,Cancelled,UPI,10.0,
+FL1245,2025-02-28,Vistara,Chennai,Dubai,Passenger_245,Business,,On-Time,Credit Card,10.0,20.0
+FL1246,2025-01-06,Air India,Chennai,Bangkok,Passenger_246,Economy,10587.57,Cancelled,Credit Card,5.0,25.0
+FL1247,2025-02-20,SpiceJet,Kolkata,Paris,Passenger_247,Economy,13524.49,On-Time,Debit Card,5.0,15.0
+FL1248,2025-01-21,IndiGo,Delhi,London,Passenger_248,Economy,9465.46,Cancelled,,,
+FL1249,2025-11-12,Air India,Hyderabad,Bangkok,Passenger_249,First Class,9902.31,Cancelled,,5.0,
+FL1250,2025-12-01,Vistara,Bangalore,Dubai,Passenger_250,Business,11708.75,On-Time,Debit Card,10.0,20.0
+FL1251,2025-04-15,AirAsia,Hyderabad,Paris,Passenger_251,Economy,6888.32,On-Time,Credit Card,,30.0
+FL1252,2025-07-03,Vistara,Bangalore,New York,Passenger_252,Economy,4422.14,Delayed,,,30.0
+FL1253,2025-03-07,Air India,Hyderabad,Dubai,Passenger_253,Economy,9134.07,Delayed,UPI,7.0,20.0
+FL1254,2025-07-16,AirAsia,Kolkata,Paris,Passenger_254,Business,18932.48,Delayed,UPI,7.0,30.0
+FL1255,2025-07-09,Vistara,Kolkata,New York,Passenger_255,First Class,,Cancelled,,5.0,
+FL1256,2025-02-17,SpiceJet,Hyderabad,Paris,Passenger_256,First Class,13931.84,Cancelled,Net Banking,,20.0
+FL1257,2025-12-14,AirAsia,Hyderabad,Paris,Passenger_257,Economy,17812.08,Cancelled,Credit Card,7.0,20.0
+FL1258,2025-09-06,AirAsia,Delhi,Dubai,Passenger_258,Economy,14870.22,Delayed,Net Banking,,25.0
+FL1259,2025-02-04,SpiceJet,Hyderabad,Dubai,Passenger_259,Business,17099.73,Delayed,UPI,10.0,
+FL1260,2025-08-22,SpiceJet,Delhi,London,Passenger_260,Economy,5067.8,Delayed,,7.0,25.0
+FL1261,2025-10-08,Air India,Hyderabad,Dubai,Passenger_261,Business,5019.69,Delayed,Net Banking,,15.0
+FL1262,2025-05-12,AirAsia,Bangalore,Dubai,Passenger_262,First Class,13019.48,Cancelled,,10.0,20.0
+FL1263,2025-07-07,GoAir,Kolkata,Bangkok,Passenger_263,First Class,,Delayed,Net Banking,,20.0
+FL1264,2025-08-27,SpiceJet,Bangalore,London,Passenger_264,First Class,15367.66,On-Time,Credit Card,10.0,15.0
+FL1265,2025-01-26,SpiceJet,Delhi,London,Passenger_265,Economy,,On-Time,UPI,5.0,
+FL1266,2025-05-28,Vistara,Bangalore,Dubai,Passenger_266,First Class,,Cancelled,UPI,10.0,20.0
+FL1267,2025-10-25,SpiceJet,Mumbai,Singapore,Passenger_267,First Class,12512.7,Delayed,UPI,10.0,15.0
+FL1268,2025-01-13,AirAsia,Kolkata,Bangkok,Passenger_268,Economy,7991.49,On-Time,Net Banking,5.0,15.0
+FL1269,2025-12-03,GoAir,Kolkata,Dubai,Passenger_269,Business,10671.86,On-Time,Credit Card,7.0,30.0
+FL1270,2025-05-24,Air India,Kolkata,Dubai,Passenger_270,Economy,6847.06,Delayed,Debit Card,7.0,25.0
+FL1271,2025-07-01,Air India,Chennai,Dubai,Passenger_271,First Class,15658.44,Delayed,UPI,,
+FL1272,2025-11-13,GoAir,Mumbai,London,Passenger_272,Business,10754.53,Delayed,Debit Card,,20.0
+FL1273,2025-06-07,GoAir,Bangalore,Singapore,Passenger_273,Business,10023.6,Delayed,UPI,5.0,25.0
+FL1274,2025-02-05,SpiceJet,Delhi,London,Passenger_274,Business,4453.9,On-Time,UPI,,
+FL1275,2025-11-09,Vistara,Chennai,Singapore,Passenger_275,First Class,5563.51,On-Time,UPI,10.0,15.0
+FL1276,2025-10-21,GoAir,Delhi,New York,Passenger_276,First Class,18049.11,Delayed,,7.0,20.0
+FL1277,2025-09-17,IndiGo,Bangalore,Paris,Passenger_277,Business,11989.06,Cancelled,,,
+FL1278,2025-04-27,GoAir,Mumbai,Singapore,Passenger_278,Economy,13111.97,On-Time,Credit Card,7.0,
+FL1279,2025-11-26,Air India,Mumbai,Singapore,Passenger_279,Economy,12768.98,Delayed,,7.0,30.0
+FL1280,2025-04-14,GoAir,Chennai,Dubai,Passenger_280,First Class,10501.72,Cancelled,Credit Card,7.0,15.0
+FL1281,2025-07-28,Vistara,Kolkata,London,Passenger_281,First Class,16451.97,Cancelled,UPI,7.0,
+FL1282,2025-09-04,SpiceJet,Kolkata,Dubai,Passenger_282,Business,18271.65,Cancelled,UPI,5.0,15.0
+FL1283,2025-06-21,IndiGo,Mumbai,Paris,Passenger_283,Business,11498.58,Delayed,Credit Card,,
+FL1284,2025-04-10,Air India,Kolkata,London,Passenger_284,Business,8208.76,Delayed,Net Banking,7.0,30.0
+FL1285,2025-08-10,Air India,Kolkata,New York,Passenger_285,Business,9280.61,On-Time,UPI,,30.0
+FL1286,2025-09-04,Air India,Bangalore,New York,Passenger_286,Economy,4049.69,Cancelled,Debit Card,10.0,15.0
+FL1287,2025-03-05,Air India,Delhi,Bangkok,Passenger_287,First Class,17280.86,On-Time,UPI,,15.0
+FL1288,2025-08-12,GoAir,Delhi,New York,Passenger_288,Business,15671.56,Cancelled,,10.0,15.0
+FL1289,2025-09-26,Air India,Chennai,New York,Passenger_289,Business,14801.33,Cancelled,Debit Card,10.0,15.0
+FL1290,2025-10-12,Air India,Chennai,Bangkok,Passenger_290,Economy,10928.11,Delayed,,10.0,25.0
+FL1291,2025-11-07,GoAir,Delhi,Dubai,Passenger_291,First Class,13611.81,Delayed,UPI,7.0,25.0
+FL1292,2025-04-12,Vistara,Chennai,Dubai,Passenger_292,First Class,16954.27,Delayed,,5.0,
+FL1293,2025-10-26,IndiGo,Bangalore,Dubai,Passenger_293,Economy,7628.12,On-Time,Credit Card,,15.0
+FL1294,2025-12-25,SpiceJet,Delhi,London,Passenger_294,Business,9393.71,Delayed,,7.0,30.0
+FL1295,2025-03-19,Air India,Hyderabad,London,Passenger_295,First Class,12419.46,On-Time,Credit Card,10.0,
+FL1296,2025-08-12,AirAsia,Chennai,Singapore,Passenger_296,First Class,18124.61,Delayed,Credit Card,5.0,30.0
+FL1297,2025-07-07,GoAir,Bangalore,London,Passenger_297,Business,18485.87,Cancelled,Net Banking,,
+FL1298,2025-05-17,IndiGo,Bangalore,Paris,Passenger_298,Economy,7574.04,On-Time,Credit Card,10.0,30.0
+FL1299,2025-06-08,GoAir,Bangalore,Paris,Passenger_299,Business,12291.39,Cancelled,Debit Card,5.0,
+FL1300,2025-07-26,GoAir,Chennai,London,Passenger_300,Economy,4212.42,On-Time,,5.0,15.0
+FL1301,2025-12-27,AirAsia,Chennai,New York,Passenger_301,Economy,3508.29,On-Time,UPI,7.0,
+FL1302,2025-09-18,IndiGo,Delhi,Paris,Passenger_302,First Class,6633.73,Cancelled,UPI,10.0,
+FL1303,2025-06-11,GoAir,Kolkata,London,Passenger_303,First Class,16715.65,On-Time,Debit Card,10.0,20.0
+FL1304,2025-12-03,Air India,Delhi,New York,Passenger_304,Business,4686.76,Cancelled,,,
+FL1305,2025-03-25,IndiGo,Hyderabad,Dubai,Passenger_305,Economy,16799.53,On-Time,UPI,,20.0
+FL1306,2025-12-11,AirAsia,Chennai,London,Passenger_306,First Class,4209.51,Cancelled,,,30.0
+FL1307,2025-10-27,Vistara,Bangalore,Singapore,Passenger_307,Business,,Cancelled,Debit Card,,
+FL1308,2025-09-06,AirAsia,Hyderabad,New York,Passenger_308,Economy,10376.6,Cancelled,UPI,10.0,25.0
+FL1309,2025-07-27,AirAsia,Mumbai,Bangkok,Passenger_309,Economy,6843.58,Delayed,Debit Card,,15.0
+FL1310,2025-01-23,GoAir,Bangalore,Paris,Passenger_310,Economy,10035.65,Delayed,,10.0,30.0
+FL1311,2025-10-04,SpiceJet,Delhi,Paris,Passenger_311,First Class,12946.08,Cancelled,,,30.0
+FL1312,2025-10-01,Air India,Mumbai,London,Passenger_312,Economy,18921.63,On-Time,,7.0,
+FL1313,2025-12-11,AirAsia,Hyderabad,Singapore,Passenger_313,Business,17154.58,On-Time,,5.0,
+FL1314,2025-11-09,Air India,Delhi,Bangkok,Passenger_314,Economy,11331.13,Cancelled,,,20.0
+FL1315,2025-11-16,Air India,Hyderabad,Paris,Passenger_315,Business,4038.09,On-Time,Debit Card,5.0,15.0
+FL1316,2025-05-03,SpiceJet,Kolkata,Singapore,Passenger_316,First Class,6379.47,On-Time,Credit Card,7.0,
+FL1317,2025-09-08,Vistara,Hyderabad,Paris,Passenger_317,First Class,13568.89,On-Time,Net Banking,,25.0
+FL1318,2025-02-15,IndiGo,Chennai,Singapore,Passenger_318,Business,14976.46,On-Time,Debit Card,7.0,15.0
+FL1319,2025-01-10,IndiGo,Mumbai,London,Passenger_319,First Class,7982.95,Cancelled,Credit Card,5.0,15.0
+FL1320,2025-06-07,GoAir,Chennai,Dubai,Passenger_320,Economy,14735.14,Delayed,Credit Card,10.0,15.0
+FL1321,2025-02-09,SpiceJet,Delhi,Singapore,Passenger_321,Economy,19848.14,Cancelled,Net Banking,10.0,15.0
+FL1322,2025-09-08,Vistara,Hyderabad,Singapore,Passenger_322,First Class,10076.94,On-Time,Credit Card,7.0,20.0
+FL1323,2025-02-27,AirAsia,Hyderabad,Singapore,Passenger_323,First Class,10081.71,Cancelled,Debit Card,7.0,30.0
+FL1324,2025-03-16,GoAir,Hyderabad,Dubai,Passenger_324,Business,17576.25,Cancelled,Debit Card,10.0,25.0
+FL1325,2025-06-06,Vistara,Delhi,Bangkok,Passenger_325,Business,5246.12,Delayed,Credit Card,7.0,25.0
+FL1326,2025-10-01,Air India,Bangalore,Dubai,Passenger_326,Business,14098.5,Cancelled,Credit Card,10.0,25.0
+FL1327,2025-04-12,SpiceJet,Hyderabad,Paris,Passenger_327,Business,6925.84,Delayed,Debit Card,5.0,30.0
+FL1328,2025-06-03,IndiGo,Bangalore,New York,Passenger_328,First Class,8547.58,Delayed,UPI,5.0,
+FL1329,2025-08-07,Air India,Mumbai,London,Passenger_329,First Class,15379.11,Delayed,Net Banking,10.0,30.0
+FL1330,2025-02-10,IndiGo,Mumbai,Paris,Passenger_330,First Class,8784.25,Cancelled,Net Banking,7.0,20.0
+FL1331,2025-09-11,AirAsia,Chennai,Paris,Passenger_331,First Class,11851.79,On-Time,Debit Card,5.0,20.0
+FL1332,2025-03-27,SpiceJet,Bangalore,London,Passenger_332,Economy,8021.57,Delayed,Debit Card,10.0,25.0
+FL1333,2025-10-03,GoAir,Chennai,Dubai,Passenger_333,First Class,10957.58,On-Time,,10.0,30.0
+FL1334,2025-09-08,Vistara,Hyderabad,Bangkok,Passenger_334,First Class,14643.36,Delayed,,,30.0
+FL1335,2025-09-07,IndiGo,Hyderabad,Singapore,Passenger_335,First Class,16930.02,Cancelled,,5.0,25.0
+FL1336,2025-08-15,SpiceJet,Bangalore,London,Passenger_336,Business,7400.51,On-Time,Net Banking,,20.0
+FL1337,2025-02-13,AirAsia,Chennai,New York,Passenger_337,First Class,8007.19,Delayed,Credit Card,,30.0
+FL1338,2025-02-18,GoAir,Hyderabad,Bangkok,Passenger_338,Business,19324.46,On-Time,Credit Card,5.0,15.0
+FL1339,2025-03-20,Vistara,Bangalore,New York,Passenger_339,First Class,11366.31,Cancelled,,5.0,15.0
+FL1340,2025-04-05,SpiceJet,Hyderabad,Paris,Passenger_340,Business,13404.86,Cancelled,,5.0,20.0
+FL1341,2025-04-18,IndiGo,Delhi,Dubai,Passenger_341,First Class,6575.59,On-Time,Debit Card,5.0,
+FL1342,2025-05-22,GoAir,Chennai,London,Passenger_342,First Class,11216.94,Cancelled,UPI,10.0,30.0
+FL1343,2025-01-18,AirAsia,Kolkata,Bangkok,Passenger_343,Business,17774.88,Delayed,Credit Card,10.0,
+FL1344,2025-10-21,SpiceJet,Mumbai,London,Passenger_344,Business,5037.52,On-Time,Credit Card,5.0,15.0
+FL1345,2025-11-04,GoAir,Kolkata,Singapore,Passenger_345,Economy,17656.37,Cancelled,Credit Card,7.0,15.0
+FL1346,2025-01-08,Air India,Mumbai,Singapore,Passenger_346,Business,8219.12,Delayed,Credit Card,5.0,30.0
+FL1347,2025-09-22,Air India,Mumbai,Paris,Passenger_347,Economy,16078.3,Cancelled,Credit Card,,20.0
+FL1348,2025-11-14,Air India,Kolkata,London,Passenger_348,First Class,8546.8,Delayed,UPI,5.0,
+FL1349,2025-11-10,AirAsia,Delhi,Dubai,Passenger_349,First Class,7092.99,Delayed,Debit Card,10.0,
+FL1350,2025-04-07,IndiGo,Delhi,New York,Passenger_350,First Class,15681.96,Cancelled,,,25.0
+FL1351,2025-10-18,Vistara,Bangalore,Singapore,Passenger_351,Economy,15934.53,Cancelled,Debit Card,7.0,25.0
+FL1352,2025-05-22,Air India,Kolkata,New York,Passenger_352,Economy,19381.02,Delayed,,10.0,
+FL1353,2025-10-02,IndiGo,Hyderabad,Singapore,Passenger_353,Economy,12864.04,On-Time,,7.0,30.0
+FL1354,2025-11-12,Vistara,Mumbai,Singapore,Passenger_354,Business,18341.06,Delayed,Credit Card,10.0,30.0
+FL1355,2025-04-10,AirAsia,Bangalore,Dubai,Passenger_355,Economy,11858.15,Delayed,,7.0,20.0
+FL1356,2025-08-06,Air India,Hyderabad,Dubai,Passenger_356,First Class,3387.1,Cancelled,UPI,5.0,20.0
+FL1357,2025-10-11,AirAsia,Bangalore,Singapore,Passenger_357,First Class,11203.61,On-Time,Debit Card,7.0,30.0
+FL1358,2025-12-05,IndiGo,Delhi,Bangkok,Passenger_358,Economy,6880.89,On-Time,Net Banking,5.0,
+FL1359,2025-05-11,SpiceJet,Bangalore,Dubai,Passenger_359,First Class,18324.14,On-Time,UPI,10.0,20.0
+FL1360,2025-05-21,AirAsia,Chennai,Singapore,Passenger_360,Economy,18340.2,Delayed,Debit Card,7.0,
+FL1361,2025-07-05,SpiceJet,Kolkata,Bangkok,Passenger_361,Economy,19332.06,On-Time,UPI,10.0,20.0
+FL1362,2025-11-17,SpiceJet,Chennai,New York,Passenger_362,Economy,6605.37,On-Time,Credit Card,5.0,25.0
+FL1363,2025-04-14,GoAir,Bangalore,Bangkok,Passenger_363,Economy,12804.65,Delayed,UPI,7.0,15.0
+FL1364,2025-03-13,Air India,Bangalore,London,Passenger_364,Business,3477.34,Delayed,Net Banking,7.0,30.0
+FL1365,2025-10-01,GoAir,Kolkata,Paris,Passenger_365,First Class,5600.64,On-Time,Net Banking,7.0,20.0
+FL1366,2025-10-11,GoAir,Delhi,London,Passenger_366,First Class,8538.93,On-Time,,10.0,20.0
+FL1367,2025-07-13,IndiGo,Chennai,New York,Passenger_367,First Class,15012.01,On-Time,,,25.0
+FL1368,2025-12-11,SpiceJet,Chennai,Dubai,Passenger_368,Business,11308.59,Delayed,Credit Card,5.0,30.0
+FL1369,2025-01-07,AirAsia,Hyderabad,Dubai,Passenger_369,Business,14040.62,Delayed,,10.0,25.0
+FL1370,2025-01-17,Air India,Chennai,Singapore,Passenger_370,Business,,Cancelled,,7.0,15.0
+FL1371,2025-03-09,AirAsia,Bangalore,Bangkok,Passenger_371,Economy,17765.94,Cancelled,,7.0,
+FL1372,2025-07-02,SpiceJet,Chennai,London,Passenger_372,First Class,6249.52,Delayed,UPI,7.0,15.0
+FL1373,2025-05-25,SpiceJet,Hyderabad,Bangkok,Passenger_373,Business,17457.58,Delayed,UPI,7.0,
+FL1374,2025-10-20,IndiGo,Bangalore,Paris,Passenger_374,Business,17150.88,Cancelled,UPI,10.0,30.0
+FL1375,2025-09-06,GoAir,Bangalore,London,Passenger_375,Economy,7510.98,Delayed,,,30.0
+FL1376,2025-12-16,AirAsia,Kolkata,Dubai,Passenger_376,Economy,3502.81,Cancelled,,,25.0
+FL1377,2025-07-22,IndiGo,Chennai,Bangkok,Passenger_377,Business,18048.39,On-Time,Credit Card,,25.0
+FL1378,2025-02-15,Vistara,Delhi,New York,Passenger_378,Economy,15280.64,Delayed,,,25.0
+FL1379,2025-03-28,Vistara,Hyderabad,Dubai,Passenger_379,Business,7688.44,On-Time,Net Banking,7.0,20.0
+FL1380,2025-04-13,AirAsia,Hyderabad,Singapore,Passenger_380,Business,18046.66,Delayed,Debit Card,,
+FL1381,2025-09-16,IndiGo,Mumbai,London,Passenger_381,First Class,8847.46,On-Time,Credit Card,7.0,20.0
+FL1382,2025-05-20,AirAsia,Delhi,New York,Passenger_382,Economy,17308.06,Delayed,UPI,,
+FL1383,2025-06-08,SpiceJet,Chennai,New York,Passenger_383,First Class,13571.87,Cancelled,,,20.0
+FL1384,2025-08-07,IndiGo,Kolkata,Bangkok,Passenger_384,Economy,9209.85,Delayed,UPI,5.0,20.0
+FL1385,2025-11-27,GoAir,Delhi,Paris,Passenger_385,Business,11162.5,On-Time,UPI,10.0,25.0
+FL1386,2025-08-13,Air India,Bangalore,Dubai,Passenger_386,Economy,12762.69,Cancelled,UPI,10.0,20.0
+FL1387,2025-01-18,SpiceJet,Chennai,Singapore,Passenger_387,Business,7214.46,On-Time,,,20.0
+FL1388,2025-10-07,GoAir,Chennai,Dubai,Passenger_388,Business,4500.84,On-Time,Credit Card,,
+FL1389,2025-03-14,Air India,Delhi,London,Passenger_389,First Class,9817.5,Delayed,,,
+FL1390,2025-09-27,Vistara,Delhi,Bangkok,Passenger_390,Economy,,On-Time,,,25.0
+FL1391,2025-10-21,IndiGo,Chennai,Dubai,Passenger_391,First Class,,Delayed,,,15.0
+FL1392,2025-11-26,Vistara,Chennai,New York,Passenger_392,Business,13436.88,Delayed,Debit Card,,30.0
+FL1393,2025-12-23,GoAir,Chennai,Bangkok,Passenger_393,Business,8997.81,Cancelled,,,30.0
+FL1394,2025-05-10,AirAsia,Hyderabad,Bangkok,Passenger_394,Business,3185.07,On-Time,Debit Card,5.0,25.0
+FL1395,2025-11-21,SpiceJet,Chennai,Dubai,Passenger_395,First Class,17006.98,Cancelled,Net Banking,7.0,20.0
+FL1396,2025-04-21,AirAsia,Bangalore,London,Passenger_396,First Class,10414.98,Cancelled,Debit Card,7.0,25.0
+FL1397,2025-03-20,Vistara,Delhi,New York,Passenger_397,Business,6165.17,Delayed,Net Banking,7.0,
+FL1398,2025-07-13,AirAsia,Bangalore,Singapore,Passenger_398,Economy,14366.38,Delayed,Credit Card,10.0,15.0
+FL1399,2025-04-13,GoAir,Chennai,Bangkok,Passenger_399,Economy,12077.58,Cancelled,UPI,,15.0
+FL1400,2025-10-04,Vistara,Bangalore,London,Passenger_400,Business,13958.69,On-Time,Debit Card,,15.0
+FL1401,2025-12-03,GoAir,Bangalore,Dubai,Passenger_401,Economy,6379.97,Delayed,Debit Card,,30.0
+FL1402,2025-01-15,Air India,Kolkata,Singapore,Passenger_402,First Class,9254.23,Delayed,,5.0,
+FL1403,2025-11-01,SpiceJet,Delhi,Dubai,Passenger_403,Business,8840.88,On-Time,Net Banking,,25.0
+FL1404,2025-07-25,GoAir,Delhi,Dubai,Passenger_404,Business,19975.88,Cancelled,Net Banking,,15.0
+FL1405,2025-02-27,IndiGo,Kolkata,London,Passenger_405,Business,9020.41,On-Time,Net Banking,,30.0
+FL1406,2025-02-07,Air India,Kolkata,Paris,Passenger_406,Business,15035.65,Cancelled,Net Banking,5.0,25.0
+FL1407,2025-07-22,Vistara,Mumbai,London,Passenger_407,Business,8376.75,On-Time,Debit Card,10.0,15.0
+FL1408,2025-02-12,Air India,Bangalore,Paris,Passenger_408,Economy,10783.25,On-Time,Debit Card,5.0,20.0
+FL1409,2025-08-02,IndiGo,Mumbai,London,Passenger_409,Business,14039.94,Cancelled,,,25.0
+FL1410,2025-02-11,GoAir,Kolkata,New York,Passenger_410,Economy,15658.67,On-Time,UPI,5.0,25.0
+FL1411,2025-04-21,Vistara,Chennai,Singapore,Passenger_411,First Class,15555.69,Cancelled,Debit Card,5.0,30.0
+FL1412,2025-09-27,Vistara,Kolkata,Paris,Passenger_412,First Class,7988.22,Delayed,,,20.0
+FL1413,2025-02-14,AirAsia,Kolkata,Dubai,Passenger_413,Business,16829.67,Delayed,UPI,5.0,
+FL1414,2025-08-07,Air India,Kolkata,Dubai,Passenger_414,Business,19370.09,On-Time,Debit Card,,25.0
+FL1415,2025-02-07,AirAsia,Hyderabad,New York,Passenger_415,Economy,15059.84,Delayed,UPI,10.0,
+FL1416,2025-04-14,GoAir,Delhi,Paris,Passenger_416,First Class,11481.35,Delayed,,,
+FL1417,2025-03-08,GoAir,Delhi,Bangkok,Passenger_417,First Class,4477.05,Delayed,Debit Card,7.0,30.0
+FL1418,2025-12-26,IndiGo,Chennai,Singapore,Passenger_418,Economy,12662.69,Delayed,Credit Card,7.0,25.0
+FL1419,2025-11-02,Air India,Bangalore,Paris,Passenger_419,Business,7249.12,On-Time,Debit Card,10.0,
+FL1420,2025-01-17,GoAir,Hyderabad,Paris,Passenger_420,First Class,19897.79,On-Time,,5.0,30.0
+FL1421,2025-08-19,SpiceJet,Delhi,Bangkok,Passenger_421,First Class,11515.33,On-Time,Debit Card,,30.0
+FL1422,2025-03-07,IndiGo,Kolkata,Bangkok,Passenger_422,Business,9980.26,On-Time,Credit Card,7.0,25.0
+FL1423,2025-09-28,AirAsia,Mumbai,Singapore,Passenger_423,Business,7728.32,Delayed,Credit Card,10.0,20.0
+FL1424,2025-05-28,IndiGo,Bangalore,London,Passenger_424,Business,17608.54,Cancelled,Credit Card,10.0,30.0
+FL1425,2025-10-20,Vistara,Hyderabad,Bangkok,Passenger_425,Economy,6129.15,Delayed,,5.0,25.0
+FL1426,2025-12-19,AirAsia,Bangalore,Singapore,Passenger_426,First Class,13553.19,Cancelled,Debit Card,10.0,15.0
+FL1427,2025-12-27,Vistara,Delhi,Dubai,Passenger_427,Business,16912.39,On-Time,Credit Card,10.0,20.0
+FL1428,2025-08-02,Vistara,Kolkata,Bangkok,Passenger_428,Economy,17171.26,Delayed,UPI,10.0,30.0
+FL1429,2025-06-12,Vistara,Chennai,Dubai,Passenger_429,Economy,4265.19,Delayed,Net Banking,,20.0
+FL1430,2025-02-16,Air India,Kolkata,New York,Passenger_430,Economy,16015.89,On-Time,Credit Card,7.0,15.0
+FL1431,2025-04-19,AirAsia,Bangalore,Bangkok,Passenger_431,Economy,19570.05,Delayed,UPI,5.0,25.0
+FL1432,2025-02-20,AirAsia,Kolkata,Singapore,Passenger_432,Economy,6605.07,On-Time,Debit Card,10.0,30.0
+FL1433,2025-07-21,Vistara,Hyderabad,Dubai,Passenger_433,Economy,3542.09,Delayed,Debit Card,,20.0
+FL1434,2025-11-20,GoAir,Delhi,Paris,Passenger_434,First Class,,Cancelled,Credit Card,7.0,20.0
+FL1435,2025-05-20,IndiGo,Hyderabad,Bangkok,Passenger_435,Business,19389.41,On-Time,Debit Card,10.0,25.0
+FL1436,2025-01-09,Vistara,Bangalore,London,Passenger_436,Business,4958.91,Delayed,Debit Card,7.0,15.0
+FL1437,2025-01-14,GoAir,Chennai,Bangkok,Passenger_437,Business,19276.07,On-Time,,,30.0
+FL1438,2025-12-25,GoAir,Chennai,Paris,Passenger_438,Economy,,Cancelled,Net Banking,7.0,
+FL1439,2025-08-21,IndiGo,Kolkata,Dubai,Passenger_439,Business,12061.51,Cancelled,Debit Card,7.0,15.0
+FL1440,2025-07-25,SpiceJet,Kolkata,Dubai,Passenger_440,Economy,5910.17,On-Time,Net Banking,,
+FL1441,2025-03-05,Air India,Mumbai,Paris,Passenger_441,First Class,9842.38,Cancelled,,,15.0
+FL1442,2025-02-26,AirAsia,Bangalore,Bangkok,Passenger_442,First Class,5377.64,On-Time,,,25.0
+FL1443,2025-12-15,Air India,Mumbai,New York,Passenger_443,Business,5208.93,On-Time,Debit Card,5.0,
+FL1444,2025-10-19,GoAir,Delhi,Singapore,Passenger_444,First Class,14859.11,Delayed,Credit Card,7.0,25.0
+FL1445,2025-01-25,AirAsia,Kolkata,New York,Passenger_445,Economy,12545.57,On-Time,Credit Card,7.0,
+FL1446,2025-02-13,IndiGo,Chennai,Paris,Passenger_446,First Class,19897.93,Cancelled,Credit Card,10.0,30.0
+FL1447,2025-08-11,Air India,Chennai,Singapore,Passenger_447,Economy,16677.79,On-Time,Net Banking,,30.0
+FL1448,2025-03-27,Vistara,Mumbai,New York,Passenger_448,Business,3836.87,Delayed,Credit Card,10.0,
+FL1449,2025-06-10,SpiceJet,Bangalore,Dubai,Passenger_449,First Class,14553.15,Cancelled,Net Banking,10.0,
+FL1450,2025-02-27,SpiceJet,Kolkata,Paris,Passenger_450,Business,8641.3,On-Time,Credit Card,,
+FL1451,2025-04-07,SpiceJet,Hyderabad,Singapore,Passenger_451,First Class,7642.27,Cancelled,UPI,,30.0
+FL1452,2025-03-05,AirAsia,Chennai,Paris,Passenger_452,Business,,Cancelled,Net Banking,7.0,
+FL1453,2025-10-20,SpiceJet,Delhi,New York,Passenger_453,Business,5829.58,On-Time,,5.0,25.0
+FL1454,2025-07-02,Air India,Bangalore,Bangkok,Passenger_454,Business,16534.43,Delayed,,,
+FL1455,2025-12-11,AirAsia,Mumbai,Singapore,Passenger_455,Economy,10779.52,On-Time,Net Banking,10.0,25.0
+FL1456,2025-07-12,SpiceJet,Bangalore,London,Passenger_456,Business,10296.64,On-Time,Credit Card,,25.0
+FL1457,2025-09-12,Air India,Mumbai,Bangkok,Passenger_457,First Class,11231.89,Cancelled,Debit Card,10.0,25.0
+FL1458,2025-01-04,IndiGo,Mumbai,Dubai,Passenger_458,Business,10748.65,Delayed,Net Banking,7.0,15.0
+FL1459,2025-10-08,Vistara,Chennai,Bangkok,Passenger_459,First Class,15954.74,Delayed,,5.0,
+FL1460,2025-12-04,SpiceJet,Mumbai,New York,Passenger_460,Economy,10830.19,On-Time,,,30.0
+FL1461,2025-12-27,SpiceJet,Mumbai,New York,Passenger_461,Business,,Cancelled,,,30.0
+FL1462,2025-03-01,GoAir,Mumbai,Singapore,Passenger_462,Business,17632.74,Delayed,Net Banking,,20.0
+FL1463,2025-01-13,IndiGo,Chennai,Singapore,Passenger_463,Economy,13571.72,Cancelled,Net Banking,,
+FL1464,2025-05-10,IndiGo,Chennai,Paris,Passenger_464,Business,10850.6,Delayed,Debit Card,,25.0
+FL1465,2025-06-26,Vistara,Delhi,New York,Passenger_465,Business,,Cancelled,UPI,5.0,20.0
+FL1466,2025-07-05,Vistara,Chennai,Paris,Passenger_466,Economy,14108.05,Cancelled,Credit Card,7.0,30.0
+FL1467,2025-02-15,SpiceJet,Kolkata,Singapore,Passenger_467,First Class,3011.7,On-Time,Credit Card,,
+FL1468,2025-12-09,Air India,Hyderabad,Singapore,Passenger_468,Business,16444.03,Cancelled,,,30.0
+FL1469,2025-12-13,Air India,Chennai,Singapore,Passenger_469,First Class,17716.19,On-Time,Net Banking,10.0,20.0
+FL1470,2025-03-14,SpiceJet,Kolkata,New York,Passenger_470,Business,5531.49,On-Time,UPI,5.0,20.0
+FL1471,2025-01-12,Vistara,Bangalore,London,Passenger_471,Business,11200.78,Cancelled,UPI,10.0,20.0
+FL1472,2025-06-14,GoAir,Hyderabad,Singapore,Passenger_472,First Class,8596.02,Cancelled,Net Banking,,20.0
+FL1473,2025-07-16,Vistara,Mumbai,London,Passenger_473,Business,12611.24,Cancelled,Credit Card,10.0,
+FL1474,2025-04-27,IndiGo,Hyderabad,Paris,Passenger_474,First Class,10654.53,On-Time,Net Banking,,20.0
+FL1475,2025-07-10,SpiceJet,Kolkata,Dubai,Passenger_475,Economy,15932.25,Delayed,Credit Card,10.0,20.0
+FL1476,2025-08-27,Vistara,Mumbai,New York,Passenger_476,First Class,7920.28,Delayed,Debit Card,,15.0
+FL1477,2025-06-07,GoAir,Kolkata,Bangkok,Passenger_477,Economy,12229.16,Delayed,UPI,,30.0
+FL1478,2025-11-08,GoAir,Hyderabad,Dubai,Passenger_478,Economy,19394.88,Cancelled,UPI,,15.0
+FL1479,2025-08-23,SpiceJet,Mumbai,New York,Passenger_479,First Class,,Delayed,,,15.0
+FL1480,2025-09-01,SpiceJet,Mumbai,Dubai,Passenger_480,First Class,4490.09,On-Time,Credit Card,10.0,15.0
+FL1481,2025-10-05,Vistara,Delhi,London,Passenger_481,Business,12532.03,On-Time,Net Banking,,
+FL1482,2025-07-28,IndiGo,Bangalore,Paris,Passenger_482,Economy,19539.54,On-Time,,7.0,15.0
+FL1483,2025-12-24,Air India,Chennai,Singapore,Passenger_483,Business,16263.72,Delayed,Net Banking,,
+FL1484,2025-01-24,IndiGo,Hyderabad,New York,Passenger_484,Economy,14183.82,Delayed,Credit Card,,25.0
+FL1485,2025-03-14,GoAir,Mumbai,Dubai,Passenger_485,First Class,7210.14,On-Time,Debit Card,7.0,20.0
+FL1486,2025-08-20,IndiGo,Chennai,New York,Passenger_486,Business,13750.06,Delayed,Debit Card,,30.0
+FL1487,2025-03-11,IndiGo,Hyderabad,London,Passenger_487,Economy,9605.51,Cancelled,Net Banking,5.0,20.0
+FL1488,2025-12-11,SpiceJet,Bangalore,Bangkok,Passenger_488,Business,10480.8,Delayed,Debit Card,10.0,15.0
+FL1489,2025-07-02,GoAir,Delhi,London,Passenger_489,First Class,,Cancelled,Net Banking,5.0,
+FL1490,2025-10-15,IndiGo,Hyderabad,New York,Passenger_490,Business,7683.29,On-Time,Net Banking,5.0,30.0
+FL1491,2025-08-14,AirAsia,Chennai,New York,Passenger_491,First Class,13128.8,On-Time,UPI,,25.0
+FL1492,2025-10-19,AirAsia,Mumbai,Bangkok,Passenger_492,First Class,8922.33,On-Time,Credit Card,,20.0
+FL1493,2025-04-07,GoAir,Chennai,Singapore,Passenger_493,Business,18842.67,Cancelled,Net Banking,10.0,25.0
+FL1494,2025-11-21,SpiceJet,Delhi,Dubai,Passenger_494,First Class,18415.16,Delayed,,,
+FL1495,2025-09-07,IndiGo,Bangalore,Bangkok,Passenger_495,Economy,5945.65,Delayed,Net Banking,,20.0
+FL1496,2025-10-06,Vistara,Chennai,London,Passenger_496,First Class,16894.71,On-Time,Debit Card,7.0,25.0
+FL1497,2025-09-10,GoAir,Chennai,New York,Passenger_497,Economy,3017.69,On-Time,Net Banking,5.0,25.0
+FL1498,2025-01-09,Air India,Mumbai,Paris,Passenger_498,Business,9327.33,Cancelled,Credit Card,,
+FL1499,2025-10-12,AirAsia,Chennai,Paris,Passenger_499,Economy,4043.43,Cancelled,Net Banking,7.0,20.0
+FL1500,2025-10-24,AirAsia,Delhi,Paris,Passenger_500,First Class,11059.75,Delayed,Credit Card,5.0,
+FL1501,2025-06-16,GoAir,Chennai,Singapore,Passenger_501,Economy,13292.12,Delayed,Credit Card,10.0,20.0
+FL1502,2025-07-23,GoAir,Delhi,Singapore,Passenger_502,First Class,17013.17,On-Time,Credit Card,10.0,20.0
+FL1503,2025-11-06,SpiceJet,Delhi,London,Passenger_503,First Class,8385.04,Cancelled,UPI,10.0,20.0
+FL1504,2025-04-14,AirAsia,Kolkata,Bangkok,Passenger_504,Business,6248.36,On-Time,,7.0,
+FL1505,2025-12-08,AirAsia,Mumbai,Dubai,Passenger_505,Economy,11029.64,Cancelled,Credit Card,,25.0
+FL1506,2025-02-28,AirAsia,Hyderabad,New York,Passenger_506,First Class,10065.41,Cancelled,Net Banking,,20.0
+FL1507,2025-12-10,Vistara,Hyderabad,New York,Passenger_507,First Class,17776.83,Delayed,UPI,7.0,15.0
+FL1508,2025-09-11,Vistara,Hyderabad,London,Passenger_508,First Class,10442.2,On-Time,Credit Card,,15.0
+FL1509,2025-03-21,SpiceJet,Bangalore,Bangkok,Passenger_509,First Class,17407.7,Delayed,,5.0,
+FL1510,2025-02-06,Air India,Delhi,Paris,Passenger_510,Business,16940.25,Delayed,Debit Card,,25.0
+FL1511,2025-02-27,Vistara,Chennai,Paris,Passenger_511,Business,5594.92,On-Time,Credit Card,5.0,25.0
+FL1512,2025-03-08,AirAsia,Mumbai,New York,Passenger_512,Economy,7702.28,On-Time,UPI,10.0,20.0
+FL1513,2025-11-24,GoAir,Hyderabad,Bangkok,Passenger_513,First Class,9768.38,Cancelled,UPI,,20.0
+FL1514,2025-10-07,IndiGo,Hyderabad,New York,Passenger_514,Business,17443.84,On-Time,UPI,10.0,30.0
+FL1515,2025-04-08,GoAir,Mumbai,New York,Passenger_515,Economy,7398.02,On-Time,Debit Card,10.0,
+FL1516,2025-09-07,Vistara,Kolkata,Singapore,Passenger_516,Business,4331.02,Cancelled,,7.0,15.0
+FL1517,2025-09-20,IndiGo,Hyderabad,Paris,Passenger_517,Business,8137.51,Cancelled,,7.0,30.0
+FL1518,2025-06-12,Vistara,Bangalore,Paris,Passenger_518,Business,18194.25,Delayed,Credit Card,7.0,
+FL1519,2025-10-19,SpiceJet,Delhi,London,Passenger_519,First Class,19816.66,Cancelled,Net Banking,10.0,
+FL1520,2025-07-18,AirAsia,Kolkata,Paris,Passenger_520,First Class,15239.87,Delayed,Net Banking,10.0,20.0
+FL1521,2025-10-01,Vistara,Delhi,Bangkok,Passenger_521,Business,6923.4,Delayed,,5.0,25.0
+FL1522,2025-02-05,IndiGo,Mumbai,New York,Passenger_522,Economy,14968.98,Delayed,Credit Card,7.0,15.0
+FL1523,2025-07-24,AirAsia,Mumbai,Dubai,Passenger_523,Business,18003.48,Delayed,,5.0,
+FL1524,2025-12-26,SpiceJet,Bangalore,Singapore,Passenger_524,Business,14693.62,On-Time,Debit Card,7.0,30.0
+FL1525,2025-12-16,Air India,Delhi,Bangkok,Passenger_525,Economy,8915.96,Cancelled,,5.0,20.0
+FL1526,2025-05-14,Air India,Kolkata,New York,Passenger_526,Business,17469.19,Cancelled,,7.0,30.0
+FL1527,2025-02-09,Air India,Chennai,New York,Passenger_527,Economy,7012.51,Cancelled,Net Banking,5.0,
+FL1528,2025-09-24,Vistara,Kolkata,London,Passenger_528,First Class,6858.27,On-Time,UPI,10.0,
+FL1529,2025-07-14,AirAsia,Mumbai,Singapore,Passenger_529,First Class,13120.21,On-Time,Debit Card,10.0,30.0
+FL1530,2025-08-26,AirAsia,Kolkata,Paris,Passenger_530,Business,19842.6,On-Time,Credit Card,,30.0
+FL1531,2025-08-15,AirAsia,Kolkata,Singapore,Passenger_531,Economy,3597.15,Delayed,Credit Card,7.0,15.0
+FL1532,2025-05-27,GoAir,Bangalore,Bangkok,Passenger_532,Business,5402.58,Cancelled,,,15.0
+FL1533,2025-01-02,IndiGo,Delhi,Bangkok,Passenger_533,Economy,4080.52,On-Time,,7.0,30.0
+FL1534,2025-06-18,GoAir,Kolkata,Dubai,Passenger_534,First Class,,Delayed,UPI,,30.0
+FL1535,2025-10-24,IndiGo,Hyderabad,Bangkok,Passenger_535,Business,9499.72,Delayed,Net Banking,5.0,30.0
+FL1536,2025-09-26,GoAir,Bangalore,Dubai,Passenger_536,Business,12409.39,Delayed,Credit Card,5.0,
+FL1537,2025-07-26,Vistara,Chennai,Bangkok,Passenger_537,First Class,8070.83,On-Time,Credit Card,,20.0
+FL1538,2025-08-12,Air India,Hyderabad,Bangkok,Passenger_538,First Class,,Delayed,Debit Card,,
+FL1539,2025-09-20,IndiGo,Kolkata,Dubai,Passenger_539,First Class,5902.11,Cancelled,Net Banking,7.0,20.0
+FL1540,2025-10-15,AirAsia,Bangalore,Bangkok,Passenger_540,Business,6583.95,On-Time,Credit Card,7.0,
+FL1541,2025-02-24,GoAir,Delhi,Dubai,Passenger_541,First Class,15748.9,On-Time,,7.0,20.0
+FL1542,2025-12-19,IndiGo,Mumbai,Bangkok,Passenger_542,Economy,18570.4,Cancelled,,7.0,30.0
+FL1543,2025-10-24,SpiceJet,Delhi,Singapore,Passenger_543,First Class,3957.22,Delayed,Net Banking,10.0,15.0
+FL1544,2025-09-09,GoAir,Mumbai,Dubai,Passenger_544,First Class,14363.44,Delayed,Debit Card,7.0,30.0
+FL1545,2025-06-24,AirAsia,Bangalore,London,Passenger_545,Economy,4889.67,On-Time,Net Banking,5.0,30.0
+FL1546,2025-12-25,IndiGo,Mumbai,London,Passenger_546,Business,16453.3,On-Time,UPI,5.0,15.0
+FL1547,2025-08-27,SpiceJet,Kolkata,New York,Passenger_547,Economy,4994.18,Cancelled,Credit Card,7.0,20.0
+FL1548,2025-10-18,Vistara,Hyderabad,Paris,Passenger_548,Business,11952.45,Cancelled,Credit Card,10.0,15.0
+FL1549,2025-03-27,IndiGo,Mumbai,London,Passenger_549,First Class,4290.49,On-Time,Debit Card,7.0,15.0
+FL1550,2025-03-24,SpiceJet,Hyderabad,Singapore,Passenger_550,First Class,5260.36,Delayed,UPI,10.0,25.0
+FL1551,2025-05-06,Vistara,Bangalore,Paris,Passenger_551,Economy,12293.71,Cancelled,Debit Card,5.0,
+FL1552,2025-12-03,AirAsia,Chennai,Paris,Passenger_552,First Class,11149.55,On-Time,Credit Card,7.0,
+FL1553,2025-05-21,Air India,Hyderabad,Paris,Passenger_553,Economy,11251.74,On-Time,Credit Card,10.0,25.0
+FL1554,2025-07-14,IndiGo,Mumbai,London,Passenger_554,Economy,9972.34,On-Time,Net Banking,,25.0
+FL1555,2025-09-23,SpiceJet,Delhi,Bangkok,Passenger_555,First Class,16966.81,Cancelled,,5.0,15.0
+FL1556,2025-12-20,IndiGo,Mumbai,New York,Passenger_556,Economy,5591.44,On-Time,,10.0,20.0
+FL1557,2025-04-05,SpiceJet,Mumbai,Dubai,Passenger_557,Economy,8762.08,Delayed,Net Banking,5.0,20.0
+FL1558,2025-03-15,IndiGo,Delhi,Singapore,Passenger_558,First Class,6557.01,On-Time,,,30.0
+FL1559,2025-01-04,IndiGo,Delhi,Paris,Passenger_559,Economy,9690.87,Delayed,,10.0,20.0
+FL1560,2025-10-02,GoAir,Mumbai,Paris,Passenger_560,Business,8266.63,Cancelled,Credit Card,7.0,20.0
+FL1561,2025-08-23,Vistara,Chennai,London,Passenger_561,First Class,13583.36,Delayed,Credit Card,7.0,20.0
+FL1562,2025-05-11,Air India,Chennai,Paris,Passenger_562,Business,11535.96,On-Time,Debit Card,10.0,20.0
+FL1563,2025-05-08,AirAsia,Bangalore,Bangkok,Passenger_563,First Class,14502.77,On-Time,,7.0,25.0
+FL1564,2025-04-05,Air India,Chennai,New York,Passenger_564,Economy,10334.77,Delayed,Credit Card,,25.0
+FL1565,2025-05-08,GoAir,Delhi,Bangkok,Passenger_565,First Class,15839.18,Cancelled,,7.0,
+FL1566,2025-10-03,GoAir,Hyderabad,London,Passenger_566,First Class,6841.11,Cancelled,,,
+FL1567,2025-02-14,GoAir,Chennai,Dubai,Passenger_567,Economy,3538.86,Cancelled,UPI,7.0,15.0
+FL1568,2025-08-03,Vistara,Mumbai,New York,Passenger_568,Economy,9824.51,Cancelled,Debit Card,5.0,15.0
+FL1569,2025-01-02,AirAsia,Bangalore,Bangkok,Passenger_569,Economy,8137.33,Delayed,UPI,5.0,
+FL1570,2025-05-04,AirAsia,Delhi,New York,Passenger_570,Business,10995.04,Cancelled,,10.0,30.0
+FL1571,2025-08-26,IndiGo,Delhi,New York,Passenger_571,First Class,12239.64,Delayed,Net Banking,10.0,
+FL1572,2025-02-25,AirAsia,Kolkata,Dubai,Passenger_572,First Class,18723.75,Delayed,,7.0,
+FL1573,2025-06-24,SpiceJet,Bangalore,Singapore,Passenger_573,First Class,18584.05,On-Time,,10.0,20.0
+FL1574,2025-03-28,GoAir,Mumbai,Paris,Passenger_574,First Class,9974.96,Cancelled,Credit Card,5.0,25.0
+FL1575,2025-08-01,Vistara,Kolkata,London,Passenger_575,Economy,4887.94,Delayed,Debit Card,5.0,
+FL1576,2025-01-04,AirAsia,Chennai,Bangkok,Passenger_576,First Class,11286.9,Cancelled,Net Banking,7.0,15.0
+FL1577,2025-12-04,GoAir,Delhi,New York,Passenger_577,Business,18083.04,Delayed,Debit Card,5.0,30.0
+FL1578,2025-01-16,GoAir,Delhi,Paris,Passenger_578,Business,,Delayed,Credit Card,10.0,25.0
+FL1579,2025-05-24,IndiGo,Bangalore,Bangkok,Passenger_579,Business,19979.52,On-Time,Debit Card,5.0,25.0
+FL1580,2025-04-01,IndiGo,Bangalore,New York,Passenger_580,First Class,11819.89,On-Time,UPI,5.0,20.0
+FL1581,2025-05-16,IndiGo,Mumbai,Dubai,Passenger_581,First Class,9232.85,Cancelled,UPI,5.0,20.0
+FL1582,2025-11-03,IndiGo,Delhi,Singapore,Passenger_582,First Class,16813.13,On-Time,,,25.0
+FL1583,2025-08-23,Vistara,Chennai,London,Passenger_583,Economy,7010.52,Delayed,Net Banking,10.0,30.0
+FL1584,2025-08-13,Air India,Kolkata,Paris,Passenger_584,Economy,9163.67,Delayed,UPI,7.0,25.0
+FL1585,2025-03-09,Vistara,Hyderabad,New York,Passenger_585,First Class,17511.8,On-Time,Debit Card,10.0,20.0
+FL1586,2025-04-22,Air India,Hyderabad,Bangkok,Passenger_586,Business,15576.92,Delayed,,7.0,20.0
+FL1587,2025-09-12,AirAsia,Delhi,Dubai,Passenger_587,Business,18515.29,Cancelled,Net Banking,7.0,20.0
+FL1588,2025-08-20,Vistara,Mumbai,London,Passenger_588,First Class,17747.17,Cancelled,Credit Card,10.0,20.0
+FL1589,2025-11-12,IndiGo,Delhi,Dubai,Passenger_589,Economy,6680.62,Delayed,UPI,7.0,
+FL1590,2025-08-14,GoAir,Hyderabad,Paris,Passenger_590,First Class,10652.92,Delayed,,7.0,
+FL1591,2025-03-20,SpiceJet,Mumbai,New York,Passenger_591,Economy,5357.98,On-Time,,5.0,20.0
+FL1592,2025-03-26,GoAir,Hyderabad,Dubai,Passenger_592,Economy,12217.89,Cancelled,UPI,7.0,
+FL1593,2025-02-20,Air India,Bangalore,Bangkok,Passenger_593,Economy,12838.66,Delayed,UPI,,25.0
+FL1594,2025-07-01,AirAsia,Hyderabad,New York,Passenger_594,First Class,8608.48,Cancelled,Credit Card,10.0,15.0
+FL1595,2025-11-23,SpiceJet,Bangalore,Paris,Passenger_595,Economy,8779.48,On-Time,Credit Card,7.0,
+FL1596,2025-05-13,SpiceJet,Bangalore,London,Passenger_596,First Class,15306.07,Delayed,,10.0,
+FL1597,2025-08-01,SpiceJet,Chennai,Singapore,Passenger_597,First Class,17924.55,Delayed,Debit Card,10.0,20.0
+FL1598,2025-03-24,SpiceJet,Mumbai,New York,Passenger_598,Business,11707.24,Delayed,UPI,5.0,30.0
+FL1599,2025-10-28,IndiGo,Kolkata,New York,Passenger_599,First Class,6900.21,Delayed,UPI,10.0,25.0
+FL1600,2025-03-05,Vistara,Bangalore,Dubai,Passenger_600,First Class,16443.82,On-Time,Net Banking,10.0,30.0
+FL1601,2025-05-04,IndiGo,Kolkata,New York,Passenger_601,Business,11845.97,Delayed,,10.0,15.0
+FL1602,2025-09-10,IndiGo,Mumbai,Dubai,Passenger_602,Business,13162.24,On-Time,Credit Card,,30.0
+FL1603,2025-02-07,GoAir,Chennai,Dubai,Passenger_603,Economy,4954.61,On-Time,Credit Card,10.0,20.0
+FL1604,2025-08-01,IndiGo,Bangalore,Dubai,Passenger_604,First Class,15430.17,Delayed,Credit Card,10.0,25.0
+FL1605,2025-03-12,AirAsia,Hyderabad,New York,Passenger_605,Economy,7060.25,Cancelled,Credit Card,10.0,20.0
+FL1606,2025-09-21,Vistara,Chennai,Singapore,Passenger_606,Economy,4647.52,On-Time,UPI,7.0,15.0
+FL1607,2025-04-05,SpiceJet,Hyderabad,Dubai,Passenger_607,First Class,17631.56,On-Time,UPI,5.0,
+FL1608,2025-08-10,AirAsia,Kolkata,London,Passenger_608,Business,7023.53,On-Time,,,15.0
+FL1609,2025-11-07,IndiGo,Bangalore,Paris,Passenger_609,Economy,,Cancelled,Credit Card,,
+FL1610,2025-11-01,SpiceJet,Delhi,New York,Passenger_610,Economy,9735.51,Cancelled,Credit Card,7.0,
+FL1611,2025-04-03,Air India,Chennai,Dubai,Passenger_611,First Class,18096.87,On-Time,,5.0,30.0
+FL1612,2025-01-24,SpiceJet,Kolkata,London,Passenger_612,Business,7978.94,Cancelled,UPI,10.0,
+FL1613,2025-07-24,GoAir,Kolkata,Paris,Passenger_613,Economy,13515.25,Cancelled,,,20.0
+FL1614,2025-04-13,AirAsia,Delhi,Paris,Passenger_614,First Class,12091.25,Delayed,Net Banking,7.0,30.0
+FL1615,2025-11-16,IndiGo,Delhi,Bangkok,Passenger_615,Economy,12782.78,On-Time,Credit Card,5.0,20.0
+FL1616,2025-08-14,Air India,Delhi,London,Passenger_616,Economy,8028.58,Delayed,,,30.0
+FL1617,2025-10-21,SpiceJet,Bangalore,London,Passenger_617,First Class,10360.2,On-Time,UPI,5.0,15.0
+FL1618,2025-03-03,Air India,Bangalore,New York,Passenger_618,Economy,7525.1,On-Time,,,
+FL1619,2025-07-13,Air India,Bangalore,Paris,Passenger_619,Business,18898.06,On-Time,Debit Card,5.0,15.0
+FL1620,2025-04-17,AirAsia,Kolkata,Singapore,Passenger_620,First Class,16799.58,Delayed,,7.0,30.0
+FL1621,2025-07-14,Vistara,Bangalore,Bangkok,Passenger_621,First Class,13722.46,On-Time,,5.0,25.0
+FL1622,2025-12-20,GoAir,Bangalore,New York,Passenger_622,First Class,15138.43,Cancelled,UPI,,20.0
+FL1623,2025-02-24,SpiceJet,Chennai,Paris,Passenger_623,First Class,10303.07,On-Time,Net Banking,7.0,20.0
+FL1624,2025-07-26,Air India,Hyderabad,Dubai,Passenger_624,Economy,6383.22,On-Time,,10.0,20.0
+FL1625,2025-02-24,GoAir,Kolkata,London,Passenger_625,First Class,18410.61,Delayed,Debit Card,5.0,15.0
+FL1626,2025-07-14,AirAsia,Mumbai,Bangkok,Passenger_626,Business,17801.11,On-Time,Credit Card,,20.0
+FL1627,2025-10-15,SpiceJet,Mumbai,Paris,Passenger_627,First Class,9979.38,Cancelled,,,
+FL1628,2025-03-18,SpiceJet,Bangalore,Bangkok,Passenger_628,Business,17666.23,Cancelled,,,20.0
+FL1629,2025-07-05,IndiGo,Kolkata,New York,Passenger_629,Economy,19980.45,Delayed,Debit Card,7.0,25.0
+FL1630,2025-04-05,GoAir,Chennai,Paris,Passenger_630,First Class,19850.99,Cancelled,Net Banking,7.0,
+FL1631,2025-04-14,Vistara,Bangalore,Dubai,Passenger_631,Economy,12679.82,Cancelled,UPI,,30.0
+FL1632,2025-05-02,Vistara,Mumbai,New York,Passenger_632,First Class,18839.86,Cancelled,,7.0,25.0
+FL1633,2025-07-08,Vistara,Bangalore,Paris,Passenger_633,Business,10864.03,Delayed,,10.0,
+FL1634,2025-08-18,GoAir,Hyderabad,New York,Passenger_634,Business,17871.25,On-Time,UPI,,20.0
+FL1635,2025-06-04,Air India,Delhi,Dubai,Passenger_635,Business,9794.42,Delayed,UPI,7.0,
+FL1636,2025-06-23,AirAsia,Kolkata,Bangkok,Passenger_636,Economy,14268.94,Cancelled,,,
+FL1637,2025-08-09,Air India,Kolkata,Dubai,Passenger_637,Business,8005.05,On-Time,Credit Card,,15.0
+FL1638,2025-01-07,GoAir,Bangalore,Dubai,Passenger_638,Economy,,On-Time,UPI,5.0,
+FL1639,2025-10-20,IndiGo,Mumbai,Paris,Passenger_639,Economy,9919.77,Delayed,Credit Card,7.0,30.0
+FL1640,2025-01-01,Vistara,Delhi,New York,Passenger_640,Business,13611.14,Cancelled,UPI,10.0,15.0
+FL1641,2025-02-18,AirAsia,Chennai,Singapore,Passenger_641,Economy,8331.72,On-Time,,,15.0
+FL1642,2025-02-06,AirAsia,Kolkata,Bangkok,Passenger_642,Economy,7667.9,On-Time,Net Banking,5.0,20.0
+FL1643,2025-06-06,SpiceJet,Mumbai,Bangkok,Passenger_643,Business,4773.66,Cancelled,Debit Card,5.0,30.0
+FL1644,2025-06-02,Air India,Delhi,Dubai,Passenger_644,Business,5852.36,On-Time,Net Banking,7.0,15.0
+FL1645,2025-05-08,Air India,Hyderabad,London,Passenger_645,Economy,17096.42,On-Time,,5.0,
+FL1646,2025-10-02,Vistara,Hyderabad,Dubai,Passenger_646,Economy,17637.04,On-Time,,5.0,25.0
+FL1647,2025-01-27,Air India,Bangalore,Singapore,Passenger_647,Economy,18495.0,On-Time,Credit Card,7.0,
+FL1648,2025-05-23,IndiGo,Hyderabad,Singapore,Passenger_648,First Class,14647.95,Cancelled,Debit Card,5.0,25.0
+FL1649,2025-02-05,IndiGo,Mumbai,Bangkok,Passenger_649,Business,17941.29,On-Time,,10.0,15.0
+FL1650,2025-04-16,AirAsia,Mumbai,Dubai,Passenger_650,Business,4783.44,Cancelled,,5.0,15.0
+FL1651,2025-01-10,IndiGo,Bangalore,New York,Passenger_651,Economy,6097.67,Delayed,Net Banking,5.0,15.0
+FL1652,2025-02-24,SpiceJet,Kolkata,Singapore,Passenger_652,Economy,8702.39,On-Time,Debit Card,,25.0
+FL1653,2025-02-09,SpiceJet,Delhi,London,Passenger_653,Business,19079.36,Delayed,Debit Card,7.0,30.0
+FL1654,2025-07-05,SpiceJet,Delhi,Bangkok,Passenger_654,First Class,10355.11,Cancelled,Net Banking,,
+FL1655,2025-11-03,IndiGo,Bangalore,London,Passenger_655,First Class,7614.4,Delayed,Debit Card,7.0,15.0
+FL1656,2025-03-01,AirAsia,Kolkata,New York,Passenger_656,Business,13557.97,Cancelled,Net Banking,,15.0
+FL1657,2025-01-25,Air India,Chennai,New York,Passenger_657,Business,8593.41,Cancelled,,10.0,15.0
+FL1658,2025-04-09,Vistara,Bangalore,Singapore,Passenger_658,Economy,8304.97,Cancelled,Net Banking,5.0,
+FL1659,2025-07-04,Vistara,Bangalore,Dubai,Passenger_659,First Class,9613.86,Delayed,UPI,,
+FL1660,2025-01-06,SpiceJet,Kolkata,Paris,Passenger_660,Business,10899.25,On-Time,,,
+FL1661,2025-10-03,GoAir,Bangalore,Bangkok,Passenger_661,First Class,16888.72,Cancelled,Debit Card,7.0,25.0
+FL1662,2025-12-06,Vistara,Kolkata,New York,Passenger_662,First Class,11737.5,Cancelled,UPI,10.0,20.0
+FL1663,2025-06-05,Vistara,Mumbai,Paris,Passenger_663,Business,14378.54,Cancelled,Net Banking,5.0,15.0
+FL1664,2025-02-11,Air India,Delhi,New York,Passenger_664,First Class,,Delayed,Debit Card,,25.0
+FL1665,2025-06-11,Vistara,Bangalore,London,Passenger_665,Economy,5915.66,Cancelled,,10.0,25.0
+FL1666,2025-03-21,IndiGo,Hyderabad,Singapore,Passenger_666,Economy,18784.31,Delayed,,,30.0
+FL1667,2025-01-16,IndiGo,Mumbai,London,Passenger_667,Business,9364.36,On-Time,UPI,5.0,25.0
+FL1668,2025-05-19,GoAir,Delhi,Dubai,Passenger_668,Economy,6656.18,Cancelled,Credit Card,7.0,30.0
+FL1669,2025-09-09,Vistara,Mumbai,London,Passenger_669,Economy,9786.8,Delayed,,5.0,
+FL1670,2025-03-14,GoAir,Chennai,London,Passenger_670,First Class,10357.02,Cancelled,Debit Card,,15.0
+FL1671,2025-12-22,IndiGo,Mumbai,Paris,Passenger_671,Economy,9272.91,On-Time,Debit Card,5.0,25.0
+FL1672,2025-10-15,Air India,Kolkata,Dubai,Passenger_672,First Class,9237.97,Cancelled,UPI,5.0,30.0
+FL1673,2025-01-10,AirAsia,Mumbai,New York,Passenger_673,First Class,9998.75,On-Time,,7.0,20.0
+FL1674,2025-05-08,SpiceJet,Chennai,Dubai,Passenger_674,Business,19456.38,Delayed,Credit Card,10.0,
+FL1675,2025-01-23,SpiceJet,Mumbai,New York,Passenger_675,Economy,17307.21,Cancelled,Net Banking,7.0,
+FL1676,2025-06-05,AirAsia,Chennai,New York,Passenger_676,Business,12320.13,On-Time,UPI,7.0,25.0
+FL1677,2025-02-14,GoAir,Bangalore,London,Passenger_677,Business,19976.56,On-Time,Credit Card,10.0,15.0
+FL1678,2025-11-07,AirAsia,Kolkata,Dubai,Passenger_678,Business,3949.71,Cancelled,Net Banking,,
+FL1679,2025-10-10,IndiGo,Delhi,London,Passenger_679,Economy,13314.52,Delayed,Credit Card,,20.0
+FL1680,2025-06-01,Vistara,Bangalore,Singapore,Passenger_680,First Class,14726.42,Cancelled,Credit Card,,
+FL1681,2025-03-17,Vistara,Kolkata,Singapore,Passenger_681,Business,15584.9,Delayed,,5.0,
+FL1682,2025-01-25,SpiceJet,Bangalore,London,Passenger_682,First Class,10744.62,Cancelled,Credit Card,7.0,
+FL1683,2025-01-02,Air India,Hyderabad,Dubai,Passenger_683,Business,9352.92,Cancelled,Credit Card,7.0,30.0
+FL1684,2025-02-04,GoAir,Bangalore,Singapore,Passenger_684,First Class,,On-Time,Debit Card,10.0,20.0
+FL1685,2025-07-13,AirAsia,Delhi,Bangkok,Passenger_685,Business,13636.94,On-Time,,,
+FL1686,2025-05-13,SpiceJet,Hyderabad,Bangkok,Passenger_686,First Class,19024.48,Cancelled,,7.0,
+FL1687,2025-06-28,Air India,Bangalore,Bangkok,Passenger_687,First Class,10896.5,On-Time,UPI,7.0,
+FL1688,2025-06-23,Vistara,Kolkata,New York,Passenger_688,Economy,3324.58,Delayed,Credit Card,5.0,
+FL1689,2025-08-17,Vistara,Chennai,Singapore,Passenger_689,Economy,7917.66,Delayed,UPI,7.0,
+FL1690,2025-07-10,SpiceJet,Hyderabad,New York,Passenger_690,First Class,5778.81,Cancelled,UPI,7.0,15.0
+FL1691,2025-10-27,GoAir,Delhi,New York,Passenger_691,First Class,17956.85,On-Time,UPI,5.0,25.0
+FL1692,2025-02-24,Air India,Delhi,Bangkok,Passenger_692,First Class,14458.58,Cancelled,Debit Card,7.0,30.0
+FL1693,2025-12-10,SpiceJet,Kolkata,Bangkok,Passenger_693,Business,18807.99,On-Time,UPI,7.0,
+FL1694,2025-09-09,Air India,Bangalore,Bangkok,Passenger_694,Economy,,Cancelled,Debit Card,7.0,
+FL1695,2025-07-01,IndiGo,Kolkata,Dubai,Passenger_695,Economy,4216.98,Cancelled,Net Banking,5.0,15.0
+FL1696,2025-03-23,GoAir,Mumbai,Bangkok,Passenger_696,Business,3648.55,On-Time,,5.0,
+FL1697,2025-12-07,SpiceJet,Kolkata,London,Passenger_697,Business,18598.22,On-Time,Credit Card,5.0,25.0
+FL1698,2025-08-24,SpiceJet,Hyderabad,Bangkok,Passenger_698,Business,,Cancelled,,5.0,15.0
+FL1699,2025-02-07,GoAir,Hyderabad,Paris,Passenger_699,First Class,12604.06,Cancelled,Net Banking,5.0,20.0
+FL1700,2025-01-14,IndiGo,Delhi,Singapore,Passenger_700,First Class,9819.36,Delayed,Net Banking,,20.0
+FL1701,2025-04-11,IndiGo,Mumbai,Paris,Passenger_701,Economy,16056.64,Cancelled,Net Banking,10.0,20.0
+FL1702,2025-03-04,Vistara,Hyderabad,Singapore,Passenger_702,Economy,3000.52,On-Time,UPI,5.0,15.0
+FL1703,2025-05-14,IndiGo,Bangalore,London,Passenger_703,Economy,10318.77,Delayed,Net Banking,7.0,15.0
+FL1704,2025-03-05,GoAir,Mumbai,London,Passenger_704,Economy,13674.98,Cancelled,Credit Card,5.0,20.0
+FL1705,2025-02-07,IndiGo,Chennai,Paris,Passenger_705,Business,18050.61,Delayed,Debit Card,5.0,
+FL1706,2025-10-26,Vistara,Delhi,Bangkok,Passenger_706,Economy,19791.24,Cancelled,Net Banking,10.0,25.0
+FL1707,2025-05-16,AirAsia,Mumbai,Singapore,Passenger_707,Business,8923.03,Delayed,Net Banking,10.0,
+FL1708,2025-04-17,Vistara,Bangalore,Singapore,Passenger_708,Business,8272.95,On-Time,Debit Card,5.0,25.0
+FL1709,2025-08-09,Vistara,Chennai,New York,Passenger_709,Business,16947.13,Cancelled,Credit Card,7.0,
+FL1710,2025-11-21,IndiGo,Delhi,New York,Passenger_710,Business,,Cancelled,,10.0,25.0
+FL1711,2025-01-11,GoAir,Delhi,Singapore,Passenger_711,Business,15687.37,Cancelled,Debit Card,5.0,
+FL1712,2025-02-23,IndiGo,Bangalore,Paris,Passenger_712,Economy,8850.56,Delayed,Credit Card,,25.0
+FL1713,2025-12-14,Vistara,Chennai,London,Passenger_713,First Class,3366.98,On-Time,Debit Card,7.0,20.0
+FL1714,2025-04-07,GoAir,Kolkata,Singapore,Passenger_714,First Class,10864.81,Delayed,Debit Card,,
+FL1715,2025-07-16,Vistara,Bangalore,Paris,Passenger_715,Business,8005.26,Delayed,,7.0,
+FL1716,2025-09-03,Vistara,Kolkata,Paris,Passenger_716,Business,10133.86,Cancelled,Credit Card,7.0,30.0
+FL1717,2025-10-04,GoAir,Hyderabad,New York,Passenger_717,Business,4551.39,Delayed,Net Banking,7.0,
+FL1718,2025-09-09,IndiGo,Kolkata,Paris,Passenger_718,First Class,10232.2,Cancelled,Debit Card,,15.0
+FL1719,2025-05-26,Vistara,Hyderabad,Dubai,Passenger_719,First Class,12982.83,On-Time,,7.0,
+FL1720,2025-05-20,Air India,Kolkata,Dubai,Passenger_720,Economy,18120.06,On-Time,Debit Card,10.0,
+FL1721,2025-08-02,SpiceJet,Mumbai,Paris,Passenger_721,Business,3210.77,On-Time,UPI,10.0,25.0
+FL1722,2025-05-24,GoAir,Kolkata,Bangkok,Passenger_722,Economy,10657.8,Delayed,Debit Card,5.0,
+FL1723,2025-07-14,Vistara,Kolkata,Paris,Passenger_723,Economy,13910.89,On-Time,Net Banking,7.0,15.0
+FL1724,2025-09-05,Vistara,Kolkata,London,Passenger_724,First Class,17220.23,On-Time,Credit Card,7.0,
+FL1725,2025-03-24,Vistara,Bangalore,Dubai,Passenger_725,First Class,5693.41,On-Time,,10.0,20.0
+FL1726,2025-05-17,SpiceJet,Bangalore,London,Passenger_726,Business,6796.08,On-Time,UPI,7.0,30.0
+FL1727,2025-11-25,IndiGo,Mumbai,Bangkok,Passenger_727,Economy,11365.66,Delayed,Credit Card,,20.0
+FL1728,2025-02-05,Vistara,Hyderabad,New York,Passenger_728,First Class,8953.8,Delayed,UPI,,30.0
+FL1729,2025-07-08,Air India,Kolkata,London,Passenger_729,Economy,16677.94,Cancelled,Net Banking,,25.0
+FL1730,2025-12-10,Air India,Hyderabad,London,Passenger_730,First Class,16804.14,Cancelled,Debit Card,10.0,
+FL1731,2025-07-02,Air India,Hyderabad,New York,Passenger_731,Business,15674.45,Cancelled,,,30.0
+FL1732,2025-02-09,Vistara,Chennai,Singapore,Passenger_732,Business,3802.35,On-Time,UPI,5.0,25.0
+FL1733,2025-12-04,GoAir,Hyderabad,Paris,Passenger_733,First Class,6490.48,Cancelled,,7.0,25.0
+FL1734,2025-07-03,Air India,Mumbai,Paris,Passenger_734,Economy,10870.6,Delayed,,,30.0
+FL1735,2025-04-04,Vistara,Hyderabad,Bangkok,Passenger_735,Business,11472.62,Cancelled,Credit Card,,
+FL1736,2025-12-06,SpiceJet,Kolkata,London,Passenger_736,Business,11568.94,On-Time,Net Banking,5.0,25.0
+FL1737,2025-01-21,IndiGo,Kolkata,Singapore,Passenger_737,First Class,10980.84,Delayed,UPI,10.0,20.0
+FL1738,2025-05-27,SpiceJet,Hyderabad,Bangkok,Passenger_738,Business,9102.44,Cancelled,Credit Card,5.0,30.0
+FL1739,2025-03-26,Air India,Hyderabad,Paris,Passenger_739,Economy,16534.82,On-Time,Net Banking,10.0,15.0
+FL1740,2025-06-03,Air India,Mumbai,Dubai,Passenger_740,First Class,18348.35,Delayed,Debit Card,7.0,30.0
+FL1741,2025-02-26,SpiceJet,Mumbai,Bangkok,Passenger_741,First Class,15700.83,Cancelled,Net Banking,,30.0
+FL1742,2025-01-10,Vistara,Hyderabad,London,Passenger_742,Business,16460.63,Delayed,,5.0,25.0
+FL1743,2025-04-27,GoAir,Delhi,Singapore,Passenger_743,First Class,8517.25,Cancelled,Credit Card,,
+FL1744,2025-11-27,IndiGo,Kolkata,Bangkok,Passenger_744,Economy,19426.81,On-Time,Debit Card,5.0,25.0
+FL1745,2025-10-13,SpiceJet,Delhi,New York,Passenger_745,Business,12252.95,Cancelled,Credit Card,,20.0
+FL1746,2025-01-25,Vistara,Hyderabad,Dubai,Passenger_746,Business,17966.42,Delayed,,,20.0
+FL1747,2025-01-07,GoAir,Bangalore,Dubai,Passenger_747,Business,13718.38,Delayed,Net Banking,10.0,30.0
+FL1748,2025-06-16,Vistara,Hyderabad,Bangkok,Passenger_748,Economy,7279.89,Cancelled,,,15.0
+FL1749,2025-09-17,Vistara,Bangalore,Singapore,Passenger_749,First Class,6836.27,On-Time,,,20.0
+FL1750,2025-12-12,AirAsia,Bangalore,Paris,Passenger_750,Business,15184.33,Delayed,Debit Card,,25.0
+FL1751,2025-04-07,SpiceJet,Mumbai,Paris,Passenger_751,Economy,11556.27,Delayed,,5.0,30.0
+FL1752,2025-09-26,AirAsia,Hyderabad,London,Passenger_752,Business,15589.24,Delayed,,5.0,
+FL1753,2025-12-02,SpiceJet,Hyderabad,Paris,Passenger_753,Business,9733.74,Cancelled,Net Banking,7.0,25.0
+FL1754,2025-02-05,Air India,Chennai,London,Passenger_754,Business,,Cancelled,Net Banking,5.0,25.0
+FL1755,2025-04-07,AirAsia,Chennai,London,Passenger_755,First Class,13669.76,On-Time,,,
+FL1756,2025-09-19,Air India,Hyderabad,Paris,Passenger_756,Business,14634.75,On-Time,Credit Card,,15.0
+FL1757,2025-03-18,SpiceJet,Delhi,Dubai,Passenger_757,Business,9280.88,On-Time,,10.0,
+FL1758,2025-09-08,SpiceJet,Bangalore,London,Passenger_758,Business,9509.26,Cancelled,Net Banking,,30.0
+FL1759,2025-05-22,GoAir,Delhi,Dubai,Passenger_759,Economy,14057.78,Delayed,Debit Card,7.0,
+FL1760,2025-02-01,GoAir,Chennai,Singapore,Passenger_760,Economy,13782.92,Delayed,,,15.0
+FL1761,2025-06-11,AirAsia,Bangalore,Dubai,Passenger_761,First Class,7629.63,Cancelled,,,
+FL1762,2025-01-03,Vistara,Delhi,New York,Passenger_762,Business,9214.91,Cancelled,,,
+FL1763,2025-10-28,AirAsia,Mumbai,Paris,Passenger_763,First Class,19965.26,Cancelled,,5.0,30.0
+FL1764,2025-07-15,SpiceJet,Kolkata,New York,Passenger_764,First Class,9328.18,Cancelled,UPI,7.0,15.0
+FL1765,2025-07-07,Vistara,Delhi,Dubai,Passenger_765,First Class,19287.2,Delayed,,7.0,
+FL1766,2025-08-22,Air India,Chennai,Dubai,Passenger_766,First Class,5116.23,Delayed,Net Banking,,20.0
+FL1767,2025-11-26,Vistara,Delhi,Singapore,Passenger_767,Economy,6653.72,Delayed,,7.0,
+FL1768,2025-03-09,SpiceJet,Hyderabad,Singapore,Passenger_768,First Class,19409.33,Cancelled,Net Banking,5.0,
+FL1769,2025-05-17,Air India,Bangalore,Singapore,Passenger_769,Business,19653.67,Cancelled,Net Banking,10.0,15.0
+FL1770,2025-04-02,GoAir,Chennai,Paris,Passenger_770,First Class,15100.43,Delayed,,,30.0
+FL1771,2025-05-07,Vistara,Delhi,London,Passenger_771,Economy,18906.2,On-Time,Net Banking,7.0,15.0
+FL1772,2025-12-01,Vistara,Bangalore,New York,Passenger_772,First Class,14704.36,On-Time,Net Banking,7.0,
+FL1773,2025-02-20,SpiceJet,Hyderabad,Bangkok,Passenger_773,Business,12172.72,Delayed,Net Banking,5.0,25.0
+FL1774,2025-08-12,IndiGo,Kolkata,Dubai,Passenger_774,Economy,3176.85,Cancelled,Credit Card,,25.0
+FL1775,2025-04-08,Air India,Hyderabad,Bangkok,Passenger_775,First Class,13595.08,Cancelled,,10.0,15.0
+FL1776,2025-06-16,SpiceJet,Hyderabad,London,Passenger_776,First Class,13400.72,On-Time,UPI,5.0,25.0
+FL1777,2025-09-09,IndiGo,Hyderabad,New York,Passenger_777,First Class,19098.05,On-Time,,,30.0
+FL1778,2025-04-27,Air India,Mumbai,London,Passenger_778,First Class,18925.23,On-Time,UPI,5.0,20.0
+FL1779,2025-05-18,AirAsia,Chennai,London,Passenger_779,First Class,6955.9,On-Time,,10.0,25.0
+FL1780,2025-09-24,Air India,Hyderabad,London,Passenger_780,Economy,8343.85,Delayed,Debit Card,7.0,
+FL1781,2025-02-19,GoAir,Kolkata,Dubai,Passenger_781,Business,6132.83,Cancelled,UPI,,
+FL1782,2025-02-07,IndiGo,Mumbai,Dubai,Passenger_782,Economy,15590.04,Delayed,UPI,10.0,25.0
+FL1783,2025-03-25,Air India,Hyderabad,Bangkok,Passenger_783,Business,6356.62,Cancelled,,10.0,15.0
+FL1784,2025-11-01,Vistara,Chennai,London,Passenger_784,Business,18950.89,On-Time,UPI,5.0,15.0
+FL1785,2025-12-16,AirAsia,Mumbai,New York,Passenger_785,Business,6641.64,Cancelled,Debit Card,,30.0
+FL1786,2025-10-24,GoAir,Chennai,London,Passenger_786,Business,4774.54,On-Time,,10.0,30.0
+FL1787,2025-06-03,GoAir,Chennai,Singapore,Passenger_787,Economy,11198.83,On-Time,UPI,10.0,25.0
+FL1788,2025-02-21,Vistara,Mumbai,Paris,Passenger_788,Economy,12103.3,Delayed,,,15.0
+FL1789,2025-09-16,IndiGo,Kolkata,Dubai,Passenger_789,Business,18019.87,On-Time,Credit Card,10.0,20.0
+FL1790,2025-06-08,AirAsia,Kolkata,London,Passenger_790,Business,12634.9,On-Time,Net Banking,5.0,30.0
+FL1791,2025-04-18,AirAsia,Hyderabad,Bangkok,Passenger_791,Business,12069.63,Delayed,UPI,7.0,15.0
+FL1792,2025-11-16,Air India,Delhi,Singapore,Passenger_792,Business,14871.72,Cancelled,UPI,10.0,
+FL1793,2025-01-07,IndiGo,Delhi,Bangkok,Passenger_793,Economy,6738.65,On-Time,,,20.0
+FL1794,2025-07-27,AirAsia,Chennai,London,Passenger_794,Economy,7013.47,Delayed,,10.0,30.0
+FL1795,2025-03-23,IndiGo,Mumbai,Dubai,Passenger_795,Economy,17163.54,On-Time,Credit Card,5.0,15.0
+FL1796,2025-09-06,SpiceJet,Kolkata,Dubai,Passenger_796,Business,,On-Time,Debit Card,5.0,25.0
+FL1797,2025-04-14,Vistara,Bangalore,London,Passenger_797,Business,6037.57,Delayed,Net Banking,10.0,15.0
+FL1798,2025-01-15,SpiceJet,Bangalore,Singapore,Passenger_798,Business,18821.67,Cancelled,UPI,,30.0
+FL1799,2025-05-25,IndiGo,Chennai,Bangkok,Passenger_799,Economy,17987.3,Delayed,,,25.0
+FL1800,2025-03-11,GoAir,Bangalore,Dubai,Passenger_800,Economy,9953.38,On-Time,Net Banking,,
+FL1801,2025-02-13,Air India,Mumbai,London,Passenger_801,First Class,16685.29,On-Time,Debit Card,,15.0
+FL1802,2025-02-19,GoAir,Mumbai,New York,Passenger_802,Economy,12370.88,On-Time,,5.0,30.0
+FL1803,2025-07-27,Vistara,Delhi,Paris,Passenger_803,Economy,19921.04,On-Time,UPI,10.0,20.0
+FL1804,2025-05-13,Vistara,Mumbai,Singapore,Passenger_804,Economy,13630.56,Cancelled,Credit Card,,
+FL1805,2025-06-13,AirAsia,Bangalore,Singapore,Passenger_805,First Class,4009.21,Delayed,Net Banking,,30.0
+FL1806,2025-04-21,AirAsia,Bangalore,Bangkok,Passenger_806,Business,3733.96,On-Time,UPI,5.0,30.0
+FL1807,2025-09-16,AirAsia,Delhi,Dubai,Passenger_807,First Class,17006.69,On-Time,UPI,7.0,25.0
+FL1808,2025-11-14,SpiceJet,Bangalore,Singapore,Passenger_808,First Class,17702.4,Cancelled,Debit Card,7.0,30.0
+FL1809,2025-09-22,Vistara,Hyderabad,Paris,Passenger_809,Business,17292.19,Cancelled,UPI,,
+FL1810,2025-11-03,GoAir,Chennai,Singapore,Passenger_810,Economy,,On-Time,UPI,10.0,20.0
+FL1811,2025-05-15,Air India,Bangalore,London,Passenger_811,Economy,5380.59,Delayed,Credit Card,7.0,15.0
+FL1812,2025-03-04,GoAir,Mumbai,Singapore,Passenger_812,Economy,16026.64,Delayed,,,15.0
+FL1813,2025-08-21,Vistara,Bangalore,Dubai,Passenger_813,First Class,10204.97,On-Time,Net Banking,,15.0
+FL1814,2025-05-20,GoAir,Delhi,Singapore,Passenger_814,Business,4134.5,Delayed,Net Banking,5.0,20.0
+FL1815,2025-09-17,Air India,Mumbai,Singapore,Passenger_815,First Class,12240.01,On-Time,UPI,5.0,20.0
+FL1816,2025-03-26,Air India,Kolkata,New York,Passenger_816,Economy,17313.69,On-Time,Debit Card,5.0,15.0
+FL1817,2025-12-28,AirAsia,Hyderabad,New York,Passenger_817,First Class,9678.45,On-Time,UPI,,30.0
+FL1818,2025-01-17,AirAsia,Mumbai,Dubai,Passenger_818,Economy,9820.11,Delayed,Credit Card,10.0,20.0
+FL1819,2025-11-02,IndiGo,Chennai,Paris,Passenger_819,Business,14026.68,Cancelled,Net Banking,5.0,30.0
+FL1820,2025-06-13,Air India,Kolkata,Bangkok,Passenger_820,First Class,17643.93,Delayed,Net Banking,10.0,15.0
+FL1821,2025-06-17,SpiceJet,Bangalore,London,Passenger_821,Economy,6943.28,Cancelled,Credit Card,7.0,15.0
+FL1822,2025-02-25,SpiceJet,Chennai,Bangkok,Passenger_822,Economy,5553.34,Cancelled,,,
+FL1823,2025-02-11,SpiceJet,Hyderabad,Bangkok,Passenger_823,First Class,14604.79,Delayed,UPI,,15.0
+FL1824,2025-06-28,Air India,Bangalore,London,Passenger_824,Economy,12427.3,On-Time,Net Banking,7.0,30.0
+FL1825,2025-04-19,SpiceJet,Mumbai,London,Passenger_825,Economy,12171.24,Delayed,UPI,5.0,30.0
+FL1826,2025-11-22,SpiceJet,Bangalore,Singapore,Passenger_826,Business,5184.44,Delayed,Credit Card,5.0,25.0
+FL1827,2025-02-19,IndiGo,Delhi,Singapore,Passenger_827,Economy,18902.76,Cancelled,Credit Card,5.0,
+FL1828,2025-07-02,AirAsia,Chennai,New York,Passenger_828,Economy,14868.4,On-Time,,10.0,15.0
+FL1829,2025-07-23,GoAir,Delhi,Bangkok,Passenger_829,Economy,15536.36,Delayed,Net Banking,5.0,25.0
+FL1830,2025-01-08,Air India,Delhi,Dubai,Passenger_830,Economy,10063.47,Cancelled,Debit Card,10.0,
+FL1831,2025-06-04,GoAir,Delhi,Dubai,Passenger_831,First Class,5055.34,On-Time,Net Banking,,20.0
+FL1832,2025-09-14,Air India,Delhi,New York,Passenger_832,Economy,6304.21,Cancelled,UPI,,20.0
+FL1833,2025-04-11,AirAsia,Hyderabad,Paris,Passenger_833,First Class,8274.32,Cancelled,Debit Card,7.0,20.0
+FL1834,2025-09-06,IndiGo,Hyderabad,Paris,Passenger_834,Business,10430.72,Cancelled,UPI,7.0,15.0
+FL1835,2025-09-11,Air India,Chennai,Bangkok,Passenger_835,First Class,17459.52,On-Time,UPI,,25.0
+FL1836,2025-08-26,GoAir,Bangalore,Bangkok,Passenger_836,Economy,,On-Time,Net Banking,10.0,20.0
+FL1837,2025-06-15,AirAsia,Kolkata,Paris,Passenger_837,Economy,,Delayed,UPI,10.0,
+FL1838,2025-12-05,IndiGo,Hyderabad,Bangkok,Passenger_838,First Class,14070.59,Delayed,Credit Card,5.0,30.0
+FL1839,2025-11-22,GoAir,Chennai,Singapore,Passenger_839,First Class,10479.2,Delayed,Credit Card,5.0,
+FL1840,2025-08-27,Air India,Mumbai,Paris,Passenger_840,Economy,9744.22,Delayed,Credit Card,10.0,30.0
+FL1841,2025-09-24,Air India,Bangalore,Bangkok,Passenger_841,Economy,3379.01,Delayed,Net Banking,7.0,25.0
+FL1842,2025-05-19,Vistara,Delhi,Bangkok,Passenger_842,Business,17623.44,Cancelled,,,30.0
+FL1843,2025-06-10,IndiGo,Chennai,Paris,Passenger_843,Business,19889.73,On-Time,Net Banking,5.0,20.0
+FL1844,2025-12-06,Air India,Kolkata,Singapore,Passenger_844,Economy,5882.51,On-Time,UPI,7.0,30.0
+FL1845,2025-11-16,Vistara,Hyderabad,London,Passenger_845,Business,7958.66,Cancelled,Net Banking,10.0,25.0
+FL1846,2025-02-17,IndiGo,Chennai,New York,Passenger_846,Economy,10824.58,On-Time,UPI,10.0,25.0
+FL1847,2025-10-12,SpiceJet,Bangalore,London,Passenger_847,First Class,17762.14,Cancelled,,,
+FL1848,2025-06-06,SpiceJet,Delhi,Paris,Passenger_848,Business,3461.72,On-Time,Credit Card,7.0,
+FL1849,2025-11-15,Vistara,Chennai,New York,Passenger_849,Business,11388.85,Delayed,Debit Card,,25.0
+FL1850,2025-11-22,SpiceJet,Hyderabad,Bangkok,Passenger_850,Business,14402.3,Delayed,Debit Card,5.0,25.0
+FL1851,2025-06-25,Vistara,Chennai,Bangkok,Passenger_851,First Class,3063.08,Cancelled,Credit Card,5.0,20.0
+FL1852,2025-03-08,SpiceJet,Kolkata,New York,Passenger_852,Economy,10485.75,Cancelled,Debit Card,10.0,25.0
+FL1853,2025-06-13,Air India,Mumbai,New York,Passenger_853,Business,5676.43,Cancelled,Net Banking,5.0,
+FL1854,2025-08-26,Vistara,Kolkata,Dubai,Passenger_854,Economy,3668.96,Cancelled,Credit Card,10.0,
+FL1855,2025-09-28,IndiGo,Delhi,Singapore,Passenger_855,First Class,18249.55,Cancelled,Credit Card,10.0,30.0
+FL1856,2025-01-24,GoAir,Hyderabad,Dubai,Passenger_856,First Class,9134.46,Cancelled,Debit Card,5.0,20.0
+FL1857,2025-04-25,GoAir,Delhi,London,Passenger_857,Business,17909.58,Delayed,UPI,10.0,15.0
+FL1858,2025-07-03,Air India,Delhi,New York,Passenger_858,Economy,13824.14,Cancelled,,5.0,
+FL1859,2025-03-26,Vistara,Hyderabad,London,Passenger_859,Business,8979.55,On-Time,Debit Card,,25.0
+FL1860,2025-10-05,Air India,Mumbai,Singapore,Passenger_860,Business,17670.22,On-Time,,7.0,20.0
+FL1861,2025-05-06,IndiGo,Chennai,New York,Passenger_861,Business,10737.4,Cancelled,Credit Card,,25.0
+FL1862,2025-03-18,SpiceJet,Chennai,Paris,Passenger_862,Economy,6542.96,Delayed,Credit Card,5.0,
+FL1863,2025-09-13,AirAsia,Delhi,New York,Passenger_863,Economy,5028.46,Cancelled,Net Banking,10.0,25.0
+FL1864,2025-04-04,Vistara,Hyderabad,Singapore,Passenger_864,Economy,17094.86,On-Time,,7.0,30.0
+FL1865,2025-08-25,Vistara,Bangalore,Paris,Passenger_865,Economy,10703.39,On-Time,Net Banking,10.0,15.0
+FL1866,2025-09-27,GoAir,Hyderabad,Dubai,Passenger_866,Economy,4489.89,Cancelled,UPI,10.0,25.0
+FL1867,2025-09-24,AirAsia,Mumbai,Paris,Passenger_867,First Class,9962.49,Delayed,,7.0,20.0
+FL1868,2025-11-19,IndiGo,Bangalore,London,Passenger_868,First Class,,On-Time,,10.0,30.0
+FL1869,2025-08-26,Air India,Delhi,London,Passenger_869,First Class,10928.42,Cancelled,Net Banking,10.0,15.0
+FL1870,2025-06-14,Vistara,Delhi,London,Passenger_870,First Class,9402.03,On-Time,,,
+FL1871,2025-02-16,SpiceJet,Bangalore,Bangkok,Passenger_871,Business,18579.51,Cancelled,UPI,5.0,25.0
+FL1872,2025-10-19,SpiceJet,Mumbai,Singapore,Passenger_872,Business,8892.78,Cancelled,Credit Card,7.0,30.0
+FL1873,2025-06-07,IndiGo,Mumbai,Paris,Passenger_873,Economy,16958.25,On-Time,Net Banking,7.0,15.0
+FL1874,2025-01-13,Vistara,Mumbai,Bangkok,Passenger_874,Economy,,Cancelled,Debit Card,10.0,
+FL1875,2025-11-25,GoAir,Bangalore,Paris,Passenger_875,First Class,14338.39,Cancelled,Debit Card,7.0,
+FL1876,2025-01-10,GoAir,Hyderabad,London,Passenger_876,Business,5177.74,On-Time,Net Banking,7.0,15.0
+FL1877,2025-02-11,AirAsia,Delhi,London,Passenger_877,Economy,18117.38,Delayed,UPI,10.0,15.0
+FL1878,2025-04-07,GoAir,Mumbai,Singapore,Passenger_878,First Class,18904.31,On-Time,UPI,5.0,20.0
+FL1879,2025-08-28,AirAsia,Chennai,London,Passenger_879,Economy,,On-Time,,10.0,30.0
+FL1880,2025-08-12,GoAir,Hyderabad,Dubai,Passenger_880,First Class,17028.73,On-Time,Debit Card,7.0,15.0
+FL1881,2025-09-04,SpiceJet,Bangalore,Paris,Passenger_881,Economy,8982.69,Delayed,Net Banking,7.0,
+FL1882,2025-12-19,Vistara,Kolkata,Singapore,Passenger_882,Economy,11200.94,Cancelled,Credit Card,10.0,20.0
+FL1883,2025-01-12,GoAir,Hyderabad,New York,Passenger_883,First Class,18038.37,On-Time,UPI,10.0,30.0
+FL1884,2025-04-25,Vistara,Chennai,Singapore,Passenger_884,Economy,17836.46,Cancelled,Net Banking,,25.0
+FL1885,2025-03-21,Vistara,Chennai,Singapore,Passenger_885,First Class,,Cancelled,,10.0,
+FL1886,2025-08-11,Air India,Mumbai,Dubai,Passenger_886,Business,7746.54,On-Time,Credit Card,,30.0
+FL1887,2025-10-20,IndiGo,Delhi,Dubai,Passenger_887,Business,11907.89,Cancelled,Debit Card,,30.0
+FL1888,2025-06-02,Air India,Mumbai,Singapore,Passenger_888,First Class,12429.19,Delayed,Debit Card,,20.0
+FL1889,2025-03-15,Air India,Mumbai,Bangkok,Passenger_889,Business,10376.8,On-Time,UPI,,25.0
+FL1890,2025-04-14,GoAir,Kolkata,London,Passenger_890,Business,7139.3,On-Time,Net Banking,7.0,30.0
+FL1891,2025-11-17,Vistara,Hyderabad,Bangkok,Passenger_891,Economy,4872.35,On-Time,UPI,5.0,20.0
+FL1892,2025-02-13,GoAir,Bangalore,Singapore,Passenger_892,First Class,8093.67,Delayed,UPI,10.0,25.0
+FL1893,2025-12-26,AirAsia,Mumbai,Singapore,Passenger_893,Economy,6231.75,Cancelled,Credit Card,,
+FL1894,2025-07-10,Air India,Chennai,Dubai,Passenger_894,First Class,14654.43,Delayed,Net Banking,,15.0
+FL1895,2025-02-26,IndiGo,Bangalore,Paris,Passenger_895,Business,12723.26,Delayed,,10.0,
+FL1896,2025-04-15,SpiceJet,Mumbai,London,Passenger_896,Economy,4149.24,Delayed,Debit Card,5.0,25.0
+FL1897,2025-06-16,Air India,Kolkata,Singapore,Passenger_897,Business,10806.76,Cancelled,Debit Card,5.0,
+FL1898,2025-06-09,IndiGo,Bangalore,Bangkok,Passenger_898,Business,16039.47,Cancelled,,10.0,15.0
+FL1899,2025-07-04,Vistara,Chennai,Dubai,Passenger_899,Business,18492.31,Cancelled,Debit Card,,30.0
+FL1900,2025-03-04,Vistara,Delhi,Singapore,Passenger_900,Business,6413.65,Cancelled,,7.0,20.0
+FL1901,2025-05-20,Air India,Chennai,Singapore,Passenger_901,First Class,6426.35,Delayed,Credit Card,5.0,15.0
+FL1902,2025-01-09,IndiGo,Bangalore,Bangkok,Passenger_902,Economy,13976.23,Cancelled,,5.0,25.0
+FL1903,2025-08-04,IndiGo,Hyderabad,Dubai,Passenger_903,Economy,8712.29,On-Time,Debit Card,7.0,25.0
+FL1904,2025-09-24,Vistara,Bangalore,Paris,Passenger_904,First Class,13213.91,On-Time,Debit Card,5.0,25.0
+FL1905,2025-01-09,SpiceJet,Chennai,Bangkok,Passenger_905,Business,8027.4,On-Time,UPI,5.0,15.0
+FL1906,2025-03-27,Air India,Bangalore,Bangkok,Passenger_906,Business,17533.29,Delayed,UPI,10.0,25.0
+FL1907,2025-02-25,AirAsia,Hyderabad,Paris,Passenger_907,Economy,9524.34,Delayed,,5.0,25.0
+FL1908,2025-12-15,Air India,Mumbai,Bangkok,Passenger_908,First Class,13405.36,On-Time,,10.0,
+FL1909,2025-03-19,IndiGo,Mumbai,Paris,Passenger_909,First Class,17018.23,Cancelled,,,20.0
+FL1910,2025-07-03,GoAir,Delhi,Dubai,Passenger_910,Economy,15381.88,Delayed,Credit Card,,25.0
+FL1911,2025-05-19,GoAir,Hyderabad,London,Passenger_911,Business,17163.61,Delayed,,5.0,25.0
+FL1912,2025-05-24,GoAir,Kolkata,Dubai,Passenger_912,First Class,7897.93,Cancelled,UPI,7.0,
+FL1913,2025-10-03,SpiceJet,Delhi,Singapore,Passenger_913,First Class,7597.48,On-Time,,7.0,25.0
+FL1914,2025-12-01,SpiceJet,Bangalore,London,Passenger_914,Economy,3862.46,Cancelled,UPI,,15.0
+FL1915,2025-03-15,AirAsia,Kolkata,New York,Passenger_915,First Class,8038.25,Delayed,,5.0,30.0
+FL1916,2025-04-19,Air India,Hyderabad,Singapore,Passenger_916,First Class,6193.16,Cancelled,Credit Card,7.0,
+FL1917,2025-09-25,AirAsia,Mumbai,New York,Passenger_917,Economy,13327.26,Delayed,,10.0,
+FL1918,2025-09-14,GoAir,Hyderabad,New York,Passenger_918,Business,18186.79,On-Time,Credit Card,7.0,30.0
+FL1919,2025-09-16,Air India,Bangalore,New York,Passenger_919,Business,6270.76,Delayed,Credit Card,,20.0
+FL1920,2025-09-28,AirAsia,Hyderabad,Paris,Passenger_920,Business,11579.31,Cancelled,,,
+FL1921,2025-10-16,IndiGo,Chennai,Paris,Passenger_921,Business,10585.99,Delayed,UPI,10.0,20.0
+FL1922,2025-09-27,GoAir,Hyderabad,London,Passenger_922,Economy,12804.54,Delayed,Net Banking,10.0,20.0
+FL1923,2025-05-07,Air India,Hyderabad,Dubai,Passenger_923,Economy,17987.73,Cancelled,Credit Card,,30.0
+FL1924,2025-01-24,SpiceJet,Kolkata,Dubai,Passenger_924,Business,8498.62,Cancelled,Net Banking,10.0,
+FL1925,2025-03-21,SpiceJet,Mumbai,Dubai,Passenger_925,First Class,8306.72,Delayed,Net Banking,10.0,30.0
+FL1926,2025-01-08,SpiceJet,Hyderabad,Singapore,Passenger_926,Business,9119.31,Delayed,,,20.0
+FL1927,2025-11-07,Air India,Kolkata,London,Passenger_927,Economy,18895.05,Cancelled,Debit Card,,20.0
+FL1928,2025-07-08,AirAsia,Hyderabad,New York,Passenger_928,First Class,11909.61,On-Time,Debit Card,7.0,
+FL1929,2025-11-23,AirAsia,Mumbai,London,Passenger_929,First Class,14300.15,Delayed,Debit Card,5.0,
+FL1930,2025-02-03,Air India,Kolkata,Bangkok,Passenger_930,First Class,10353.21,On-Time,Debit Card,5.0,15.0
+FL1931,2025-04-14,GoAir,Delhi,Bangkok,Passenger_931,Economy,5477.21,Cancelled,Debit Card,7.0,15.0
+FL1932,2025-11-26,SpiceJet,Kolkata,Dubai,Passenger_932,First Class,17765.44,Cancelled,UPI,,20.0
+FL1933,2025-12-26,IndiGo,Mumbai,London,Passenger_933,Business,13757.13,On-Time,UPI,10.0,25.0
+FL1934,2025-10-25,Air India,Hyderabad,New York,Passenger_934,First Class,5583.9,Cancelled,Debit Card,10.0,30.0
+FL1935,2025-09-20,GoAir,Bangalore,Paris,Passenger_935,Economy,,Delayed,Credit Card,5.0,15.0
+FL1936,2025-11-06,Air India,Delhi,Dubai,Passenger_936,Business,13640.84,Delayed,Net Banking,5.0,25.0
+FL1937,2025-11-18,Vistara,Bangalore,New York,Passenger_937,Economy,13240.17,Delayed,,7.0,30.0
+FL1938,2025-03-22,IndiGo,Mumbai,Paris,Passenger_938,Economy,6478.14,Cancelled,UPI,,
+FL1939,2025-04-15,GoAir,Bangalore,Dubai,Passenger_939,Economy,13031.08,Delayed,Net Banking,5.0,
+FL1940,2025-09-07,IndiGo,Chennai,Paris,Passenger_940,Economy,15486.7,Delayed,UPI,7.0,30.0
+FL1941,2025-12-21,IndiGo,Chennai,Paris,Passenger_941,Business,6345.5,On-Time,UPI,10.0,15.0
+FL1942,2025-10-17,IndiGo,Kolkata,Paris,Passenger_942,Economy,8893.08,Cancelled,,,25.0
+FL1943,2025-04-25,Air India,Delhi,Singapore,Passenger_943,First Class,,On-Time,Debit Card,5.0,20.0
+FL1944,2025-09-06,IndiGo,Mumbai,New York,Passenger_944,Economy,7642.83,On-Time,Net Banking,7.0,30.0
+FL1945,2025-12-21,AirAsia,Delhi,Singapore,Passenger_945,First Class,6689.74,Delayed,Net Banking,10.0,
+FL1946,2025-09-22,IndiGo,Kolkata,Bangkok,Passenger_946,Economy,9323.0,On-Time,,,15.0
+FL1947,2025-04-10,SpiceJet,Chennai,Singapore,Passenger_947,Business,15526.54,On-Time,Debit Card,5.0,15.0
+FL1948,2025-05-21,Air India,Hyderabad,London,Passenger_948,First Class,,Cancelled,Net Banking,5.0,30.0
+FL1949,2025-12-15,IndiGo,Delhi,Singapore,Passenger_949,First Class,7399.5,Delayed,Debit Card,7.0,20.0
+FL1950,2025-07-07,Vistara,Mumbai,Paris,Passenger_950,First Class,3823.09,Cancelled,UPI,,15.0
+FL1951,2025-07-13,GoAir,Kolkata,London,Passenger_951,First Class,7392.34,Cancelled,UPI,5.0,20.0
+FL1952,2025-06-15,Vistara,Chennai,Bangkok,Passenger_952,First Class,9572.98,Cancelled,Debit Card,,15.0
+FL1953,2025-01-15,Vistara,Kolkata,Paris,Passenger_953,Business,12151.75,On-Time,,5.0,15.0
+FL1954,2025-12-04,GoAir,Chennai,New York,Passenger_954,Economy,16535.87,Delayed,Debit Card,7.0,30.0
+FL1955,2025-06-05,Vistara,Mumbai,Singapore,Passenger_955,First Class,3217.58,On-Time,Credit Card,5.0,25.0
+FL1956,2025-04-25,GoAir,Kolkata,Singapore,Passenger_956,First Class,14464.5,Delayed,Net Banking,7.0,
+FL1957,2025-10-17,Vistara,Hyderabad,Paris,Passenger_957,Economy,14792.62,Cancelled,Debit Card,,25.0
+FL1958,2025-04-07,IndiGo,Mumbai,New York,Passenger_958,First Class,19693.1,Delayed,Debit Card,,30.0
+FL1959,2025-02-17,AirAsia,Chennai,Paris,Passenger_959,Economy,5331.94,Cancelled,,,
+FL1960,2025-02-16,SpiceJet,Delhi,Bangkok,Passenger_960,First Class,16340.2,Cancelled,Net Banking,,25.0
+FL1961,2025-04-06,Vistara,Chennai,Singapore,Passenger_961,Economy,10037.71,Cancelled,,5.0,
+FL1962,2025-06-18,GoAir,Delhi,Bangkok,Passenger_962,First Class,15660.69,Cancelled,Net Banking,,30.0
+FL1963,2025-12-16,SpiceJet,Bangalore,Paris,Passenger_963,First Class,5729.39,Cancelled,UPI,,
+FL1964,2025-04-11,SpiceJet,Mumbai,Singapore,Passenger_964,Economy,,On-Time,UPI,10.0,30.0
+FL1965,2025-02-25,SpiceJet,Kolkata,New York,Passenger_965,Economy,6765.92,Cancelled,Net Banking,5.0,20.0
+FL1966,2025-04-06,GoAir,Kolkata,Dubai,Passenger_966,Business,3830.61,Delayed,Net Banking,5.0,20.0
+FL1967,2025-09-13,AirAsia,Delhi,Singapore,Passenger_967,Economy,18423.01,Cancelled,,10.0,15.0
+FL1968,2025-12-07,Vistara,Chennai,London,Passenger_968,Business,,On-Time,UPI,,30.0
+FL1969,2025-09-26,Air India,Delhi,Singapore,Passenger_969,Business,16631.26,Cancelled,UPI,5.0,15.0
+FL1970,2025-04-08,Air India,Hyderabad,Dubai,Passenger_970,Business,5997.05,On-Time,,,30.0
+FL1971,2025-06-24,SpiceJet,Delhi,Dubai,Passenger_971,First Class,8929.73,Delayed,Net Banking,7.0,25.0
+FL1972,2025-11-14,IndiGo,Bangalore,Bangkok,Passenger_972,First Class,4313.31,On-Time,Net Banking,10.0,
+FL1973,2025-06-11,IndiGo,Delhi,Bangkok,Passenger_973,Economy,11011.95,Delayed,,7.0,30.0
+FL1974,2025-01-12,GoAir,Delhi,Dubai,Passenger_974,Business,17650.8,Cancelled,Credit Card,,15.0
+FL1975,2025-03-21,Vistara,Chennai,Paris,Passenger_975,Economy,19651.23,Delayed,UPI,7.0,25.0
+FL1976,2025-05-03,SpiceJet,Bangalore,Bangkok,Passenger_976,Economy,19246.0,On-Time,Net Banking,10.0,
+FL1977,2025-06-12,GoAir,Delhi,London,Passenger_977,Business,17402.34,Delayed,Debit Card,10.0,25.0
+FL1978,2025-06-10,AirAsia,Mumbai,New York,Passenger_978,Economy,19151.92,On-Time,Credit Card,,30.0
+FL1979,2025-12-23,AirAsia,Mumbai,Singapore,Passenger_979,Economy,11082.44,Cancelled,Credit Card,7.0,15.0
+FL1980,2025-08-26,SpiceJet,Hyderabad,Dubai,Passenger_980,Business,,Cancelled,Credit Card,10.0,15.0
+FL1981,2025-07-09,Air India,Delhi,Paris,Passenger_981,First Class,9471.91,Delayed,Credit Card,7.0,30.0
+FL1982,2025-08-01,Air India,Mumbai,London,Passenger_982,Economy,13280.38,Cancelled,,,25.0
+FL1983,2025-01-14,AirAsia,Delhi,Singapore,Passenger_983,First Class,11375.15,Cancelled,Debit Card,5.0,25.0
+FL1984,2025-09-15,AirAsia,Kolkata,Singapore,Passenger_984,Business,9909.72,Cancelled,,10.0,
+FL1985,2025-08-19,SpiceJet,Mumbai,London,Passenger_985,Economy,7043.19,Cancelled,Debit Card,,25.0
+FL1986,2025-11-17,Air India,Hyderabad,New York,Passenger_986,First Class,5537.96,Cancelled,Credit Card,10.0,20.0
+FL1987,2025-07-26,Vistara,Kolkata,London,Passenger_987,Economy,4026.55,Delayed,Credit Card,5.0,20.0
+FL1988,2025-12-11,AirAsia,Delhi,Singapore,Passenger_988,First Class,16576.37,Delayed,UPI,10.0,30.0
+FL1989,2025-11-07,IndiGo,Chennai,London,Passenger_989,Economy,4537.02,Cancelled,Debit Card,10.0,20.0
+FL1990,2025-07-15,GoAir,Bangalore,New York,Passenger_990,Economy,17571.31,On-Time,Credit Card,,15.0
+FL1991,2025-12-15,AirAsia,Mumbai,Singapore,Passenger_991,Business,17102.46,Delayed,UPI,5.0,20.0
+FL1992,2025-06-08,AirAsia,Hyderabad,Paris,Passenger_992,Business,19004.95,Delayed,Credit Card,7.0,25.0
+FL1993,2025-06-03,IndiGo,Delhi,London,Passenger_993,Business,17633.74,Cancelled,Net Banking,,30.0
+FL1994,2025-02-06,GoAir,Bangalore,London,Passenger_994,Economy,9611.86,On-Time,Credit Card,5.0,
+FL1995,2025-12-03,GoAir,Chennai,Dubai,Passenger_995,First Class,4216.88,Delayed,Debit Card,7.0,30.0
+FL1996,2025-12-06,GoAir,Kolkata,Dubai,Passenger_996,Business,6459.05,Cancelled,Debit Card,7.0,30.0
+FL1997,2025-08-19,Air India,Bangalore,Paris,Passenger_997,Business,16639.64,On-Time,Credit Card,5.0,20.0
+FL1998,2025-08-09,SpiceJet,Mumbai,Bangkok,Passenger_998,Economy,,On-Time,Debit Card,7.0,30.0
+FL1999,2025-08-15,GoAir,Hyderabad,Bangkok,Passenger_999,First Class,6223.15,Cancelled,,5.0,25.0
+FL2000,2025-06-20,AirAsia,Hyderabad,New York,Passenger_1000,Business,15523.78,On-Time,UPI,7.0,25.0
+FL2001,2025-01-10,GoAir,Mumbai,New York,Passenger_1001,First Class,,Delayed,,,20.0
+FL2002,2025-10-13,GoAir,Kolkata,New York,Passenger_1002,Economy,5909.09,Cancelled,,10.0,25.0
+FL2003,2025-09-26,GoAir,Hyderabad,London,Passenger_1003,Business,10377.4,Cancelled,,7.0,30.0
+FL2004,2025-06-01,SpiceJet,Kolkata,Dubai,Passenger_1004,Business,10955.72,Cancelled,,5.0,15.0
+FL2005,2025-02-13,IndiGo,Mumbai,Dubai,Passenger_1005,Business,13240.54,Cancelled,Debit Card,7.0,20.0
+FL2006,2025-05-18,Vistara,Mumbai,Bangkok,Passenger_1006,Economy,17731.81,On-Time,Credit Card,10.0,15.0
+FL2007,2025-12-23,Air India,Hyderabad,Bangkok,Passenger_1007,First Class,4137.64,Cancelled,Credit Card,10.0,20.0
+FL2008,2025-01-04,AirAsia,Hyderabad,Bangkok,Passenger_1008,First Class,16668.03,Cancelled,Debit Card,7.0,15.0
+FL2009,2025-03-04,IndiGo,Mumbai,Paris,Passenger_1009,Business,18092.69,Cancelled,Debit Card,,30.0
+FL2010,2025-06-01,AirAsia,Mumbai,New York,Passenger_1010,Business,9349.41,Delayed,Net Banking,10.0,30.0
+FL2011,2025-08-23,Air India,Kolkata,Singapore,Passenger_1011,First Class,6032.77,Cancelled,Credit Card,5.0,25.0
+FL2012,2025-01-23,SpiceJet,Hyderabad,Dubai,Passenger_1012,First Class,12121.84,Delayed,Debit Card,5.0,20.0
+FL2013,2025-12-11,AirAsia,Bangalore,Bangkok,Passenger_1013,First Class,7205.58,Delayed,UPI,10.0,20.0
+FL2014,2025-10-16,AirAsia,Hyderabad,London,Passenger_1014,Business,4746.49,On-Time,Net Banking,7.0,15.0
+FL2015,2025-07-15,Vistara,Delhi,Paris,Passenger_1015,First Class,3986.58,Delayed,Debit Card,5.0,30.0
+FL2016,2025-01-02,AirAsia,Kolkata,Dubai,Passenger_1016,First Class,13410.58,Delayed,UPI,7.0,20.0
+FL2017,2025-08-15,Vistara,Bangalore,New York,Passenger_1017,Business,13991.5,On-Time,Credit Card,7.0,25.0
+FL2018,2025-07-02,GoAir,Chennai,Bangkok,Passenger_1018,Economy,8267.84,Cancelled,,7.0,20.0
+FL2019,2025-12-10,Vistara,Mumbai,Bangkok,Passenger_1019,Economy,18671.19,Cancelled,UPI,5.0,30.0
+FL2020,2025-11-21,IndiGo,Delhi,Paris,Passenger_1020,Business,14261.26,Cancelled,UPI,10.0,20.0
+FL2021,2025-01-24,IndiGo,Delhi,Bangkok,Passenger_1021,First Class,10911.46,Cancelled,,,20.0
+FL2022,2025-06-28,AirAsia,Bangalore,London,Passenger_1022,Economy,17926.26,Delayed,Net Banking,,15.0
+FL2023,2025-12-23,GoAir,Hyderabad,Dubai,Passenger_1023,Economy,12171.64,On-Time,Net Banking,7.0,25.0
+FL2024,2025-10-13,AirAsia,Delhi,Dubai,Passenger_1024,Economy,4490.81,Delayed,Net Banking,10.0,20.0
+FL2025,2025-09-24,AirAsia,Chennai,New York,Passenger_1025,Business,6063.12,On-Time,UPI,,20.0
+FL2026,2025-01-23,GoAir,Kolkata,London,Passenger_1026,Business,8216.78,Cancelled,Credit Card,10.0,
+FL2027,2025-10-06,SpiceJet,Mumbai,New York,Passenger_1027,Business,4985.47,Cancelled,UPI,,30.0
+FL2028,2025-12-25,Air India,Mumbai,Paris,Passenger_1028,First Class,8783.66,Cancelled,Debit Card,,15.0
+FL2029,2025-11-16,Air India,Hyderabad,Singapore,Passenger_1029,First Class,10235.3,Cancelled,Debit Card,7.0,25.0
+FL2030,2025-02-28,Vistara,Mumbai,Paris,Passenger_1030,Business,5402.93,On-Time,Net Banking,,20.0
+FL2031,2025-03-24,GoAir,Delhi,Dubai,Passenger_1031,First Class,18460.05,On-Time,Net Banking,,
+FL2032,2025-12-23,SpiceJet,Mumbai,Bangkok,Passenger_1032,Economy,16098.43,Cancelled,Debit Card,10.0,15.0
+FL2033,2025-10-10,Vistara,Chennai,Singapore,Passenger_1033,First Class,8411.27,Delayed,Credit Card,,20.0
+FL2034,2025-06-15,GoAir,Bangalore,Bangkok,Passenger_1034,Economy,3721.61,Cancelled,Credit Card,7.0,15.0
+FL2035,2025-02-06,Air India,Delhi,Paris,Passenger_1035,Economy,18224.82,On-Time,Debit Card,7.0,
+FL2036,2025-08-07,GoAir,Hyderabad,Paris,Passenger_1036,First Class,6887.93,On-Time,Debit Card,,15.0
+FL2037,2025-10-15,Air India,Kolkata,Singapore,Passenger_1037,Business,4433.42,On-Time,Credit Card,,30.0
+FL2038,2025-03-02,Vistara,Delhi,Dubai,Passenger_1038,Economy,16960.52,On-Time,Debit Card,7.0,30.0
+FL2039,2025-05-06,GoAir,Delhi,Dubai,Passenger_1039,Business,3799.13,Delayed,UPI,10.0,20.0
+FL2040,2025-09-02,IndiGo,Delhi,New York,Passenger_1040,Economy,11716.53,On-Time,Net Banking,5.0,
+FL2041,2025-04-13,Vistara,Delhi,Singapore,Passenger_1041,First Class,16625.27,On-Time,,10.0,
+FL2042,2025-10-28,Air India,Mumbai,New York,Passenger_1042,Business,15392.67,Delayed,,,
+FL2043,2025-10-09,IndiGo,Chennai,Paris,Passenger_1043,Business,10831.43,Cancelled,,7.0,20.0
+FL2044,2025-07-14,Air India,Chennai,New York,Passenger_1044,Business,8111.55,Delayed,,10.0,20.0
+FL2045,2025-02-07,GoAir,Bangalore,Dubai,Passenger_1045,First Class,,Delayed,Net Banking,,30.0
+FL2046,2025-01-03,GoAir,Kolkata,Singapore,Passenger_1046,Economy,9397.99,On-Time,Net Banking,7.0,15.0
+FL2047,2025-04-24,IndiGo,Kolkata,Paris,Passenger_1047,First Class,16891.62,Delayed,Credit Card,7.0,25.0
+FL2048,2025-03-10,Air India,Delhi,Bangkok,Passenger_1048,Economy,8907.89,Cancelled,Debit Card,5.0,20.0
+FL2049,2025-08-17,IndiGo,Chennai,London,Passenger_1049,Business,9592.97,Delayed,Net Banking,7.0,30.0
+FL2050,2025-07-09,SpiceJet,Bangalore,Bangkok,Passenger_1050,Economy,16213.51,On-Time,Credit Card,10.0,
+FL2051,2025-11-01,AirAsia,Bangalore,Paris,Passenger_1051,Business,12585.04,On-Time,UPI,,
+FL2052,2025-03-24,SpiceJet,Mumbai,Bangkok,Passenger_1052,Economy,10869.79,Delayed,Net Banking,5.0,20.0
+FL2053,2025-04-18,IndiGo,Kolkata,Bangkok,Passenger_1053,Economy,9795.71,On-Time,,10.0,15.0
+FL2054,2025-08-20,AirAsia,Chennai,London,Passenger_1054,Business,5879.27,On-Time,Net Banking,7.0,20.0
+FL2055,2025-12-19,Vistara,Kolkata,Bangkok,Passenger_1055,Business,4128.2,On-Time,,5.0,20.0
+FL2056,2025-08-13,SpiceJet,Hyderabad,London,Passenger_1056,Business,17179.29,Delayed,Net Banking,,30.0
+FL2057,2025-01-19,SpiceJet,Delhi,London,Passenger_1057,Economy,9309.32,Cancelled,Credit Card,,
+FL2058,2025-01-05,AirAsia,Mumbai,Bangkok,Passenger_1058,Business,5323.69,Cancelled,Debit Card,5.0,
+FL2059,2025-05-20,AirAsia,Kolkata,Singapore,Passenger_1059,First Class,6313.34,Delayed,,7.0,15.0
+FL2060,2025-01-08,Vistara,Chennai,New York,Passenger_1060,First Class,,On-Time,Debit Card,7.0,25.0
+FL2061,2025-01-02,IndiGo,Kolkata,Bangkok,Passenger_1061,First Class,13081.81,Cancelled,Debit Card,,30.0
+FL2062,2025-09-27,Air India,Kolkata,Singapore,Passenger_1062,First Class,11058.14,Delayed,Net Banking,,30.0
+FL2063,2025-04-11,Air India,Hyderabad,New York,Passenger_1063,First Class,9291.17,Cancelled,UPI,10.0,25.0
+FL2064,2025-01-15,Vistara,Mumbai,Bangkok,Passenger_1064,Business,19626.73,On-Time,,5.0,
+FL2065,2025-10-06,GoAir,Bangalore,Dubai,Passenger_1065,Business,7746.14,On-Time,UPI,,20.0
+FL2066,2025-03-15,Vistara,Bangalore,Singapore,Passenger_1066,Business,11560.59,On-Time,Credit Card,,25.0
+FL2067,2025-08-21,Vistara,Bangalore,London,Passenger_1067,First Class,16899.1,Cancelled,Credit Card,5.0,20.0
+FL2068,2025-03-19,GoAir,Delhi,Bangkok,Passenger_1068,Business,17732.28,On-Time,UPI,10.0,
+FL2069,2025-10-27,GoAir,Bangalore,London,Passenger_1069,Economy,18803.65,On-Time,UPI,7.0,
+FL2070,2025-01-05,Air India,Mumbai,Bangkok,Passenger_1070,First Class,14929.46,Cancelled,Credit Card,10.0,20.0
+FL2071,2025-12-15,IndiGo,Chennai,Paris,Passenger_1071,Business,,Delayed,Debit Card,5.0,
+FL2072,2025-10-02,Air India,Delhi,New York,Passenger_1072,First Class,4762.38,On-Time,,,20.0
+FL2073,2025-02-07,IndiGo,Hyderabad,Bangkok,Passenger_1073,Business,4721.14,On-Time,Net Banking,10.0,30.0
+FL2074,2025-02-20,AirAsia,Chennai,Paris,Passenger_1074,Economy,5974.79,Cancelled,,10.0,20.0
+FL2075,2025-11-14,SpiceJet,Bangalore,Paris,Passenger_1075,First Class,7675.51,Delayed,Net Banking,,25.0
+FL2076,2025-02-02,Vistara,Bangalore,Bangkok,Passenger_1076,Business,19765.78,Delayed,UPI,7.0,20.0
+FL2077,2025-02-04,Air India,Hyderabad,Paris,Passenger_1077,Economy,6329.68,Delayed,,5.0,30.0
+FL2078,2025-02-19,Air India,Bangalore,Singapore,Passenger_1078,First Class,13695.46,Cancelled,Debit Card,,
+FL2079,2025-01-05,AirAsia,Bangalore,Paris,Passenger_1079,First Class,15092.55,Cancelled,,10.0,25.0
+FL2080,2025-09-14,SpiceJet,Hyderabad,Singapore,Passenger_1080,Economy,13117.54,Cancelled,UPI,,30.0
+FL2081,2025-01-23,IndiGo,Bangalore,London,Passenger_1081,Economy,8851.67,Cancelled,Net Banking,5.0,15.0
+FL2082,2025-07-08,SpiceJet,Hyderabad,London,Passenger_1082,First Class,13227.63,Cancelled,Net Banking,5.0,30.0
+FL2083,2025-06-13,GoAir,Mumbai,London,Passenger_1083,Economy,16795.68,On-Time,UPI,7.0,20.0
+FL2084,2025-10-05,Vistara,Delhi,Paris,Passenger_1084,First Class,19015.64,Cancelled,Debit Card,5.0,25.0
+FL2085,2025-07-09,AirAsia,Delhi,London,Passenger_1085,First Class,3150.03,Delayed,Net Banking,,25.0
+FL2086,2025-07-19,IndiGo,Hyderabad,Dubai,Passenger_1086,Business,15028.95,Cancelled,,,25.0
+FL2087,2025-12-03,SpiceJet,Delhi,New York,Passenger_1087,Business,3393.69,Delayed,Credit Card,5.0,
+FL2088,2025-06-13,IndiGo,Hyderabad,Bangkok,Passenger_1088,Business,17625.07,Cancelled,,5.0,
+FL2089,2025-09-09,Vistara,Bangalore,Bangkok,Passenger_1089,Business,5784.61,Cancelled,Debit Card,,
+FL2090,2025-11-13,AirAsia,Chennai,Paris,Passenger_1090,First Class,18756.87,Cancelled,,7.0,
+FL2091,2025-09-27,AirAsia,Chennai,Dubai,Passenger_1091,First Class,8157.47,On-Time,,,25.0
+FL2092,2025-05-22,SpiceJet,Mumbai,London,Passenger_1092,First Class,18409.33,On-Time,Credit Card,,30.0
+FL2093,2025-12-10,IndiGo,Chennai,Singapore,Passenger_1093,First Class,3124.65,Cancelled,Credit Card,10.0,30.0
+FL2094,2025-08-23,IndiGo,Chennai,London,Passenger_1094,First Class,7150.42,Delayed,Credit Card,7.0,15.0
+FL2095,2025-09-12,AirAsia,Kolkata,Singapore,Passenger_1095,First Class,15248.17,Cancelled,UPI,10.0,
+FL2096,2025-08-04,IndiGo,Bangalore,Bangkok,Passenger_1096,Economy,19702.34,On-Time,Debit Card,,30.0
+FL2097,2025-06-03,Vistara,Kolkata,Dubai,Passenger_1097,Business,,On-Time,Debit Card,,
+FL2098,2025-10-13,IndiGo,Mumbai,London,Passenger_1098,Business,7877.85,Cancelled,,,
+FL2099,2025-07-21,AirAsia,Hyderabad,Dubai,Passenger_1099,Economy,13091.23,Delayed,Debit Card,7.0,25.0
+FL2100,2025-04-06,Vistara,Kolkata,Bangkok,Passenger_1100,Business,10989.8,Delayed,Credit Card,7.0,20.0
+FL2101,2025-06-20,SpiceJet,Bangalore,Singapore,Passenger_1101,First Class,10779.65,Delayed,Debit Card,10.0,25.0
+FL2102,2025-07-06,SpiceJet,Hyderabad,Dubai,Passenger_1102,First Class,10144.9,On-Time,Net Banking,7.0,
+FL2103,2025-05-22,Air India,Kolkata,Singapore,Passenger_1103,Economy,17899.28,Delayed,UPI,,20.0
+FL2104,2025-01-06,Air India,Hyderabad,Singapore,Passenger_1104,Business,9384.1,Delayed,UPI,,20.0
+FL2105,2025-02-06,Air India,Chennai,Bangkok,Passenger_1105,First Class,17940.95,Cancelled,Credit Card,7.0,15.0
+FL2106,2025-04-11,AirAsia,Chennai,Paris,Passenger_1106,First Class,19089.43,Delayed,UPI,10.0,
+FL2107,2025-02-10,IndiGo,Mumbai,Paris,Passenger_1107,First Class,17699.26,Cancelled,Credit Card,,20.0
+FL2108,2025-12-06,Vistara,Hyderabad,Paris,Passenger_1108,First Class,11630.32,Delayed,,7.0,
+FL2109,2025-11-04,Vistara,Hyderabad,Dubai,Passenger_1109,Business,14340.82,On-Time,Credit Card,,
+FL2110,2025-09-04,AirAsia,Delhi,London,Passenger_1110,Business,6799.22,Cancelled,Net Banking,10.0,
+FL2111,2025-04-01,SpiceJet,Delhi,Bangkok,Passenger_1111,Business,5847.93,Delayed,Debit Card,7.0,15.0
+FL2112,2025-08-13,AirAsia,Chennai,Singapore,Passenger_1112,First Class,12883.03,Cancelled,,,
+FL2113,2025-08-28,Vistara,Kolkata,Singapore,Passenger_1113,First Class,6851.09,Cancelled,Net Banking,10.0,
+FL2114,2025-08-13,AirAsia,Kolkata,Paris,Passenger_1114,First Class,3262.51,Delayed,Debit Card,7.0,
+FL2115,2025-07-05,Air India,Mumbai,Singapore,Passenger_1115,First Class,8406.18,Delayed,UPI,10.0,20.0
+FL2116,2025-10-16,IndiGo,Hyderabad,Dubai,Passenger_1116,First Class,13049.69,Delayed,UPI,,15.0
+FL2117,2025-06-07,SpiceJet,Bangalore,Bangkok,Passenger_1117,First Class,6037.97,On-Time,UPI,,15.0
+FL2118,2025-09-11,AirAsia,Bangalore,Dubai,Passenger_1118,First Class,14036.01,Cancelled,Credit Card,10.0,15.0
+FL2119,2025-02-04,Vistara,Bangalore,London,Passenger_1119,Economy,12664.38,On-Time,,7.0,30.0
+FL2120,2025-06-27,AirAsia,Delhi,New York,Passenger_1120,Economy,7856.7,Cancelled,,5.0,20.0
+FL2121,2025-09-01,Air India,Bangalore,Paris,Passenger_1121,Business,5541.09,On-Time,,10.0,15.0
+FL2122,2025-03-08,IndiGo,Delhi,Singapore,Passenger_1122,Economy,16766.77,On-Time,UPI,5.0,25.0
+FL2123,2025-03-22,AirAsia,Chennai,Bangkok,Passenger_1123,Business,9300.36,Delayed,UPI,5.0,30.0
+FL2124,2025-03-16,Vistara,Bangalore,London,Passenger_1124,Business,15470.69,On-Time,UPI,,30.0
+FL2125,2025-09-16,IndiGo,Mumbai,New York,Passenger_1125,Business,7119.55,Cancelled,UPI,,
+FL2126,2025-09-19,AirAsia,Mumbai,Singapore,Passenger_1126,Business,4993.88,Cancelled,Debit Card,5.0,15.0
+FL2127,2025-04-08,Air India,Delhi,New York,Passenger_1127,First Class,12439.83,Delayed,Debit Card,10.0,30.0
+FL2128,2025-08-18,GoAir,Kolkata,Paris,Passenger_1128,First Class,15111.37,Delayed,Credit Card,5.0,25.0
+FL2129,2025-02-07,AirAsia,Delhi,New York,Passenger_1129,Economy,3209.99,Delayed,Credit Card,,15.0
+FL2130,2025-09-06,Air India,Chennai,London,Passenger_1130,Economy,14059.23,Delayed,Debit Card,10.0,
+FL2131,2025-10-02,AirAsia,Delhi,New York,Passenger_1131,Business,3352.39,Delayed,Debit Card,10.0,
+FL2132,2025-05-21,GoAir,Kolkata,London,Passenger_1132,First Class,3223.07,Delayed,Debit Card,5.0,25.0
+FL2133,2025-07-19,Air India,Hyderabad,Bangkok,Passenger_1133,First Class,3152.33,On-Time,Credit Card,5.0,
+FL2134,2025-09-18,Air India,Delhi,Bangkok,Passenger_1134,Business,12238.45,Cancelled,Credit Card,5.0,20.0
+FL2135,2025-10-23,Air India,Hyderabad,Bangkok,Passenger_1135,Business,19819.96,Delayed,UPI,10.0,15.0
+FL2136,2025-03-27,Air India,Hyderabad,Paris,Passenger_1136,First Class,5727.5,On-Time,Net Banking,10.0,
+FL2137,2025-06-28,IndiGo,Kolkata,Dubai,Passenger_1137,First Class,17909.46,Delayed,Debit Card,,20.0
+FL2138,2025-07-02,Vistara,Mumbai,Paris,Passenger_1138,Economy,15003.32,Delayed,Credit Card,7.0,30.0
+FL2139,2025-07-12,SpiceJet,Chennai,Bangkok,Passenger_1139,First Class,9768.36,On-Time,Debit Card,,
+FL2140,2025-04-03,GoAir,Hyderabad,Singapore,Passenger_1140,First Class,3768.12,On-Time,Credit Card,7.0,
+FL2141,2025-08-21,SpiceJet,Delhi,London,Passenger_1141,Economy,16582.89,Delayed,Credit Card,,15.0
+FL2142,2025-08-27,SpiceJet,Kolkata,Paris,Passenger_1142,First Class,3075.56,Delayed,Credit Card,7.0,15.0
+FL2143,2025-09-15,GoAir,Kolkata,Paris,Passenger_1143,Business,11684.78,Cancelled,Credit Card,,15.0
+FL2144,2025-09-17,IndiGo,Kolkata,Bangkok,Passenger_1144,Business,4601.3,Cancelled,Debit Card,,
+FL2145,2025-04-24,Air India,Mumbai,New York,Passenger_1145,Economy,8814.87,Cancelled,Credit Card,7.0,15.0
+FL2146,2025-05-12,Vistara,Hyderabad,Dubai,Passenger_1146,Business,4026.35,Delayed,Net Banking,7.0,20.0
+FL2147,2025-11-21,SpiceJet,Hyderabad,New York,Passenger_1147,Economy,11706.34,Delayed,UPI,5.0,25.0
+FL2148,2025-04-26,GoAir,Delhi,London,Passenger_1148,Business,15374.56,Cancelled,,,15.0
+FL2149,2025-02-16,IndiGo,Chennai,Bangkok,Passenger_1149,Economy,16877.38,Delayed,UPI,7.0,20.0
+FL2150,2025-12-21,IndiGo,Bangalore,Dubai,Passenger_1150,Economy,7499.53,Delayed,Debit Card,10.0,15.0
+FL2151,2025-10-19,SpiceJet,Bangalore,New York,Passenger_1151,Economy,9725.17,Cancelled,UPI,,30.0
+FL2152,2025-01-02,SpiceJet,Hyderabad,Bangkok,Passenger_1152,Business,,On-Time,,7.0,20.0
+FL2153,2025-11-13,GoAir,Bangalore,New York,Passenger_1153,Business,15381.08,Cancelled,Debit Card,,20.0
+FL2154,2025-05-04,GoAir,Delhi,Bangkok,Passenger_1154,First Class,19065.78,Delayed,UPI,,
+FL2155,2025-09-26,IndiGo,Mumbai,New York,Passenger_1155,Business,17049.89,Cancelled,,,25.0
+FL2156,2025-09-19,IndiGo,Delhi,London,Passenger_1156,First Class,3342.26,On-Time,Debit Card,10.0,20.0
+FL2157,2025-10-01,IndiGo,Hyderabad,Singapore,Passenger_1157,First Class,5546.79,Cancelled,Debit Card,7.0,
+FL2158,2025-02-25,GoAir,Hyderabad,Singapore,Passenger_1158,Economy,10518.82,On-Time,Net Banking,5.0,
+FL2159,2025-02-09,Air India,Mumbai,New York,Passenger_1159,Business,19061.39,Delayed,,7.0,
+FL2160,2025-06-20,GoAir,Kolkata,Bangkok,Passenger_1160,Business,18930.37,On-Time,Debit Card,5.0,25.0
+FL2161,2025-10-08,IndiGo,Kolkata,Bangkok,Passenger_1161,First Class,16569.74,Delayed,Net Banking,5.0,30.0
+FL2162,2025-07-10,IndiGo,Kolkata,Singapore,Passenger_1162,Business,15697.51,Cancelled,UPI,10.0,30.0
+FL2163,2025-08-15,AirAsia,Bangalore,Paris,Passenger_1163,First Class,16255.19,Delayed,Net Banking,,25.0
+FL2164,2025-08-11,AirAsia,Kolkata,Paris,Passenger_1164,Economy,13528.79,Cancelled,,,25.0
+FL2165,2025-12-26,SpiceJet,Mumbai,New York,Passenger_1165,Economy,12696.7,Delayed,Net Banking,,20.0
+FL2166,2025-10-01,Vistara,Delhi,Bangkok,Passenger_1166,Economy,4603.98,On-Time,Debit Card,7.0,15.0
+FL2167,2025-04-22,Vistara,Bangalore,Singapore,Passenger_1167,Business,10404.03,Delayed,Debit Card,5.0,15.0
+FL2168,2025-10-10,Air India,Delhi,London,Passenger_1168,Business,11840.72,Delayed,,,25.0
+FL2169,2025-01-22,Vistara,Chennai,New York,Passenger_1169,Economy,3483.65,Cancelled,UPI,7.0,15.0
+FL2170,2025-07-11,IndiGo,Chennai,Dubai,Passenger_1170,Economy,8546.18,On-Time,Debit Card,5.0,20.0
+FL2171,2025-07-24,Vistara,Mumbai,Dubai,Passenger_1171,Business,3711.19,On-Time,Debit Card,7.0,30.0
+FL2172,2025-07-02,Vistara,Chennai,New York,Passenger_1172,Economy,18933.8,Delayed,,10.0,20.0
+FL2173,2025-01-11,SpiceJet,Bangalore,Paris,Passenger_1173,First Class,4460.19,On-Time,Net Banking,,30.0
+FL2174,2025-02-16,Vistara,Kolkata,Dubai,Passenger_1174,Business,5198.12,Cancelled,Credit Card,5.0,
+FL2175,2025-11-22,GoAir,Bangalore,Singapore,Passenger_1175,Business,15324.53,Delayed,Net Banking,10.0,20.0
+FL2176,2025-11-26,GoAir,Bangalore,Dubai,Passenger_1176,Economy,5538.86,On-Time,Credit Card,,15.0
+FL2177,2025-01-23,SpiceJet,Kolkata,Paris,Passenger_1177,First Class,17855.72,On-Time,Net Banking,7.0,20.0
+FL2178,2025-08-17,SpiceJet,Bangalore,Paris,Passenger_1178,First Class,10731.69,Delayed,Debit Card,5.0,15.0
+FL2179,2025-08-02,GoAir,Hyderabad,London,Passenger_1179,Economy,3593.03,Cancelled,Debit Card,5.0,
+FL2180,2025-09-03,Air India,Hyderabad,New York,Passenger_1180,Business,4666.69,Cancelled,UPI,7.0,20.0
+FL2181,2025-10-14,Vistara,Mumbai,Bangkok,Passenger_1181,Economy,10571.15,On-Time,Debit Card,,20.0
+FL2182,2025-07-26,Air India,Hyderabad,Singapore,Passenger_1182,First Class,3231.47,Delayed,Debit Card,,15.0
+FL2183,2025-01-28,GoAir,Delhi,London,Passenger_1183,First Class,12150.04,On-Time,Debit Card,7.0,25.0
+FL2184,2025-08-28,SpiceJet,Mumbai,London,Passenger_1184,Business,9194.44,Delayed,,,30.0
+FL2185,2025-11-11,SpiceJet,Mumbai,Dubai,Passenger_1185,Economy,4394.74,On-Time,,7.0,15.0
+FL2186,2025-12-08,AirAsia,Delhi,New York,Passenger_1186,Business,6648.42,On-Time,UPI,10.0,30.0
+FL2187,2025-10-01,IndiGo,Kolkata,Bangkok,Passenger_1187,Business,10027.19,Cancelled,Net Banking,,30.0
+FL2188,2025-10-20,Air India,Kolkata,Dubai,Passenger_1188,Economy,8001.78,On-Time,Debit Card,5.0,
+FL2189,2025-07-17,IndiGo,Delhi,Singapore,Passenger_1189,First Class,8318.65,Delayed,UPI,7.0,20.0
+FL2190,2025-05-22,Air India,Bangalore,New York,Passenger_1190,First Class,19058.36,Cancelled,,5.0,30.0
+FL2191,2025-09-09,Air India,Chennai,London,Passenger_1191,Business,5916.03,Cancelled,Credit Card,5.0,15.0
+FL2192,2025-02-27,IndiGo,Delhi,Dubai,Passenger_1192,First Class,13457.01,On-Time,UPI,5.0,30.0
+FL2193,2025-12-28,Vistara,Mumbai,London,Passenger_1193,First Class,16537.93,Cancelled,Debit Card,,25.0
+FL2194,2025-06-26,GoAir,Delhi,Singapore,Passenger_1194,First Class,13955.59,On-Time,Credit Card,10.0,25.0
+FL2195,2025-11-17,AirAsia,Chennai,Bangkok,Passenger_1195,Economy,8495.98,Delayed,Debit Card,5.0,15.0
+FL2196,2025-03-25,GoAir,Mumbai,Paris,Passenger_1196,Business,14165.61,On-Time,,,25.0
+FL2197,2025-09-12,Vistara,Chennai,Paris,Passenger_1197,Economy,,On-Time,,5.0,30.0
+FL2198,2025-12-03,GoAir,Bangalore,Paris,Passenger_1198,Business,19177.3,Cancelled,Credit Card,5.0,
+FL2199,2025-09-20,GoAir,Chennai,Singapore,Passenger_1199,Economy,9721.42,Delayed,Debit Card,10.0,20.0
+FL2200,2025-03-25,GoAir,Chennai,Singapore,Passenger_1200,First Class,17438.46,Delayed,Debit Card,5.0,25.0
+FL1656,2025-03-01,AirAsia,Kolkata,New York,Passenger_656,Business,13557.97,Cancelled,Net Banking,,15.0
+FL1515,2025-04-08,GoAir,Mumbai,New York,Passenger_515,Economy,7398.02,On-Time,Debit Card,10.0,
+FL1155,2025-09-11,Vistara,Delhi,Bangkok,Passenger_155,Business,17137.08,Cancelled,UPI,10.0,15.0
+FL1184,2025-08-11,Vistara,Kolkata,Singapore,Passenger_184,Business,15020.93,On-Time,UPI,5.0,25.0
+FL1918,2025-09-14,GoAir,Hyderabad,New York,Passenger_918,Business,18186.79,On-Time,Credit Card,7.0,30.0
+FL2089,2025-09-09,Vistara,Bangalore,Bangkok,Passenger_1089,Business,5784.61,Cancelled,Debit Card,,
+FL1365,2025-10-01,GoAir,Kolkata,Paris,Passenger_365,First Class,5600.64,On-Time,Net Banking,7.0,20.0
+FL1943,2025-04-25,Air India,Delhi,Singapore,Passenger_943,First Class,,On-Time,Debit Card,5.0,20.0
+FL1026,2025-04-14,Vistara,Hyderabad,London,Passenger_26,Business,17190.19,On-Time,Debit Card,7.0,
+FL1239,2025-06-19,AirAsia,Delhi,Dubai,Passenger_239,Business,5296.72,On-Time,Debit Card,5.0,
+FL2116,2025-10-16,IndiGo,Hyderabad,Dubai,Passenger_1116,First Class,13049.69,Delayed,UPI,,15.0
+FL1558,2025-03-15,IndiGo,Delhi,Singapore,Passenger_558,First Class,6557.01,On-Time,,,30.0
+FL2031,2025-03-24,GoAir,Delhi,Dubai,Passenger_1031,First Class,18460.05,On-Time,Net Banking,,
+FL2060,2025-01-08,Vistara,Chennai,New York,Passenger_1060,First Class,,On-Time,Debit Card,7.0,25.0
+FL1554,2025-07-14,IndiGo,Mumbai,London,Passenger_554,Economy,9972.34,On-Time,Net Banking,,25.0
+FL2062,2025-09-27,Air India,Kolkata,Singapore,Passenger_1062,First Class,11058.14,Delayed,Net Banking,,30.0
+FL1655,2025-11-03,IndiGo,Bangalore,London,Passenger_655,First Class,7614.4,Delayed,Debit Card,7.0,15.0
+FL1402,2025-01-15,Air India,Kolkata,Singapore,Passenger_402,First Class,9254.23,Delayed,,5.0,
+FL1853,2025-06-13,Air India,Mumbai,New York,Passenger_853,Business,5676.43,Cancelled,Net Banking,5.0,
+FL1938,2025-03-22,IndiGo,Mumbai,Paris,Passenger_938,Economy,6478.14,Cancelled,UPI,,
+FL1694,2025-09-09,Air India,Bangalore,Bangkok,Passenger_694,Economy,,Cancelled,Debit Card,7.0,
+FL1991,2025-12-15,AirAsia,Mumbai,Singapore,Passenger_991,Business,17102.46,Delayed,UPI,5.0,20.0
+FL2173,2025-01-11,SpiceJet,Bangalore,Paris,Passenger_1173,First Class,4460.19,On-Time,Net Banking,,30.0
+FL1437,2025-01-14,GoAir,Chennai,Bangkok,Passenger_437,Business,19276.07,On-Time,,,30.0
+FL1952,2025-06-15,Vistara,Chennai,Bangkok,Passenger_952,First Class,9572.98,Cancelled,Debit Card,,15.0
+FL1135,2025-03-19,SpiceJet,Hyderabad,Bangkok,Passenger_135,First Class,7052.81,On-Time,Net Banking,7.0,30.0
+FL1412,2025-09-27,Vistara,Kolkata,Paris,Passenger_412,First Class,7988.22,Delayed,,,20.0
+FL1902,2025-01-09,IndiGo,Bangalore,Bangkok,Passenger_902,Economy,13976.23,Cancelled,,5.0,25.0
+FL1741,2025-02-26,SpiceJet,Mumbai,Bangkok,Passenger_741,First Class,15700.83,Cancelled,Net Banking,,30.0
+FL1328,2025-06-03,IndiGo,Bangalore,New York,Passenger_328,First Class,8547.58,Delayed,UPI,5.0,
+FL1561,2025-08-23,Vistara,Chennai,London,Passenger_561,First Class,13583.36,Delayed,Credit Card,7.0,20.0
+FL1216,2025-11-24,SpiceJet,Kolkata,London,Passenger_216,Business,5688.7,Cancelled,Credit Card,,15.0
+FL1734,2025-07-03,Air India,Mumbai,Paris,Passenger_734,Economy,10870.6,Delayed,,,30.0
+FL1873,2025-06-07,IndiGo,Mumbai,Paris,Passenger_873,Economy,16958.25,On-Time,Net Banking,7.0,15.0
+FL1472,2025-06-14,GoAir,Hyderabad,Singapore,Passenger_472,First Class,8596.02,Cancelled,Net Banking,,20.0
+FL1264,2025-08-27,SpiceJet,Bangalore,London,Passenger_264,First Class,15367.66,On-Time,Credit Card,10.0,15.0
+FL2142,2025-08-27,SpiceJet,Kolkata,Paris,Passenger_1142,First Class,3075.56,Delayed,Credit Card,7.0,15.0
+FL1646,2025-10-02,Vistara,Hyderabad,Dubai,Passenger_646,Economy,17637.04,On-Time,,5.0,25.0
+FL1718,2025-09-09,IndiGo,Kolkata,Paris,Passenger_718,First Class,10232.2,Cancelled,Debit Card,,15.0
+FL1583,2025-08-23,Vistara,Chennai,London,Passenger_583,Economy,7010.52,Delayed,Net Banking,10.0,30.0
+FL1421,2025-08-19,SpiceJet,Delhi,Bangkok,Passenger_421,First Class,11515.33,On-Time,Debit Card,,30.0
+FL1011,2025-06-07,SpiceJet,Chennai,Bangkok,Passenger_11,Business,5480.8,Delayed,Net Banking,10.0,20.0
+FL1859,2025-03-26,Vistara,Hyderabad,London,Passenger_859,Business,8979.55,On-Time,Debit Card,,25.0
+FL1339,2025-03-20,Vistara,Bangalore,New York,Passenger_339,First Class,11366.31,Cancelled,,5.0,15.0
+FL1005,2025-09-26,Vistara,Delhi,London,Passenger_5,Business,8063.49,On-Time,,,25.0
+FL2087,2025-12-03,SpiceJet,Delhi,New York,Passenger_1087,Business,3393.69,Delayed,Credit Card,5.0,
+FL1567,2025-02-14,GoAir,Chennai,Dubai,Passenger_567,Economy,3538.86,Cancelled,UPI,7.0,15.0
+FL1707,2025-05-16,AirAsia,Mumbai,Singapore,Passenger_707,Business,8923.03,Delayed,Net Banking,10.0,
+FL2018,2025-07-02,GoAir,Chennai,Bangkok,Passenger_1018,Economy,8267.84,Cancelled,,7.0,20.0
+FL1500,2025-10-24,AirAsia,Delhi,Paris,Passenger_500,First Class,11059.75,Delayed,Credit Card,5.0,

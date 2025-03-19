@@ -1,0 +1,1001 @@
+Order_ID,Customer_Name,Product,Category,Quantity,Price,Order_Date,Delivery_Status
+ORD00001,David,Camera,Accessories,3.0,968.79,2025-06-12,Delivered
+ORD00002,Bob,Headphones,Electronics,4.0,869.81,,Pending
+ORD00003,,Gaming Console,Electronics,,903.64,2025-07-9,Pending
+ORD00004,Bob,Laptop,Gadgets,2.0,762.42,2025-07-28,Delivered
+ORD00005,Bob,Camera,Gadgets,4.0,304.83,2025-08-11,Canceled
+ORD00006,,Gaming Console,Accessories,3.0,649.85,2025-09-15,Delivered
+ORD00007,Hannah,Laptop,Accessories,5.0,285.15,2025-07-24,Delivered
+ORD00008,Jack,Mobile Phone,Accessories,1.0,876.97,,Pending
+ORD00009,Grace,Smartwatch,Accessories,2.0,,,Pending
+ORD00010,,Headphones,Electronics,3.0,669.95,,Delivered
+ORD00011,Frank,Mobile Phone,Accessories,1.0,733.18,,Canceled
+ORD00012,Hannah,Headphones,Accessories,3.0,442.43,,Canceled
+ORD00013,,Gaming Console,Gadgets,1.0,241.67,2025-07-8,Canceled
+ORD00014,Jack,Mobile Phone,Gadgets,1.0,734.13,,Pending
+ORD00015,Grace,Headphones,Accessories,2.0,773.97,2025-08-14,Delivered
+ORD00016,Jack,Gaming Console,Accessories,3.0,959.95,2025-01-5,Canceled
+ORD00017,Grace,Smartwatch,Accessories,2.0,255.09,2025-05-1,Canceled
+ORD00018,Bob,Tablet,Electronics,3.0,545.32,2025-05-11,Pending
+ORD00019,Eve,Headphones,Gadgets,4.0,272.47,2025-07-19,Pending
+ORD00020,Jack,Smartwatch,Electronics,5.0,781.91,2025-02-23,Delivered
+ORD00021,Bob,Camera,Gadgets,,542.19,2025-06-14,Pending
+ORD00022,Frank,Smartwatch,Gadgets,1.0,,2025-05-10,Delivered
+ORD00023,Eve,Smartwatch,Electronics,3.0,790.61,2025-06-12,Delivered
+ORD00024,Bob,Tablet,Accessories,,391.79,2025-02-27,Pending
+ORD00025,Ivy,Camera,Gadgets,2.0,602.63,2025-05-24,Pending
+ORD00026,Charlie,Smartwatch,Gadgets,4.0,122.08,2025-04-7,Delivered
+ORD00027,Grace,Gaming Console,Accessories,3.0,517.37,,Pending
+ORD00028,Alice,Camera,Accessories,1.0,676.2,2025-04-21,Pending
+ORD00029,Eve,Tablet,Gadgets,4.0,738.89,2025-03-1,Canceled
+ORD00030,Hannah,Headphones,Electronics,4.0,525.44,2025-06-5,Pending
+ORD00031,Eve,Laptop,Electronics,1.0,802.18,2025-05-18,Delivered
+ORD00032,,Gaming Console,Gadgets,3.0,885.92,,Pending
+ORD00033,Frank,Mobile Phone,Accessories,3.0,821.95,2025-07-23,Pending
+ORD00034,Ivy,Gaming Console,Electronics,,480.59,2025-05-13,Canceled
+ORD00035,Hannah,Smartwatch,Electronics,2.0,906.63,2025-05-23,Canceled
+ORD00036,Ivy,Smartwatch,Gadgets,3.0,505.49,2025-07-19,Canceled
+ORD00037,Frank,Smartwatch,Gadgets,4.0,51.73,2025-05-6,Pending
+ORD00038,Jack,Camera,Accessories,3.0,808.82,,Pending
+ORD00039,Bob,Gaming Console,Electronics,5.0,753.12,2025-08-25,Delivered
+ORD00040,Ivy,Camera,Gadgets,2.0,,,Delivered
+ORD00041,Charlie,Tablet,Accessories,1.0,423.14,2025-06-17,Pending
+ORD00042,Jack,Headphones,Gadgets,3.0,755.61,2025-08-10,Canceled
+ORD00043,Ivy,Laptop,Accessories,5.0,78.1,2025-03-11,Delivered
+ORD00044,Jack,Tablet,Gadgets,3.0,851.04,,Delivered
+ORD00045,Frank,Laptop,Gadgets,,720.76,2025-07-2,Delivered
+ORD00046,Hannah,Mobile Phone,Electronics,,561.44,2025-04-11,Pending
+ORD00047,David,Tablet,Accessories,4.0,810.98,2025-08-10,Pending
+ORD00048,Eve,Camera,Gadgets,,488.22,2025-04-11,Pending
+ORD00049,Charlie,Laptop,Accessories,2.0,76.26,2025-03-1,Pending
+ORD00050,Eve,Mobile Phone,Electronics,2.0,714.2,2025-01-10,Pending
+ORD00051,Frank,Mobile Phone,Accessories,3.0,61.2,2025-07-26,Pending
+ORD00052,,Tablet,Gadgets,3.0,152.01,2025-01-24,Canceled
+ORD00053,Frank,Gaming Console,Accessories,,747.05,2025-07-4,Canceled
+ORD00054,Ivy,Gaming Console,Electronics,1.0,481.31,2025-04-16,Canceled
+ORD00055,Ivy,Laptop,Electronics,2.0,762.07,2025-04-14,Pending
+ORD00056,Charlie,Smartwatch,Electronics,4.0,392.29,2025-09-14,Canceled
+ORD00057,Frank,Gaming Console,Gadgets,5.0,,2025-08-28,Pending
+ORD00058,,Headphones,Electronics,3.0,72.07,,Delivered
+ORD00059,Alice,Smartwatch,Electronics,3.0,,,Pending
+ORD00060,Grace,Camera,Electronics,4.0,704.52,2025-02-28,Delivered
+ORD00061,Ivy,Tablet,Gadgets,1.0,771.36,2025-06-23,Delivered
+ORD00062,Frank,Laptop,Electronics,1.0,741.7,2025-05-27,Canceled
+ORD00063,Frank,Headphones,Accessories,1.0,724.63,2025-07-16,Canceled
+ORD00064,,Headphones,Electronics,3.0,149.59,2025-09-16,Pending
+ORD00065,Ivy,Camera,Electronics,1.0,495.19,2025-08-28,Canceled
+ORD00066,David,Gaming Console,Accessories,4.0,552.62,2025-02-27,Canceled
+ORD00067,Frank,Headphones,Gadgets,3.0,337.88,2025-05-10,Pending
+ORD00068,Hannah,Camera,Accessories,1.0,253.12,2025-03-1,Canceled
+ORD00069,Hannah,Mobile Phone,Electronics,1.0,,2025-04-21,Delivered
+ORD00070,Ivy,Laptop,Accessories,,514.11,2025-07-23,Canceled
+ORD00071,Grace,Smartwatch,Electronics,,198.8,2025-07-3,Canceled
+ORD00072,Alice,Camera,Accessories,4.0,,2025-03-26,Pending
+ORD00073,Grace,Camera,Accessories,,,,Canceled
+ORD00074,Charlie,Tablet,Electronics,4.0,530.27,2025-02-17,Delivered
+ORD00075,,Smartwatch,Accessories,3.0,514.0,2025-04-9,Canceled
+ORD00076,Charlie,Smartwatch,Accessories,5.0,551.12,2025-06-12,Canceled
+ORD00077,,Camera,Accessories,5.0,475.37,2025-05-14,Delivered
+ORD00078,Eve,Gaming Console,Electronics,4.0,966.53,2025-03-16,Delivered
+ORD00079,,Gaming Console,Gadgets,4.0,362.98,2025-09-12,Canceled
+ORD00080,,Camera,Accessories,3.0,665.45,,Canceled
+ORD00081,Alice,Laptop,Gadgets,1.0,74.36,,Delivered
+ORD00082,Charlie,Tablet,Electronics,3.0,884.09,2025-01-17,Delivered
+ORD00083,Bob,Mobile Phone,Gadgets,1.0,991.16,2025-01-5,Canceled
+ORD00084,Hannah,Tablet,Accessories,5.0,957.86,2025-04-10,Delivered
+ORD00085,Jack,Smartwatch,Accessories,,440.29,2025-08-17,Pending
+ORD00086,,Tablet,Gadgets,1.0,945.19,2025-04-10,Pending
+ORD00087,Grace,Gaming Console,Electronics,4.0,,2025-04-16,Delivered
+ORD00088,Eve,Camera,Gadgets,1.0,164.85,2025-09-10,Delivered
+ORD00089,David,Smartwatch,Accessories,1.0,575.19,2025-01-16,Pending
+ORD00090,Jack,Headphones,Electronics,4.0,724.51,2025-06-1,Pending
+ORD00091,Ivy,Tablet,Electronics,4.0,291.71,,Pending
+ORD00092,David,Gaming Console,Accessories,3.0,680.36,2025-04-3,Delivered
+ORD00093,Charlie,Laptop,Gadgets,3.0,180.47,2025-06-2,Delivered
+ORD00094,Grace,Gaming Console,Electronics,1.0,252.28,2025-06-18,Pending
+ORD00095,David,Smartwatch,Electronics,4.0,859.85,2025-07-16,Pending
+ORD00096,Bob,Gaming Console,Electronics,4.0,,2025-09-5,Pending
+ORD00097,Grace,Tablet,Accessories,5.0,664.08,2025-07-4,Pending
+ORD00098,Eve,Tablet,Accessories,,200.3,2025-06-24,Delivered
+ORD00099,Bob,Smartwatch,Gadgets,2.0,452.33,2025-09-9,Pending
+ORD00100,Alice,Laptop,Gadgets,1.0,936.55,2025-01-4,Canceled
+ORD00101,Eve,Headphones,Accessories,3.0,992.62,2025-01-2,Delivered
+ORD00102,Bob,Headphones,Gadgets,,884.64,2025-04-2,Pending
+ORD00103,Alice,Gaming Console,Gadgets,2.0,336.3,2025-09-21,Delivered
+ORD00104,Bob,Mobile Phone,Accessories,,323.21,,Delivered
+ORD00105,Jack,Headphones,Accessories,2.0,528.21,2025-01-18,Delivered
+ORD00106,,Laptop,Accessories,2.0,764.95,2025-02-11,Delivered
+ORD00107,Jack,Gaming Console,Electronics,4.0,,,Canceled
+ORD00108,Bob,Camera,Gadgets,3.0,447.77,2025-02-4,Pending
+ORD00109,Ivy,Headphones,Gadgets,4.0,650.17,2025-05-16,Canceled
+ORD00110,Grace,Camera,Accessories,1.0,,2025-08-13,Canceled
+ORD00111,David,Tablet,Gadgets,,588.91,2025-05-2,Delivered
+ORD00112,Bob,Gaming Console,Gadgets,,297.7,2025-06-9,Canceled
+ORD00113,Jack,Tablet,Electronics,2.0,754.4,2025-09-1,Delivered
+ORD00114,Alice,Laptop,Accessories,2.0,253.13,2025-07-7,Delivered
+ORD00115,Frank,Headphones,Gadgets,4.0,461.24,2025-02-15,Pending
+ORD00116,Alice,Tablet,Accessories,,779.92,2025-07-5,Delivered
+ORD00117,,Headphones,Accessories,5.0,70.75,2025-03-15,Canceled
+ORD00118,Charlie,Laptop,Gadgets,2.0,498.6,2025-07-14,Canceled
+ORD00119,Grace,Camera,Accessories,3.0,585.7,2025-06-25,Canceled
+ORD00120,Jack,Laptop,Gadgets,5.0,376.19,2025-08-19,Delivered
+ORD00121,Ivy,Laptop,Gadgets,5.0,573.27,2025-07-18,Delivered
+ORD00122,Hannah,Mobile Phone,Accessories,1.0,210.78,2025-07-9,Delivered
+ORD00123,Grace,Tablet,Gadgets,3.0,717.88,,Delivered
+ORD00124,Grace,Tablet,Accessories,2.0,,2025-04-5,Canceled
+ORD00125,Hannah,Smartwatch,Accessories,,975.88,,Pending
+ORD00126,Hannah,Tablet,Gadgets,4.0,553.35,2025-04-28,Pending
+ORD00127,,Gaming Console,Accessories,,895.65,2025-01-8,Canceled
+ORD00128,Jack,Gaming Console,Electronics,3.0,547.48,2025-09-7,Pending
+ORD00129,Frank,Mobile Phone,Accessories,,513.62,2025-05-1,Canceled
+ORD00130,Hannah,Tablet,Electronics,,,2025-08-6,Delivered
+ORD00131,,Laptop,Electronics,,86.35,2025-07-18,Delivered
+ORD00132,David,Camera,Accessories,5.0,664.07,2025-06-17,Delivered
+ORD00133,Ivy,Headphones,Gadgets,5.0,808.07,2025-06-6,Canceled
+ORD00134,Eve,Tablet,Gadgets,1.0,296.39,2025-01-13,Delivered
+ORD00135,Frank,Headphones,Electronics,2.0,935.89,2025-06-10,Canceled
+ORD00136,Bob,Tablet,Electronics,3.0,,,Canceled
+ORD00137,,Tablet,Electronics,5.0,578.87,2025-08-5,Pending
+ORD00138,Ivy,Gaming Console,Gadgets,3.0,827.46,,Canceled
+ORD00139,Jack,Camera,Gadgets,2.0,139.51,,Delivered
+ORD00140,,Mobile Phone,Gadgets,4.0,472.26,2025-06-1,Canceled
+ORD00141,,Camera,Accessories,1.0,402.3,2025-06-26,Delivered
+ORD00142,David,Tablet,Gadgets,2.0,554.26,2025-05-17,Canceled
+ORD00143,Alice,Laptop,Accessories,1.0,80.12,2025-09-14,Pending
+ORD00144,,Mobile Phone,Gadgets,4.0,,2025-08-12,Pending
+ORD00145,,Tablet,Electronics,,78.57,2025-06-2,Delivered
+ORD00146,Charlie,Camera,Gadgets,1.0,780.63,2025-08-1,Canceled
+ORD00147,David,Smartwatch,Accessories,1.0,457.11,2025-02-15,Pending
+ORD00148,David,Laptop,Electronics,4.0,182.26,2025-01-2,Canceled
+ORD00149,Bob,Camera,Accessories,4.0,747.68,,Delivered
+ORD00150,Charlie,Headphones,Accessories,5.0,559.24,,Pending
+ORD00151,,Tablet,Accessories,4.0,830.37,2025-02-3,Pending
+ORD00152,Charlie,Gaming Console,Gadgets,,796.21,,Delivered
+ORD00153,,Gaming Console,Electronics,2.0,422.78,2025-01-14,Canceled
+ORD00154,,Headphones,Gadgets,4.0,494.77,2025-08-4,Canceled
+ORD00155,Bob,Headphones,Gadgets,3.0,,,Canceled
+ORD00156,,Camera,Gadgets,1.0,106.17,2025-06-18,Delivered
+ORD00157,Bob,Laptop,Accessories,2.0,524.84,2025-02-26,Delivered
+ORD00158,Jack,Laptop,Gadgets,1.0,815.14,2025-05-3,Delivered
+ORD00159,Charlie,Gaming Console,Electronics,3.0,697.13,2025-04-18,Pending
+ORD00160,Jack,Smartwatch,Electronics,2.0,116.93,,Pending
+ORD00161,Grace,Gaming Console,Gadgets,4.0,825.09,2025-09-1,Pending
+ORD00162,Charlie,Tablet,Gadgets,,523.35,,Delivered
+ORD00163,David,Smartwatch,Gadgets,4.0,193.93,2025-06-21,Delivered
+ORD00164,David,Mobile Phone,Accessories,,891.03,2025-05-26,Pending
+ORD00165,Charlie,Laptop,Accessories,5.0,104.94,2025-04-1,Delivered
+ORD00166,Ivy,Headphones,Gadgets,1.0,308.3,2025-04-9,Pending
+ORD00167,Hannah,Headphones,Accessories,3.0,,,Pending
+ORD00168,Eve,Camera,Electronics,2.0,990.24,2025-09-1,Canceled
+ORD00169,Grace,Smartwatch,Gadgets,4.0,502.72,,Canceled
+ORD00170,Frank,Camera,Electronics,2.0,726.77,2025-08-26,Pending
+ORD00171,Ivy,Mobile Phone,Gadgets,4.0,359.84,2025-04-5,Canceled
+ORD00172,Ivy,Tablet,Gadgets,2.0,975.36,,Pending
+ORD00173,,Tablet,Electronics,5.0,231.19,2025-01-2,Delivered
+ORD00174,Charlie,Gaming Console,Electronics,,632.64,2025-05-11,Pending
+ORD00175,,Laptop,Accessories,,549.15,2025-04-5,Canceled
+ORD00176,Hannah,Gaming Console,Electronics,2.0,,2025-07-24,Delivered
+ORD00177,Jack,Laptop,Electronics,2.0,573.64,2025-06-11,Pending
+ORD00178,Grace,Camera,Accessories,5.0,56.41,2025-01-20,Pending
+ORD00179,Eve,Laptop,Gadgets,,772.33,,Delivered
+ORD00180,,Tablet,Gadgets,2.0,386.83,2025-02-6,Pending
+ORD00181,Alice,Smartwatch,Gadgets,1.0,,2025-09-20,Canceled
+ORD00182,Frank,Tablet,Gadgets,4.0,465.25,,Delivered
+ORD00183,Frank,Mobile Phone,Gadgets,2.0,281.32,2025-07-7,Delivered
+ORD00184,Jack,Mobile Phone,Accessories,2.0,81.97,2025-03-20,Canceled
+ORD00185,Grace,Laptop,Electronics,2.0,763.37,2025-02-6,Pending
+ORD00186,Eve,Laptop,Gadgets,2.0,101.77,,Canceled
+ORD00187,Eve,Camera,Electronics,4.0,771.92,2025-03-9,Delivered
+ORD00188,,Tablet,Electronics,5.0,731.24,,Delivered
+ORD00189,Charlie,Mobile Phone,Accessories,5.0,942.14,,Delivered
+ORD00190,David,Smartwatch,Electronics,4.0,99.19,2025-05-15,Pending
+ORD00191,Frank,Mobile Phone,Gadgets,4.0,509.91,2025-04-11,Canceled
+ORD00192,Alice,Tablet,Accessories,5.0,827.89,2025-08-4,Canceled
+ORD00193,Grace,Tablet,Electronics,,976.09,2025-07-9,Canceled
+ORD00194,Bob,Camera,Gadgets,4.0,823.51,2025-04-18,Delivered
+ORD00195,,Camera,Electronics,4.0,416.05,2025-09-14,Delivered
+ORD00196,,Headphones,Electronics,4.0,896.13,2025-03-14,Canceled
+ORD00197,,Laptop,Electronics,4.0,205.23,2025-09-24,Delivered
+ORD00198,Alice,Smartwatch,Gadgets,1.0,445.65,,Pending
+ORD00199,Frank,Headphones,Gadgets,5.0,144.28,2025-01-19,Canceled
+ORD00200,Grace,Tablet,Gadgets,,498.77,2025-02-28,Delivered
+ORD00201,Frank,Gaming Console,Accessories,3.0,127.66,2025-01-28,Canceled
+ORD00202,Alice,Gaming Console,Accessories,,,2025-01-19,Delivered
+ORD00203,,Camera,Accessories,3.0,565.21,2025-02-12,Canceled
+ORD00204,Jack,Gaming Console,Gadgets,2.0,134.63,2025-09-11,Delivered
+ORD00205,Frank,Laptop,Electronics,,226.22,2025-02-27,Pending
+ORD00206,,Camera,Accessories,5.0,666.39,2025-01-5,Pending
+ORD00207,Frank,Smartwatch,Electronics,1.0,965.13,2025-02-4,Pending
+ORD00208,Charlie,Gaming Console,Gadgets,2.0,299.11,2025-02-5,Canceled
+ORD00209,Hannah,Headphones,Electronics,2.0,863.89,2025-08-21,Pending
+ORD00210,Charlie,Tablet,Gadgets,1.0,,2025-02-26,Delivered
+ORD00211,Jack,Tablet,Accessories,5.0,213.76,2025-01-6,Delivered
+ORD00212,,Headphones,Gadgets,5.0,811.09,2025-06-28,Delivered
+ORD00213,Frank,Smartwatch,Accessories,3.0,674.08,2025-03-21,Delivered
+ORD00214,Eve,Laptop,Electronics,5.0,115.28,2025-04-7,Pending
+ORD00215,Alice,Headphones,Gadgets,5.0,236.59,2025-04-12,Pending
+ORD00216,Frank,Smartwatch,Gadgets,2.0,436.17,2025-07-15,Pending
+ORD00217,Ivy,Laptop,Gadgets,5.0,270.92,2025-03-27,Pending
+ORD00218,Grace,Gaming Console,Accessories,5.0,771.84,2025-07-16,Delivered
+ORD00219,,Camera,Gadgets,4.0,967.6,,Delivered
+ORD00220,Jack,Camera,Electronics,5.0,762.85,2025-07-12,Delivered
+ORD00221,Hannah,Camera,Electronics,,,2025-05-9,Pending
+ORD00222,David,Laptop,Electronics,2.0,67.7,2025-02-9,Pending
+ORD00223,,Mobile Phone,Accessories,1.0,650.08,2025-03-25,Delivered
+ORD00224,Charlie,Smartwatch,Accessories,1.0,552.66,2025-02-14,Pending
+ORD00225,Grace,Smartwatch,Electronics,1.0,156.18,2025-04-3,Delivered
+ORD00226,Ivy,Headphones,Accessories,1.0,883.85,2025-05-24,Delivered
+ORD00227,Frank,Smartwatch,Electronics,2.0,374.51,2025-05-18,Pending
+ORD00228,Charlie,Tablet,Electronics,,287.66,2025-09-3,Canceled
+ORD00229,Bob,Gaming Console,Accessories,4.0,907.68,2025-07-27,Pending
+ORD00230,,Laptop,Accessories,3.0,803.64,2025-05-21,Pending
+ORD00231,Charlie,Laptop,Accessories,4.0,739.62,2025-02-12,Pending
+ORD00232,Alice,Laptop,Accessories,3.0,94.75,2025-03-24,Canceled
+ORD00233,Eve,Mobile Phone,Accessories,4.0,940.89,2025-08-11,Pending
+ORD00234,Jack,Mobile Phone,Gadgets,3.0,564.21,2025-07-28,Pending
+ORD00235,Charlie,Laptop,Gadgets,,894.72,2025-03-20,Canceled
+ORD00236,Grace,Camera,Gadgets,2.0,383.26,,Delivered
+ORD00237,Grace,Headphones,Accessories,5.0,434.11,2025-04-23,Canceled
+ORD00238,Bob,Mobile Phone,Gadgets,1.0,630.35,2025-07-17,Canceled
+ORD00239,Grace,Smartwatch,Accessories,2.0,309.7,,Pending
+ORD00240,,Smartwatch,Electronics,5.0,381.68,2025-03-26,Pending
+ORD00241,,Smartwatch,Electronics,1.0,109.54,2025-01-6,Pending
+ORD00242,Frank,Mobile Phone,Electronics,2.0,,,Delivered
+ORD00243,,Camera,Gadgets,1.0,,2025-06-18,Pending
+ORD00244,Jack,Headphones,Electronics,4.0,326.16,2025-03-22,Pending
+ORD00245,Jack,Camera,Electronics,,732.66,2025-03-7,Pending
+ORD00246,Charlie,Tablet,Accessories,,360.83,2025-07-14,Canceled
+ORD00247,Ivy,Laptop,Accessories,,810.19,2025-02-26,Pending
+ORD00248,Grace,Laptop,Electronics,1.0,713.54,2025-03-25,Pending
+ORD00249,Grace,Camera,Electronics,2.0,423.71,2025-09-1,Delivered
+ORD00250,Jack,Mobile Phone,Accessories,1.0,892.9,2025-05-16,Canceled
+ORD00251,Eve,Tablet,Accessories,2.0,528.09,2025-03-14,Pending
+ORD00252,Eve,Camera,Gadgets,3.0,335.11,,Pending
+ORD00253,Charlie,Smartwatch,Gadgets,4.0,396.73,2025-09-8,Delivered
+ORD00254,,Smartwatch,Accessories,,433.79,,Pending
+ORD00255,Grace,Camera,Accessories,5.0,111.76,2025-02-2,Delivered
+ORD00256,Alice,Headphones,Electronics,4.0,657.82,2025-05-1,Pending
+ORD00257,,Headphones,Electronics,2.0,541.91,2025-01-9,Delivered
+ORD00258,Frank,Smartwatch,Gadgets,,353.26,,Pending
+ORD00259,Bob,Tablet,Electronics,5.0,,2025-02-24,Canceled
+ORD00260,David,Mobile Phone,Electronics,2.0,,,Pending
+ORD00261,David,Headphones,Gadgets,1.0,512.48,2025-04-22,Canceled
+ORD00262,,Camera,Electronics,1.0,75.28,2025-08-15,Canceled
+ORD00263,,Smartwatch,Gadgets,2.0,,,Delivered
+ORD00264,David,Smartwatch,Accessories,5.0,616.95,2025-03-9,Canceled
+ORD00265,Ivy,Tablet,Electronics,3.0,993.24,2025-02-2,Delivered
+ORD00266,Grace,Laptop,Gadgets,2.0,727.43,2025-09-28,Canceled
+ORD00267,Charlie,Gaming Console,Electronics,2.0,567.99,2025-05-4,Delivered
+ORD00268,Bob,Headphones,Electronics,4.0,99.0,2025-04-2,Delivered
+ORD00269,,Camera,Accessories,4.0,142.96,2025-04-27,Delivered
+ORD00270,Eve,Laptop,Electronics,,85.86,2025-04-2,Delivered
+ORD00271,David,Smartwatch,Electronics,4.0,312.05,2025-03-2,Pending
+ORD00272,Jack,Laptop,Gadgets,1.0,853.45,2025-07-27,Canceled
+ORD00273,Ivy,Tablet,Electronics,,242.82,2025-09-10,Delivered
+ORD00274,,Headphones,Gadgets,3.0,793.99,2025-06-22,Delivered
+ORD00275,Eve,Camera,Electronics,,,2025-03-7,Pending
+ORD00276,Grace,Gaming Console,Electronics,3.0,783.69,2025-05-17,Delivered
+ORD00277,Ivy,Camera,Gadgets,3.0,112.21,2025-02-3,Delivered
+ORD00278,Jack,Headphones,Electronics,4.0,,,Canceled
+ORD00279,,Gaming Console,Accessories,5.0,470.52,2025-04-16,Pending
+ORD00280,,Tablet,Electronics,4.0,646.2,2025-05-18,Canceled
+ORD00281,Alice,Mobile Phone,Electronics,3.0,598.32,2025-09-17,Pending
+ORD00282,Ivy,Smartwatch,Accessories,4.0,668.72,2025-02-7,Pending
+ORD00283,Alice,Headphones,Accessories,,812.73,2025-02-12,Delivered
+ORD00284,,Tablet,Gadgets,5.0,,2025-05-21,Pending
+ORD00285,Jack,Camera,Electronics,,959.63,,Delivered
+ORD00286,Frank,Gaming Console,Gadgets,5.0,,2025-05-24,Delivered
+ORD00287,Frank,Gaming Console,Electronics,4.0,483.48,,Delivered
+ORD00288,Jack,Gaming Console,Accessories,3.0,894.08,2025-07-26,Canceled
+ORD00289,,Laptop,Accessories,3.0,781.47,2025-03-13,Delivered
+ORD00290,Alice,Mobile Phone,Accessories,4.0,77.28,2025-09-13,Pending
+ORD00291,Charlie,Smartwatch,Accessories,5.0,422.83,2025-08-23,Pending
+ORD00292,,Headphones,Gadgets,3.0,54.25,2025-02-26,Pending
+ORD00293,Grace,Mobile Phone,Accessories,3.0,896.95,2025-03-10,Canceled
+ORD00294,,Smartwatch,Accessories,3.0,190.21,2025-07-12,Canceled
+ORD00295,Charlie,Gaming Console,Gadgets,4.0,947.37,2025-03-9,Canceled
+ORD00296,Ivy,Laptop,Electronics,,695.44,2025-03-6,Pending
+ORD00297,Grace,Laptop,Gadgets,1.0,747.66,2025-07-10,Delivered
+ORD00298,Hannah,Mobile Phone,Gadgets,5.0,934.38,2025-04-13,Pending
+ORD00299,Alice,Smartwatch,Gadgets,5.0,554.73,2025-01-24,Delivered
+ORD00300,,Laptop,Gadgets,5.0,850.42,2025-05-7,Delivered
+ORD00301,David,Mobile Phone,Electronics,,310.72,2025-08-18,Canceled
+ORD00302,Grace,Headphones,Accessories,5.0,698.13,2025-06-17,Canceled
+ORD00303,Bob,Mobile Phone,Gadgets,4.0,843.42,2025-07-4,Canceled
+ORD00304,Frank,Gaming Console,Gadgets,1.0,706.18,,Pending
+ORD00305,Eve,Tablet,Gadgets,,871.51,2025-01-18,Pending
+ORD00306,Grace,Smartwatch,Gadgets,4.0,828.19,2025-09-23,Delivered
+ORD00307,,Tablet,Electronics,5.0,180.16,2025-06-11,Delivered
+ORD00308,,Gaming Console,Accessories,4.0,502.14,2025-01-8,Delivered
+ORD00309,Hannah,Laptop,Gadgets,3.0,299.62,2025-07-10,Pending
+ORD00310,Ivy,Smartwatch,Electronics,,473.29,2025-03-4,Delivered
+ORD00311,,Mobile Phone,Accessories,,235.25,,Pending
+ORD00312,Eve,Smartwatch,Gadgets,5.0,522.35,2025-04-12,Delivered
+ORD00313,,Tablet,Electronics,4.0,819.39,2025-04-22,Delivered
+ORD00314,Ivy,Headphones,Electronics,2.0,219.53,2025-06-3,Delivered
+ORD00315,,Headphones,Accessories,3.0,348.59,2025-08-20,Canceled
+ORD00316,Grace,Camera,Accessories,1.0,516.86,2025-02-21,Canceled
+ORD00317,Hannah,Mobile Phone,Gadgets,5.0,897.43,,Canceled
+ORD00318,Eve,Smartwatch,Gadgets,5.0,336.49,,Pending
+ORD00319,Hannah,Camera,Accessories,,710.6,2025-03-11,Pending
+ORD00320,David,Laptop,Electronics,2.0,576.78,2025-01-1,Canceled
+ORD00321,Charlie,Laptop,Gadgets,5.0,652.14,2025-04-17,Delivered
+ORD00322,Charlie,Mobile Phone,Gadgets,1.0,638.01,2025-08-22,Canceled
+ORD00323,Jack,Smartwatch,Electronics,2.0,88.22,2025-07-28,Delivered
+ORD00324,Alice,Laptop,Electronics,2.0,,2025-07-5,Canceled
+ORD00325,,Laptop,Gadgets,4.0,715.83,2025-02-18,Canceled
+ORD00326,,Headphones,Gadgets,,674.15,,Canceled
+ORD00327,Jack,Mobile Phone,Gadgets,4.0,344.47,2025-09-26,Canceled
+ORD00328,Frank,Laptop,Accessories,,357.47,2025-01-15,Canceled
+ORD00329,,Camera,Gadgets,,598.3,,Canceled
+ORD00330,Hannah,Tablet,Accessories,5.0,112.75,2025-06-24,Pending
+ORD00331,Charlie,Tablet,Gadgets,2.0,660.28,2025-04-18,Pending
+ORD00332,,Tablet,Gadgets,2.0,931.03,2025-03-5,Pending
+ORD00333,Jack,Gaming Console,Electronics,2.0,182.67,2025-08-3,Canceled
+ORD00334,Charlie,Gaming Console,Accessories,,242.42,2025-06-2,Delivered
+ORD00335,Grace,Smartwatch,Electronics,4.0,70.16,2025-03-27,Canceled
+ORD00336,Ivy,Headphones,Gadgets,2.0,120.39,2025-04-18,Pending
+ORD00337,David,Headphones,Gadgets,1.0,431.89,2025-03-26,Pending
+ORD00338,Charlie,Laptop,Gadgets,5.0,415.4,2025-07-10,Delivered
+ORD00339,Bob,Gaming Console,Gadgets,1.0,,2025-05-7,Pending
+ORD00340,Eve,Laptop,Electronics,5.0,711.5,2025-07-21,Delivered
+ORD00341,David,Gaming Console,Gadgets,3.0,508.78,2025-01-22,Delivered
+ORD00342,Jack,Tablet,Electronics,3.0,179.12,2025-01-26,Canceled
+ORD00343,Hannah,Gaming Console,Gadgets,4.0,854.6,2025-06-15,Delivered
+ORD00344,Bob,Camera,Accessories,3.0,767.28,2025-04-20,Pending
+ORD00345,Hannah,Smartwatch,Accessories,,538.97,2025-08-27,Delivered
+ORD00346,David,Gaming Console,Accessories,4.0,603.1,2025-01-14,Canceled
+ORD00347,Bob,Smartwatch,Gadgets,1.0,501.5,,Canceled
+ORD00348,Grace,Laptop,Gadgets,4.0,,2025-05-15,Canceled
+ORD00349,Charlie,Laptop,Electronics,3.0,789.35,,Delivered
+ORD00350,Eve,Headphones,Gadgets,5.0,496.4,2025-08-21,Pending
+ORD00351,Frank,Tablet,Electronics,4.0,819.35,2025-09-25,Canceled
+ORD00352,,Mobile Phone,Gadgets,3.0,701.2,2025-09-2,Delivered
+ORD00353,,Camera,Electronics,2.0,942.76,2025-03-13,Canceled
+ORD00354,Alice,Smartwatch,Electronics,,756.79,,Pending
+ORD00355,Eve,Gaming Console,Gadgets,1.0,781.97,2025-02-2,Delivered
+ORD00356,Grace,Mobile Phone,Gadgets,3.0,,2025-03-26,Delivered
+ORD00357,Jack,Smartwatch,Gadgets,1.0,354.15,2025-08-18,Canceled
+ORD00358,Bob,Camera,Accessories,,738.6,2025-01-10,Canceled
+ORD00359,Jack,Laptop,Gadgets,3.0,243.79,,Canceled
+ORD00360,Charlie,Tablet,Accessories,,815.14,2025-08-1,Delivered
+ORD00361,,Smartwatch,Accessories,4.0,665.75,2025-05-28,Canceled
+ORD00362,Grace,Gaming Console,Accessories,3.0,102.16,2025-07-27,Canceled
+ORD00363,David,Tablet,Electronics,5.0,800.78,2025-07-18,Delivered
+ORD00364,Alice,Mobile Phone,Gadgets,1.0,726.17,2025-04-7,Delivered
+ORD00365,Bob,Camera,Gadgets,,985.54,2025-08-2,Delivered
+ORD00366,Jack,Gaming Console,Accessories,2.0,,2025-09-23,Pending
+ORD00367,,Mobile Phone,Electronics,3.0,495.2,2025-01-6,Delivered
+ORD00368,Alice,Camera,Electronics,1.0,311.04,2025-04-23,Pending
+ORD00369,Ivy,Laptop,Electronics,3.0,125.18,2025-02-23,Canceled
+ORD00370,Ivy,Tablet,Electronics,3.0,107.27,2025-01-6,Canceled
+ORD00371,David,Mobile Phone,Electronics,1.0,937.89,2025-05-25,Canceled
+ORD00372,Eve,Laptop,Gadgets,4.0,751.31,2025-02-22,Canceled
+ORD00373,,Smartwatch,Accessories,3.0,515.13,2025-04-23,Pending
+ORD00374,Eve,Mobile Phone,Accessories,1.0,183.99,2025-06-16,Pending
+ORD00375,,Laptop,Gadgets,,566.82,2025-08-16,Canceled
+ORD00376,David,Camera,Electronics,4.0,790.56,,Canceled
+ORD00377,Eve,Headphones,Electronics,1.0,416.16,2025-01-27,Delivered
+ORD00378,Frank,Headphones,Accessories,3.0,726.1,2025-02-10,Delivered
+ORD00379,Alice,Tablet,Gadgets,2.0,332.34,2025-06-4,Delivered
+ORD00380,Jack,Camera,Gadgets,4.0,521.81,2025-04-8,Delivered
+ORD00381,David,Tablet,Electronics,4.0,948.65,2025-06-10,Pending
+ORD00382,Hannah,Headphones,Accessories,3.0,270.19,2025-01-4,Canceled
+ORD00383,David,Camera,Electronics,3.0,635.25,2025-05-4,Canceled
+ORD00384,Grace,Mobile Phone,Accessories,3.0,108.45,2025-08-16,Pending
+ORD00385,Eve,Tablet,Accessories,3.0,82.41,2025-07-15,Canceled
+ORD00386,,Mobile Phone,Accessories,4.0,723.47,2025-03-26,Pending
+ORD00387,Grace,Tablet,Electronics,,557.8,2025-03-11,Canceled
+ORD00388,Alice,Tablet,Accessories,2.0,,2025-01-1,Pending
+ORD00389,Jack,Tablet,Accessories,1.0,976.83,2025-05-13,Pending
+ORD00390,Grace,Camera,Electronics,3.0,334.02,2025-02-4,Pending
+ORD00391,Alice,Smartwatch,Gadgets,5.0,709.63,2025-01-11,Pending
+ORD00392,Hannah,Mobile Phone,Accessories,2.0,559.72,2025-04-19,Pending
+ORD00393,Grace,Mobile Phone,Accessories,1.0,586.19,2025-05-5,Pending
+ORD00394,David,Camera,Gadgets,3.0,643.19,2025-01-27,Canceled
+ORD00395,Grace,Smartwatch,Electronics,1.0,545.37,2025-01-7,Pending
+ORD00396,Eve,Laptop,Accessories,1.0,544.58,2025-04-12,Pending
+ORD00397,Charlie,Mobile Phone,Electronics,2.0,325.82,2025-02-9,Pending
+ORD00398,Charlie,Smartwatch,Accessories,3.0,609.13,2025-06-2,Delivered
+ORD00399,Frank,Headphones,Gadgets,2.0,357.75,2025-09-10,Delivered
+ORD00400,Eve,Mobile Phone,Accessories,3.0,167.88,2025-09-3,Pending
+ORD00401,Grace,Smartwatch,Gadgets,,,2025-04-23,Pending
+ORD00402,Ivy,Camera,Electronics,4.0,630.0,2025-08-6,Delivered
+ORD00403,Charlie,Smartwatch,Gadgets,5.0,224.53,,Canceled
+ORD00404,Bob,Headphones,Accessories,1.0,86.09,2025-06-16,Pending
+ORD00405,Eve,Gaming Console,Accessories,1.0,282.39,2025-07-21,Canceled
+ORD00406,Frank,Smartwatch,Electronics,1.0,932.96,2025-03-12,Delivered
+ORD00407,,Headphones,Electronics,3.0,858.51,2025-08-14,Pending
+ORD00408,Frank,Mobile Phone,Accessories,1.0,141.65,2025-07-7,Pending
+ORD00409,Jack,Gaming Console,Accessories,,934.89,2025-07-20,Delivered
+ORD00410,Bob,Smartwatch,Electronics,1.0,796.9,2025-01-7,Pending
+ORD00411,,Headphones,Electronics,5.0,908.59,2025-02-22,Delivered
+ORD00412,Charlie,Tablet,Accessories,1.0,583.05,2025-08-24,Delivered
+ORD00413,Eve,Smartwatch,Electronics,3.0,733.05,2025-08-26,Canceled
+ORD00414,Ivy,Camera,Accessories,,554.46,2025-06-23,Pending
+ORD00415,David,Headphones,Accessories,3.0,412.07,2025-03-4,Pending
+ORD00416,Alice,Tablet,Electronics,1.0,851.07,2025-02-14,Pending
+ORD00417,Charlie,Smartwatch,Gadgets,,793.01,,Delivered
+ORD00418,,Camera,Gadgets,3.0,667.8,2025-07-12,Canceled
+ORD00419,Charlie,Camera,Gadgets,,,2025-03-13,Pending
+ORD00420,Eve,Gaming Console,Electronics,3.0,956.89,2025-03-8,Pending
+ORD00421,David,Headphones,Accessories,4.0,137.22,2025-03-24,Canceled
+ORD00422,Frank,Camera,Electronics,2.0,513.89,2025-04-5,Canceled
+ORD00423,,Gaming Console,Gadgets,4.0,164.41,,Canceled
+ORD00424,Alice,Headphones,Electronics,,510.34,2025-09-3,Canceled
+ORD00425,Hannah,Tablet,Accessories,4.0,887.29,,Pending
+ORD00426,Eve,Mobile Phone,Gadgets,,280.09,2025-08-22,Canceled
+ORD00427,Frank,Mobile Phone,Accessories,2.0,684.22,2025-02-19,Delivered
+ORD00428,Bob,Gaming Console,Accessories,4.0,982.05,2025-01-17,Pending
+ORD00429,Charlie,Camera,Accessories,3.0,541.23,2025-03-20,Pending
+ORD00430,,Smartwatch,Accessories,3.0,590.25,2025-02-20,Pending
+ORD00431,,Tablet,Accessories,1.0,257.03,,Delivered
+ORD00432,,Gaming Console,Electronics,3.0,,2025-04-11,Delivered
+ORD00433,Charlie,Smartwatch,Accessories,4.0,483.87,2025-09-6,Canceled
+ORD00434,,Tablet,Accessories,,710.34,2025-01-23,Pending
+ORD00435,Jack,Camera,Accessories,1.0,826.64,2025-06-1,Delivered
+ORD00436,Eve,Gaming Console,Gadgets,,203.32,2025-08-19,Pending
+ORD00437,Hannah,Tablet,Electronics,,546.78,2025-02-24,Delivered
+ORD00438,,Tablet,Accessories,5.0,,2025-01-2,Pending
+ORD00439,Charlie,Camera,Electronics,,452.66,2025-05-8,Pending
+ORD00440,Eve,Camera,Gadgets,1.0,302.56,,Delivered
+ORD00441,,Laptop,Accessories,3.0,965.03,2025-09-14,Canceled
+ORD00442,Ivy,Camera,Accessories,1.0,107.53,2025-05-19,Pending
+ORD00443,David,Smartwatch,Accessories,3.0,850.47,2025-02-10,Pending
+ORD00444,Jack,Headphones,Gadgets,5.0,,2025-03-17,Delivered
+ORD00445,Ivy,Gaming Console,Gadgets,1.0,525.73,2025-09-6,Delivered
+ORD00446,Jack,Mobile Phone,Accessories,4.0,184.83,2025-08-2,Delivered
+ORD00447,Eve,Mobile Phone,Electronics,4.0,122.31,,Delivered
+ORD00448,,Smartwatch,Accessories,1.0,666.84,2025-03-4,Canceled
+ORD00449,Ivy,Gaming Console,Gadgets,5.0,228.19,2025-02-1,Pending
+ORD00450,Frank,Mobile Phone,Accessories,3.0,894.16,2025-09-5,Pending
+ORD00451,Grace,Mobile Phone,Gadgets,3.0,993.02,2025-06-6,Pending
+ORD00452,,Smartwatch,Accessories,,754.52,2025-02-9,Pending
+ORD00453,Frank,Mobile Phone,Accessories,5.0,309.15,2025-02-22,Canceled
+ORD00454,Frank,Gaming Console,Electronics,5.0,639.56,,Canceled
+ORD00455,Grace,Gaming Console,Electronics,3.0,356.12,2025-07-2,Delivered
+ORD00456,Grace,Headphones,Gadgets,4.0,,,Delivered
+ORD00457,Eve,Headphones,Accessories,1.0,602.79,2025-08-1,Delivered
+ORD00458,Hannah,Mobile Phone,Gadgets,,337.91,2025-03-16,Pending
+ORD00459,,Mobile Phone,Electronics,3.0,264.79,2025-05-23,Delivered
+ORD00460,Jack,Headphones,Accessories,1.0,723.67,2025-03-8,Pending
+ORD00461,Eve,Headphones,Electronics,2.0,813.8,2025-07-16,Pending
+ORD00462,,Laptop,Accessories,4.0,883.19,,Canceled
+ORD00463,Bob,Headphones,Electronics,2.0,299.62,2025-05-12,Pending
+ORD00464,,Headphones,Accessories,2.0,283.76,2025-03-2,Delivered
+ORD00465,,Headphones,Accessories,4.0,124.56,2025-01-23,Delivered
+ORD00466,David,Headphones,Electronics,3.0,650.29,2025-09-28,Pending
+ORD00467,Charlie,Camera,Gadgets,3.0,962.86,2025-03-2,Pending
+ORD00468,Hannah,Tablet,Gadgets,4.0,670.1,2025-06-9,Pending
+ORD00469,Frank,Tablet,Gadgets,,183.5,2025-03-12,Delivered
+ORD00470,Grace,Camera,Accessories,5.0,550.15,2025-09-21,Pending
+ORD00471,Eve,Headphones,Accessories,3.0,578.01,2025-09-20,Canceled
+ORD00472,David,Headphones,Electronics,1.0,644.12,,Delivered
+ORD00473,David,Headphones,Accessories,5.0,362.59,2025-08-14,Delivered
+ORD00474,Jack,Headphones,Gadgets,5.0,190.01,2025-05-12,Pending
+ORD00475,Jack,Headphones,Accessories,3.0,753.78,2025-08-20,Delivered
+ORD00476,Jack,Smartwatch,Electronics,2.0,,2025-07-5,Pending
+ORD00477,Charlie,Laptop,Electronics,2.0,394.81,2025-06-19,Delivered
+ORD00478,Ivy,Headphones,Gadgets,5.0,,,Pending
+ORD00479,Eve,Tablet,Gadgets,1.0,572.25,2025-05-23,Delivered
+ORD00480,Alice,Camera,Gadgets,5.0,642.16,2025-07-3,Delivered
+ORD00481,,Mobile Phone,Accessories,1.0,134.31,2025-04-10,Delivered
+ORD00482,Jack,Smartwatch,Gadgets,2.0,506.08,2025-06-13,Delivered
+ORD00483,Ivy,Laptop,Accessories,5.0,786.96,2025-03-19,Delivered
+ORD00484,Ivy,Mobile Phone,Gadgets,,189.95,2025-01-16,Delivered
+ORD00485,Charlie,Gaming Console,Electronics,2.0,730.2,2025-06-27,Canceled
+ORD00486,Bob,Smartwatch,Gadgets,2.0,,2025-04-8,Delivered
+ORD00487,Alice,Headphones,Electronics,1.0,708.55,2025-06-21,Canceled
+ORD00488,Grace,Mobile Phone,Accessories,2.0,432.65,2025-08-3,Canceled
+ORD00489,,Mobile Phone,Electronics,,562.33,2025-01-21,Delivered
+ORD00490,Frank,Tablet,Electronics,3.0,867.61,2025-05-2,Delivered
+ORD00491,David,Tablet,Gadgets,4.0,609.82,2025-06-7,Pending
+ORD00492,Alice,Gaming Console,Electronics,1.0,230.59,2025-04-11,Canceled
+ORD00493,Eve,Gaming Console,Gadgets,4.0,809.53,,Pending
+ORD00494,,Camera,Accessories,2.0,681.95,,Pending
+ORD00495,Charlie,Gaming Console,Electronics,,,2025-06-4,Pending
+ORD00496,Alice,Tablet,Gadgets,3.0,134.13,,Delivered
+ORD00497,Ivy,Headphones,Accessories,,906.71,2025-08-15,Canceled
+ORD00498,Bob,Tablet,Gadgets,4.0,51.39,2025-03-13,Pending
+ORD00499,,Smartwatch,Electronics,3.0,976.94,2025-09-14,Pending
+ORD00500,Charlie,Camera,Accessories,2.0,530.24,2025-03-23,Delivered
+ORD00501,Bob,Gaming Console,Accessories,,285.33,2025-03-24,Pending
+ORD00502,Jack,Gaming Console,Accessories,,854.41,2025-08-6,Delivered
+ORD00503,Grace,Mobile Phone,Gadgets,,751.37,2025-06-3,Pending
+ORD00504,Bob,Headphones,Gadgets,1.0,947.37,2025-05-5,Delivered
+ORD00505,Bob,Laptop,Electronics,2.0,101.26,2025-05-13,Delivered
+ORD00506,Jack,Tablet,Electronics,2.0,586.12,2025-02-16,Delivered
+ORD00507,Charlie,Mobile Phone,Gadgets,4.0,,,Pending
+ORD00508,Charlie,Laptop,Gadgets,5.0,206.98,2025-08-4,Pending
+ORD00509,Jack,Mobile Phone,Accessories,1.0,354.81,2025-06-15,Canceled
+ORD00510,Grace,Smartwatch,Electronics,4.0,903.09,2025-05-5,Pending
+ORD00511,Jack,Laptop,Accessories,1.0,55.47,2025-05-20,Canceled
+ORD00512,Jack,Headphones,Gadgets,2.0,669.68,2025-07-21,Delivered
+ORD00513,David,Tablet,Gadgets,4.0,374.59,2025-05-26,Pending
+ORD00514,Hannah,Smartwatch,Electronics,4.0,182.26,2025-08-12,Delivered
+ORD00515,Charlie,Headphones,Electronics,3.0,852.65,,Canceled
+ORD00516,,Tablet,Gadgets,4.0,198.12,2025-08-18,Delivered
+ORD00517,Ivy,Headphones,Accessories,5.0,180.39,,Canceled
+ORD00518,,Laptop,Gadgets,4.0,667.62,2025-07-2,Delivered
+ORD00519,Eve,Laptop,Electronics,5.0,350.27,2025-06-11,Pending
+ORD00520,,Gaming Console,Accessories,1.0,687.16,2025-04-2,Canceled
+ORD00521,Ivy,Gaming Console,Accessories,1.0,139.88,2025-01-22,Delivered
+ORD00522,Alice,Tablet,Electronics,4.0,190.79,2025-01-7,Canceled
+ORD00523,Jack,Tablet,Accessories,5.0,571.76,2025-04-10,Pending
+ORD00524,Frank,Camera,Gadgets,2.0,395.32,2025-05-17,Canceled
+ORD00525,Grace,Tablet,Accessories,2.0,352.24,2025-06-5,Delivered
+ORD00526,Frank,Gaming Console,Gadgets,1.0,603.54,,Pending
+ORD00527,,Camera,Electronics,2.0,549.55,2025-09-9,Canceled
+ORD00528,Alice,Laptop,Electronics,1.0,426.43,2025-01-18,Delivered
+ORD00529,,Headphones,Accessories,3.0,304.89,2025-07-15,Delivered
+ORD00530,Frank,Smartwatch,Accessories,3.0,745.65,2025-04-7,Canceled
+ORD00531,Eve,Smartwatch,Gadgets,,688.79,2025-03-21,Delivered
+ORD00532,David,Smartwatch,Electronics,2.0,194.95,2025-06-11,Canceled
+ORD00533,Eve,Smartwatch,Accessories,5.0,315.01,2025-08-3,Canceled
+ORD00534,,Mobile Phone,Gadgets,2.0,,,Delivered
+ORD00535,,Laptop,Gadgets,3.0,992.52,2025-03-24,Delivered
+ORD00536,Bob,Gaming Console,Gadgets,5.0,809.53,2025-02-13,Pending
+ORD00537,David,Smartwatch,Gadgets,4.0,883.15,2025-08-27,Pending
+ORD00538,Grace,Headphones,Gadgets,1.0,,,Canceled
+ORD00539,Frank,Laptop,Gadgets,1.0,263.44,2025-01-10,Delivered
+ORD00540,,Smartwatch,Electronics,,694.21,2025-09-7,Pending
+ORD00541,Jack,Tablet,Electronics,1.0,,2025-02-1,Delivered
+ORD00542,Alice,Headphones,Electronics,4.0,559.38,2025-01-22,Delivered
+ORD00543,Ivy,Mobile Phone,Gadgets,2.0,318.24,2025-01-20,Canceled
+ORD00544,Hannah,Smartwatch,Gadgets,,246.55,2025-01-12,Canceled
+ORD00545,Eve,Headphones,Electronics,3.0,709.01,2025-05-27,Pending
+ORD00546,Jack,Smartwatch,Electronics,3.0,116.39,2025-02-7,Canceled
+ORD00547,Alice,Smartwatch,Electronics,,261.62,2025-02-20,Pending
+ORD00548,Frank,Tablet,Electronics,5.0,945.95,2025-04-12,Canceled
+ORD00549,Alice,Laptop,Accessories,5.0,,2025-09-13,Canceled
+ORD00550,Bob,Gaming Console,Electronics,5.0,943.08,2025-03-15,Delivered
+ORD00551,Jack,Camera,Gadgets,2.0,626.65,,Canceled
+ORD00552,Eve,Headphones,Accessories,3.0,951.9,2025-01-2,Delivered
+ORD00553,Frank,Gaming Console,Accessories,1.0,534.23,2025-09-16,Pending
+ORD00554,Ivy,Gaming Console,Gadgets,2.0,605.68,2025-07-12,Pending
+ORD00555,Bob,Camera,Accessories,,545.39,2025-03-14,Canceled
+ORD00556,,Camera,Electronics,4.0,475.84,2025-09-8,Pending
+ORD00557,David,Laptop,Electronics,3.0,210.53,2025-01-2,Pending
+ORD00558,,Mobile Phone,Accessories,1.0,607.2,2025-05-6,Delivered
+ORD00559,Bob,Laptop,Gadgets,3.0,376.41,2025-02-4,Delivered
+ORD00560,Hannah,Tablet,Gadgets,4.0,937.95,2025-05-4,Canceled
+ORD00561,Ivy,Smartwatch,Gadgets,3.0,109.49,2025-09-26,Canceled
+ORD00562,Eve,Smartwatch,Gadgets,,361.05,2025-07-2,Pending
+ORD00563,,Camera,Gadgets,5.0,923.82,2025-07-15,Delivered
+ORD00564,Eve,Camera,Accessories,5.0,175.5,2025-03-5,Canceled
+ORD00565,Charlie,Camera,Accessories,1.0,509.87,2025-03-23,Canceled
+ORD00566,Bob,Camera,Gadgets,1.0,907.98,,Delivered
+ORD00567,,Smartwatch,Electronics,3.0,758.86,2025-02-9,Delivered
+ORD00568,,Headphones,Electronics,5.0,895.07,2025-09-14,Canceled
+ORD00569,,Laptop,Accessories,2.0,803.76,2025-06-1,Delivered
+ORD00570,Frank,Headphones,Electronics,1.0,80.23,2025-01-27,Pending
+ORD00571,,Camera,Electronics,3.0,736.91,2025-09-20,Pending
+ORD00572,,Laptop,Gadgets,2.0,948.42,2025-04-5,Canceled
+ORD00573,,Tablet,Accessories,3.0,458.65,2025-07-17,Pending
+ORD00574,Jack,Mobile Phone,Accessories,2.0,545.78,2025-06-19,Canceled
+ORD00575,Hannah,Camera,Electronics,4.0,613.01,2025-06-1,Delivered
+ORD00576,Ivy,Gaming Console,Accessories,3.0,111.73,2025-06-16,Canceled
+ORD00577,Bob,Camera,Electronics,1.0,397.85,2025-05-4,Pending
+ORD00578,Frank,Headphones,Electronics,2.0,,2025-08-28,Pending
+ORD00579,Charlie,Laptop,Accessories,4.0,431.47,2025-05-17,Pending
+ORD00580,Alice,Laptop,Accessories,2.0,219.0,2025-05-19,Delivered
+ORD00581,Bob,Laptop,Electronics,1.0,,2025-01-14,Pending
+ORD00582,Bob,Smartwatch,Accessories,4.0,320.76,2025-09-24,Canceled
+ORD00583,Jack,Laptop,Accessories,3.0,414.39,2025-09-16,Delivered
+ORD00584,Grace,Smartwatch,Gadgets,3.0,473.16,2025-02-19,Pending
+ORD00585,Grace,Smartwatch,Accessories,4.0,629.27,2025-05-5,Delivered
+ORD00586,Alice,Gaming Console,Gadgets,5.0,867.78,2025-02-12,Canceled
+ORD00587,Hannah,Laptop,Electronics,3.0,610.6,2025-08-23,Delivered
+ORD00588,Alice,Tablet,Gadgets,5.0,449.58,,Canceled
+ORD00589,Jack,Smartwatch,Electronics,5.0,739.88,2025-07-28,Pending
+ORD00590,,Gaming Console,Accessories,2.0,473.33,2025-05-8,Canceled
+ORD00591,,Mobile Phone,Gadgets,2.0,370.3,2025-03-24,Pending
+ORD00592,,Gaming Console,Electronics,3.0,671.05,2025-03-5,Delivered
+ORD00593,David,Laptop,Electronics,1.0,142.51,2025-05-6,Pending
+ORD00594,Alice,Gaming Console,Electronics,4.0,624.59,2025-04-13,Pending
+ORD00595,Bob,Tablet,Accessories,3.0,839.1,2025-05-17,Delivered
+ORD00596,Ivy,Tablet,Accessories,2.0,679.94,2025-01-28,Canceled
+ORD00597,Ivy,Tablet,Electronics,5.0,64.73,2025-05-1,Canceled
+ORD00598,Bob,Gaming Console,Electronics,,259.89,2025-02-24,Pending
+ORD00599,Charlie,Laptop,Gadgets,4.0,385.33,2025-04-22,Delivered
+ORD00600,Frank,Mobile Phone,Electronics,3.0,160.98,2025-01-16,Pending
+ORD00601,Hannah,Tablet,Gadgets,2.0,401.38,2025-07-15,Canceled
+ORD00602,Jack,Camera,Accessories,2.0,356.98,2025-06-16,Canceled
+ORD00603,,Tablet,Electronics,3.0,436.54,2025-09-21,Canceled
+ORD00604,Ivy,Camera,Electronics,5.0,321.77,2025-05-14,Pending
+ORD00605,Bob,Gaming Console,Gadgets,2.0,364.34,,Pending
+ORD00606,Eve,Mobile Phone,Electronics,5.0,817.81,2025-01-7,Canceled
+ORD00607,,Laptop,Electronics,3.0,702.05,,Pending
+ORD00608,,Smartwatch,Electronics,4.0,362.73,2025-04-9,Canceled
+ORD00609,Eve,Camera,Electronics,3.0,669.2,2025-09-2,Delivered
+ORD00610,Jack,Laptop,Accessories,3.0,865.49,2025-02-12,Canceled
+ORD00611,Jack,Smartwatch,Accessories,5.0,613.48,,Canceled
+ORD00612,Frank,Mobile Phone,Accessories,1.0,810.26,2025-05-21,Pending
+ORD00613,,Camera,Electronics,4.0,328.48,2025-08-24,Canceled
+ORD00614,Charlie,Camera,Gadgets,3.0,497.81,2025-06-10,Canceled
+ORD00615,Hannah,Headphones,Accessories,4.0,203.82,2025-08-1,Pending
+ORD00616,,Camera,Accessories,4.0,203.61,,Canceled
+ORD00617,Jack,Headphones,Electronics,3.0,701.6,2025-09-3,Canceled
+ORD00618,,Tablet,Accessories,3.0,992.01,,Canceled
+ORD00619,Ivy,Gaming Console,Accessories,5.0,598.69,2025-07-3,Delivered
+ORD00620,Charlie,Headphones,Accessories,5.0,487.39,,Delivered
+ORD00621,Jack,Laptop,Electronics,,,,Delivered
+ORD00622,Charlie,Laptop,Electronics,1.0,330.2,,Pending
+ORD00623,Ivy,Smartwatch,Gadgets,2.0,538.89,2025-09-27,Canceled
+ORD00624,Eve,Gaming Console,Electronics,2.0,798.16,2025-07-23,Delivered
+ORD00625,,Camera,Accessories,,423.4,,Delivered
+ORD00626,,Camera,Electronics,1.0,,2025-04-7,Canceled
+ORD00627,Hannah,Tablet,Accessories,4.0,,,Pending
+ORD00628,Frank,Mobile Phone,Accessories,5.0,,2025-07-25,Canceled
+ORD00629,Jack,Gaming Console,Accessories,5.0,836.13,2025-06-12,Delivered
+ORD00630,David,Laptop,Gadgets,3.0,277.6,2025-07-22,Canceled
+ORD00631,,Mobile Phone,Accessories,4.0,988.98,2025-08-20,Pending
+ORD00632,,Laptop,Electronics,5.0,924.43,2025-04-2,Pending
+ORD00633,,Headphones,Electronics,3.0,735.88,2025-07-27,Delivered
+ORD00634,,Gaming Console,Electronics,5.0,605.73,2025-08-20,Delivered
+ORD00635,,Gaming Console,Accessories,3.0,786.27,2025-02-28,Pending
+ORD00636,Alice,Headphones,Gadgets,,567.26,2025-08-2,Delivered
+ORD00637,Grace,Camera,Accessories,5.0,201.7,,Delivered
+ORD00638,Hannah,Camera,Accessories,3.0,214.41,2025-09-27,Delivered
+ORD00639,,Camera,Gadgets,3.0,434.04,2025-05-19,Canceled
+ORD00640,Bob,Smartwatch,Gadgets,5.0,112.99,2025-07-15,Canceled
+ORD00641,Grace,Camera,Gadgets,2.0,127.85,2025-07-24,Pending
+ORD00642,Bob,Camera,Accessories,1.0,,2025-05-14,Delivered
+ORD00643,Jack,Laptop,Accessories,,624.19,2025-05-26,Pending
+ORD00644,Jack,Mobile Phone,Accessories,,127.29,2025-06-24,Pending
+ORD00645,Bob,Mobile Phone,Accessories,,,2025-06-26,Delivered
+ORD00646,,Mobile Phone,Accessories,3.0,,2025-07-25,Delivered
+ORD00647,Eve,Headphones,Gadgets,4.0,280.51,2025-02-3,Delivered
+ORD00648,Jack,Mobile Phone,Electronics,4.0,380.88,2025-04-9,Delivered
+ORD00649,Ivy,Headphones,Accessories,3.0,,2025-02-26,Canceled
+ORD00650,Grace,Laptop,Accessories,2.0,901.42,2025-01-8,Canceled
+ORD00651,Charlie,Laptop,Gadgets,,909.64,2025-04-9,Pending
+ORD00652,Frank,Tablet,Electronics,3.0,318.04,2025-02-13,Pending
+ORD00653,Charlie,Camera,Accessories,2.0,500.06,,Canceled
+ORD00654,Alice,Mobile Phone,Electronics,,339.2,2025-05-26,Canceled
+ORD00655,Hannah,Mobile Phone,Gadgets,,896.57,2025-04-5,Pending
+ORD00656,David,Laptop,Gadgets,1.0,183.59,,Canceled
+ORD00657,Eve,Gaming Console,Gadgets,,141.12,,Pending
+ORD00658,Frank,Headphones,Electronics,1.0,924.33,,Pending
+ORD00659,Hannah,Headphones,Electronics,4.0,403.83,2025-01-15,Delivered
+ORD00660,Hannah,Gaming Console,Gadgets,5.0,231.94,2025-06-8,Canceled
+ORD00661,Charlie,Smartwatch,Gadgets,2.0,723.18,2025-02-22,Delivered
+ORD00662,Eve,Headphones,Accessories,1.0,261.1,2025-02-10,Pending
+ORD00663,Charlie,Smartwatch,Electronics,3.0,833.57,2025-07-28,Delivered
+ORD00664,Bob,Camera,Electronics,3.0,677.47,2025-06-13,Delivered
+ORD00665,Bob,Camera,Accessories,1.0,363.1,,Canceled
+ORD00666,Frank,Mobile Phone,Electronics,2.0,935.05,2025-07-10,Canceled
+ORD00667,Alice,Camera,Electronics,2.0,65.97,2025-04-3,Delivered
+ORD00668,Jack,Mobile Phone,Electronics,4.0,,2025-05-7,Canceled
+ORD00669,Charlie,Camera,Gadgets,4.0,173.17,2025-02-15,Canceled
+ORD00670,Frank,Gaming Console,Electronics,,890.91,2025-08-20,Pending
+ORD00671,Frank,Headphones,Gadgets,4.0,292.99,2025-09-23,Delivered
+ORD00672,Ivy,Tablet,Electronics,1.0,680.48,2025-08-16,Pending
+ORD00673,Ivy,Headphones,Electronics,3.0,464.85,2025-05-16,Delivered
+ORD00674,Bob,Gaming Console,Accessories,3.0,506.57,2025-06-20,Pending
+ORD00675,Alice,Laptop,Gadgets,5.0,978.25,2025-05-5,Pending
+ORD00676,Frank,Headphones,Accessories,1.0,647.04,2025-09-20,Delivered
+ORD00677,Alice,Gaming Console,Gadgets,,139.2,2025-05-20,Delivered
+ORD00678,Frank,Mobile Phone,Gadgets,4.0,225.6,2025-06-20,Canceled
+ORD00679,,Smartwatch,Accessories,1.0,993.77,2025-04-5,Delivered
+ORD00680,Bob,Laptop,Accessories,4.0,584.95,2025-06-4,Delivered
+ORD00681,,Headphones,Electronics,3.0,704.62,2025-06-23,Canceled
+ORD00682,Jack,Laptop,Gadgets,2.0,87.11,2025-01-17,Delivered
+ORD00683,Frank,Tablet,Gadgets,3.0,93.96,,Delivered
+ORD00684,Grace,Camera,Accessories,2.0,972.05,2025-02-4,Canceled
+ORD00685,Frank,Laptop,Gadgets,4.0,619.64,2025-04-18,Pending
+ORD00686,Hannah,Headphones,Electronics,1.0,783.02,2025-03-28,Canceled
+ORD00687,David,Gaming Console,Electronics,,655.0,2025-05-26,Canceled
+ORD00688,Hannah,Mobile Phone,Gadgets,,,2025-04-24,Delivered
+ORD00689,Alice,Tablet,Gadgets,,357.03,2025-09-2,Pending
+ORD00690,Grace,Smartwatch,Electronics,5.0,969.03,2025-06-13,Canceled
+ORD00691,Jack,Headphones,Gadgets,5.0,58.1,2025-04-17,Pending
+ORD00692,Alice,Headphones,Accessories,,658.96,2025-05-7,Canceled
+ORD00693,,Gaming Console,Accessories,,,2025-07-17,Pending
+ORD00694,Alice,Tablet,Electronics,3.0,459.41,2025-09-11,Pending
+ORD00695,Alice,Headphones,Electronics,1.0,107.55,2025-05-2,Canceled
+ORD00696,Grace,Gaming Console,Accessories,,595.53,2025-01-14,Canceled
+ORD00697,Grace,Mobile Phone,Electronics,4.0,181.24,2025-09-16,Pending
+ORD00698,Bob,Camera,Gadgets,2.0,86.71,2025-03-16,Delivered
+ORD00699,Jack,Tablet,Accessories,4.0,713.49,2025-01-9,Pending
+ORD00700,Eve,Tablet,Accessories,1.0,456.37,,Delivered
+ORD00701,Bob,Gaming Console,Electronics,3.0,368.82,2025-01-15,Delivered
+ORD00702,Charlie,Mobile Phone,Accessories,3.0,548.38,2025-08-3,Delivered
+ORD00703,Alice,Mobile Phone,Accessories,4.0,,2025-01-14,Pending
+ORD00704,,Mobile Phone,Electronics,3.0,870.53,2025-08-11,Pending
+ORD00705,David,Gaming Console,Gadgets,5.0,116.2,2025-05-22,Delivered
+ORD00706,Grace,Camera,Accessories,,846.9,2025-01-18,Pending
+ORD00707,Bob,Gaming Console,Electronics,5.0,907.45,2025-05-21,Pending
+ORD00708,Bob,Laptop,Accessories,1.0,,2025-05-23,Delivered
+ORD00709,David,Smartwatch,Accessories,2.0,756.1,2025-03-2,Pending
+ORD00710,Charlie,Tablet,Gadgets,4.0,228.01,2025-06-10,Delivered
+ORD00711,Bob,Gaming Console,Accessories,5.0,537.45,2025-06-20,Delivered
+ORD00712,,Gaming Console,Accessories,2.0,403.7,2025-08-28,Delivered
+ORD00713,,Camera,Gadgets,4.0,507.85,2025-09-16,Delivered
+ORD00714,Ivy,Headphones,Accessories,1.0,887.93,2025-08-11,Delivered
+ORD00715,Bob,Tablet,Gadgets,5.0,357.01,,Pending
+ORD00716,Alice,Mobile Phone,Gadgets,3.0,313.73,2025-04-7,Pending
+ORD00717,Grace,Mobile Phone,Accessories,1.0,231.62,2025-01-17,Canceled
+ORD00718,Frank,Gaming Console,Electronics,5.0,360.95,2025-02-13,Pending
+ORD00719,Jack,Laptop,Electronics,2.0,600.76,2025-09-20,Canceled
+ORD00720,Hannah,Gaming Console,Electronics,3.0,567.87,2025-06-17,Pending
+ORD00721,Alice,Camera,Accessories,4.0,926.42,2025-06-20,Canceled
+ORD00722,Bob,Gaming Console,Gadgets,,,2025-02-25,Delivered
+ORD00723,,Gaming Console,Electronics,4.0,695.97,2025-09-2,Pending
+ORD00724,Charlie,Camera,Gadgets,4.0,930.51,2025-07-5,Canceled
+ORD00725,Jack,Smartwatch,Gadgets,1.0,420.95,2025-02-28,Pending
+ORD00726,Eve,Headphones,Gadgets,3.0,259.61,2025-07-18,Pending
+ORD00727,,Smartwatch,Electronics,,743.37,2025-06-5,Pending
+ORD00728,David,Camera,Accessories,5.0,196.64,2025-05-9,Delivered
+ORD00729,Alice,Laptop,Electronics,2.0,792.87,,Canceled
+ORD00730,Eve,Headphones,Electronics,3.0,565.76,2025-03-7,Delivered
+ORD00731,Charlie,Smartwatch,Gadgets,,741.12,2025-06-12,Canceled
+ORD00732,David,Gaming Console,Accessories,5.0,131.22,2025-03-28,Pending
+ORD00733,Ivy,Mobile Phone,Accessories,1.0,,2025-02-21,Pending
+ORD00734,Charlie,Laptop,Gadgets,5.0,744.18,2025-06-4,Pending
+ORD00735,Charlie,Camera,Accessories,,186.32,2025-04-1,Pending
+ORD00736,,Tablet,Gadgets,3.0,704.34,2025-03-10,Pending
+ORD00737,David,Mobile Phone,Accessories,,502.99,2025-08-13,Canceled
+ORD00738,Bob,Headphones,Gadgets,1.0,318.47,,Pending
+ORD00739,Grace,Mobile Phone,Accessories,2.0,971.6,2025-07-11,Delivered
+ORD00740,Ivy,Headphones,Accessories,4.0,376.43,2025-02-5,Canceled
+ORD00741,Alice,Tablet,Accessories,4.0,,2025-05-1,Pending
+ORD00742,Eve,Tablet,Gadgets,1.0,878.89,2025-01-3,Delivered
+ORD00743,Jack,Smartwatch,Accessories,4.0,589.7,2025-08-9,Delivered
+ORD00744,Grace,Tablet,Electronics,,505.77,2025-03-25,Delivered
+ORD00745,Grace,Camera,Electronics,5.0,794.56,,Pending
+ORD00746,,Camera,Accessories,2.0,694.98,2025-02-22,Canceled
+ORD00747,Charlie,Laptop,Electronics,2.0,,2025-08-23,Pending
+ORD00748,Alice,Smartwatch,Accessories,,490.57,2025-05-28,Pending
+ORD00749,Jack,Headphones,Accessories,2.0,,,Pending
+ORD00750,Hannah,Tablet,Gadgets,,992.2,2025-05-20,Pending
+ORD00751,Jack,Mobile Phone,Accessories,3.0,536.97,2025-06-23,Pending
+ORD00752,Hannah,Tablet,Accessories,1.0,,2025-01-20,Canceled
+ORD00753,Alice,Camera,Electronics,1.0,782.09,2025-02-15,Delivered
+ORD00754,Frank,Mobile Phone,Electronics,1.0,336.85,,Pending
+ORD00755,Hannah,Laptop,Accessories,3.0,673.73,2025-09-7,Pending
+ORD00756,,Camera,Electronics,2.0,586.4,2025-08-18,Delivered
+ORD00757,Eve,Mobile Phone,Accessories,1.0,667.07,2025-03-16,Delivered
+ORD00758,Charlie,Tablet,Electronics,,,,Canceled
+ORD00759,Frank,Gaming Console,Electronics,5.0,510.21,2025-03-22,Canceled
+ORD00760,Eve,Mobile Phone,Electronics,,489.64,2025-04-13,Pending
+ORD00761,Jack,Tablet,Accessories,5.0,63.25,2025-01-5,Canceled
+ORD00762,Jack,Smartwatch,Electronics,1.0,440.71,,Pending
+ORD00763,,Tablet,Accessories,4.0,617.21,2025-03-25,Pending
+ORD00764,,Headphones,Electronics,4.0,250.9,2025-02-11,Pending
+ORD00765,,Gaming Console,Accessories,1.0,,2025-08-13,Pending
+ORD00766,Bob,Gaming Console,Gadgets,2.0,831.37,2025-01-10,Pending
+ORD00767,Frank,Headphones,Electronics,3.0,388.11,2025-03-28,Delivered
+ORD00768,Alice,Camera,Electronics,3.0,866.73,2025-01-4,Canceled
+ORD00769,Hannah,Smartwatch,Accessories,5.0,,2025-08-16,Delivered
+ORD00770,Alice,Laptop,Electronics,3.0,251.95,2025-03-4,Delivered
+ORD00771,Frank,Camera,Accessories,3.0,459.63,2025-04-10,Canceled
+ORD00772,Grace,Mobile Phone,Electronics,2.0,583.25,2025-06-1,Pending
+ORD00773,Grace,Camera,Gadgets,4.0,711.36,2025-03-21,Canceled
+ORD00774,Grace,Gaming Console,Accessories,2.0,443.86,2025-09-3,Pending
+ORD00775,Jack,Tablet,Electronics,,293.72,,Delivered
+ORD00776,Frank,Camera,Accessories,4.0,231.68,2025-09-5,Canceled
+ORD00777,Jack,Headphones,Accessories,1.0,778.79,2025-01-9,Pending
+ORD00778,David,Mobile Phone,Gadgets,2.0,518.37,2025-03-10,Canceled
+ORD00779,Jack,Headphones,Electronics,3.0,909.22,2025-04-9,Delivered
+ORD00780,Alice,Smartwatch,Electronics,5.0,823.06,2025-02-10,Pending
+ORD00781,Ivy,Camera,Electronics,5.0,436.91,2025-07-19,Canceled
+ORD00782,Eve,Gaming Console,Electronics,2.0,671.41,2025-09-24,Delivered
+ORD00783,,Camera,Accessories,2.0,857.7,2025-07-8,Delivered
+ORD00784,,Smartwatch,Accessories,5.0,514.08,2025-09-5,Pending
+ORD00785,Eve,Tablet,Gadgets,5.0,252.22,2025-06-26,Canceled
+ORD00786,Hannah,Gaming Console,Gadgets,1.0,734.41,2025-06-20,Delivered
+ORD00787,Hannah,Laptop,Electronics,4.0,385.91,2025-05-18,Pending
+ORD00788,Alice,Mobile Phone,Electronics,,439.77,2025-08-12,Delivered
+ORD00789,David,Mobile Phone,Electronics,3.0,597.45,2025-08-18,Canceled
+ORD00790,Jack,Camera,Gadgets,1.0,548.83,2025-06-1,Pending
+ORD00791,Charlie,Laptop,Gadgets,3.0,108.99,2025-01-27,Canceled
+ORD00792,Alice,Camera,Electronics,4.0,407.27,2025-08-25,Delivered
+ORD00793,Alice,Camera,Gadgets,5.0,,2025-02-14,Pending
+ORD00794,Jack,Smartwatch,Gadgets,5.0,562.26,2025-08-21,Canceled
+ORD00795,Jack,Headphones,Electronics,1.0,995.0,2025-04-17,Delivered
+ORD00796,Bob,Laptop,Electronics,4.0,707.77,2025-08-4,Pending
+ORD00797,Hannah,Headphones,Gadgets,3.0,,2025-06-11,Pending
+ORD00798,Alice,Gaming Console,Electronics,1.0,52.11,2025-03-9,Delivered
+ORD00799,David,Tablet,Accessories,4.0,665.86,2025-07-8,Pending
+ORD00800,,Laptop,Accessories,5.0,349.55,2025-08-16,Delivered
+ORD00801,Eve,Gaming Console,Accessories,5.0,,2025-09-10,Canceled
+ORD00802,Eve,Camera,Gadgets,1.0,968.34,2025-06-18,Canceled
+ORD00803,,Tablet,Gadgets,5.0,77.21,,Pending
+ORD00804,Charlie,Laptop,Accessories,3.0,479.07,,Pending
+ORD00805,Hannah,Camera,Accessories,2.0,709.09,2025-04-28,Pending
+ORD00806,Bob,Headphones,Gadgets,5.0,980.39,2025-03-9,Delivered
+ORD00807,David,Mobile Phone,Gadgets,2.0,373.63,2025-06-20,Canceled
+ORD00808,Hannah,Gaming Console,Electronics,2.0,265.06,2025-04-19,Pending
+ORD00809,Ivy,Tablet,Accessories,1.0,378.43,2025-09-13,Canceled
+ORD00810,,Headphones,Electronics,4.0,477.78,2025-07-23,Canceled
+ORD00811,Eve,Tablet,Electronics,,357.49,2025-06-6,Delivered
+ORD00812,,Headphones,Electronics,5.0,306.83,2025-06-20,Delivered
+ORD00813,Eve,Laptop,Gadgets,,279.37,2025-01-21,Canceled
+ORD00814,Hannah,Laptop,Electronics,,908.33,2025-05-9,Delivered
+ORD00815,Grace,Mobile Phone,Electronics,,598.49,2025-08-13,Pending
+ORD00816,Ivy,Smartwatch,Accessories,4.0,817.41,2025-08-17,Delivered
+ORD00817,Frank,Mobile Phone,Electronics,5.0,135.48,,Canceled
+ORD00818,,Gaming Console,Electronics,3.0,548.53,2025-08-6,Delivered
+ORD00819,Grace,Laptop,Electronics,5.0,829.87,2025-09-1,Canceled
+ORD00820,David,Gaming Console,Gadgets,3.0,402.16,2025-08-12,Canceled
+ORD00821,,Gaming Console,Gadgets,1.0,947.39,2025-09-5,Canceled
+ORD00822,Bob,Camera,Electronics,5.0,200.1,2025-07-18,Delivered
+ORD00823,Grace,Mobile Phone,Electronics,2.0,675.54,2025-06-10,Canceled
+ORD00824,,Gaming Console,Gadgets,1.0,698.47,2025-09-14,Canceled
+ORD00825,,Smartwatch,Electronics,,,2025-01-3,Delivered
+ORD00826,Grace,Headphones,Electronics,4.0,405.1,,Pending
+ORD00827,Jack,Mobile Phone,Electronics,5.0,490.39,2025-02-12,Canceled
+ORD00828,Ivy,Camera,Gadgets,5.0,428.02,2025-06-26,Pending
+ORD00829,Charlie,Smartwatch,Accessories,3.0,913.61,2025-07-17,Pending
+ORD00830,David,Mobile Phone,Accessories,1.0,283.48,2025-03-22,Delivered
+ORD00831,,Laptop,Gadgets,1.0,981.78,2025-09-18,Canceled
+ORD00832,Eve,Tablet,Gadgets,2.0,946.99,2025-01-9,Delivered
+ORD00833,Hannah,Camera,Gadgets,5.0,122.82,,Delivered
+ORD00834,Bob,Smartwatch,Gadgets,4.0,747.27,2025-09-11,Pending
+ORD00835,Grace,Headphones,Electronics,4.0,966.07,2025-04-1,Canceled
+ORD00836,Jack,Smartwatch,Electronics,3.0,154.57,2025-08-28,Delivered
+ORD00837,Charlie,Laptop,Gadgets,3.0,869.09,2025-02-20,Canceled
+ORD00838,Alice,Tablet,Accessories,2.0,,,Delivered
+ORD00839,Charlie,Tablet,Gadgets,5.0,474.35,2025-08-10,Delivered
+ORD00840,Bob,Mobile Phone,Electronics,3.0,608.59,2025-08-21,Pending
+ORD00841,Grace,Mobile Phone,Gadgets,3.0,816.11,2025-01-27,Canceled
+ORD00842,Hannah,Mobile Phone,Gadgets,1.0,605.86,2025-06-20,Delivered
+ORD00843,Charlie,Camera,Accessories,,355.29,,Delivered
+ORD00844,Eve,Laptop,Gadgets,4.0,609.41,,Delivered
+ORD00845,Jack,Smartwatch,Accessories,3.0,859.14,2025-01-14,Canceled
+ORD00846,,Laptop,Electronics,2.0,189.71,2025-06-26,Pending
+ORD00847,Eve,Tablet,Electronics,,984.46,2025-08-16,Canceled
+ORD00848,Bob,Mobile Phone,Electronics,1.0,217.85,2025-01-5,Pending
+ORD00849,Alice,Headphones,Gadgets,1.0,632.24,2025-07-1,Pending
+ORD00850,Alice,Smartwatch,Accessories,4.0,470.71,2025-04-10,Canceled
+ORD00851,Bob,Tablet,Gadgets,2.0,654.89,2025-06-25,Canceled
+ORD00852,Charlie,Mobile Phone,Gadgets,5.0,816.81,2025-07-25,Canceled
+ORD00853,Alice,Laptop,Electronics,4.0,,2025-08-28,Pending
+ORD00854,,Headphones,Electronics,,925.89,2025-04-12,Pending
+ORD00855,Alice,Tablet,Accessories,,521.11,2025-01-23,Canceled
+ORD00856,Ivy,Headphones,Electronics,5.0,462.75,2025-04-6,Pending
+ORD00857,Charlie,Tablet,Gadgets,1.0,952.92,2025-08-11,Delivered
+ORD00858,Ivy,Tablet,Electronics,1.0,733.82,2025-05-15,Pending
+ORD00859,Hannah,Smartwatch,Electronics,4.0,147.5,2025-04-8,Delivered
+ORD00860,Eve,Tablet,Accessories,1.0,610.39,2025-01-6,Canceled
+ORD00861,Grace,Laptop,Accessories,5.0,84.1,2025-09-27,Canceled
+ORD00862,,Laptop,Accessories,1.0,380.56,2025-02-24,Canceled
+ORD00863,Jack,Gaming Console,Accessories,4.0,,2025-09-9,Pending
+ORD00864,,Camera,Electronics,,431.72,2025-05-14,Canceled
+ORD00865,Alice,Gaming Console,Gadgets,3.0,241.78,2025-09-12,Canceled
+ORD00866,Hannah,Headphones,Gadgets,5.0,508.57,,Canceled
+ORD00867,,Headphones,Accessories,4.0,206.63,2025-06-16,Canceled
+ORD00868,Bob,Mobile Phone,Gadgets,5.0,,2025-09-23,Canceled
+ORD00869,Charlie,Gaming Console,Accessories,5.0,837.23,2025-09-12,Pending
+ORD00870,Jack,Headphones,Accessories,5.0,206.03,2025-03-2,Delivered
+ORD00871,Jack,Smartwatch,Gadgets,5.0,409.03,2025-05-4,Delivered
+ORD00872,David,Mobile Phone,Electronics,1.0,539.52,2025-07-10,Pending
+ORD00873,Bob,Tablet,Accessories,,,2025-06-5,Delivered
+ORD00874,Charlie,Mobile Phone,Electronics,4.0,382.1,2025-04-1,Delivered
+ORD00875,Grace,Camera,Gadgets,5.0,,2025-09-11,Canceled
+ORD00876,Grace,Tablet,Gadgets,1.0,790.44,,Delivered
+ORD00877,Ivy,Camera,Accessories,1.0,985.28,2025-05-18,Canceled
+ORD00878,Grace,Mobile Phone,Accessories,1.0,,2025-07-4,Delivered
+ORD00879,Charlie,Headphones,Accessories,4.0,162.34,,Canceled
+ORD00880,Eve,Smartwatch,Gadgets,,997.6,2025-05-14,Delivered
+ORD00881,Bob,Tablet,Gadgets,5.0,154.31,2025-05-18,Canceled
+ORD00882,,Camera,Gadgets,4.0,457.16,2025-03-12,Canceled
+ORD00883,Ivy,Mobile Phone,Accessories,4.0,274.92,2025-01-13,Pending
+ORD00884,Jack,Mobile Phone,Accessories,4.0,451.44,2025-01-5,Delivered
+ORD00885,Frank,Tablet,Gadgets,5.0,634.5,2025-06-14,Canceled
+ORD00886,Jack,Gaming Console,Electronics,3.0,376.58,2025-02-1,Canceled
+ORD00887,Grace,Smartwatch,Electronics,1.0,128.69,2025-05-17,Delivered
+ORD00888,Alice,Camera,Gadgets,1.0,487.56,,Pending
+ORD00889,Charlie,Tablet,Accessories,2.0,315.87,2025-04-11,Delivered
+ORD00890,,Gaming Console,Accessories,2.0,303.03,,Pending
+ORD00891,,Mobile Phone,Electronics,2.0,710.3,2025-05-11,Canceled
+ORD00892,,Laptop,Accessories,1.0,577.32,2025-09-9,Pending
+ORD00893,,Headphones,Accessories,1.0,455.27,2025-04-24,Delivered
+ORD00894,Bob,Camera,Electronics,5.0,659.6,2025-02-23,Canceled
+ORD00895,David,Gaming Console,Accessories,,133.89,2025-02-1,Canceled
+ORD00896,Hannah,Camera,Electronics,5.0,885.09,,Delivered
+ORD00897,Ivy,Headphones,Electronics,1.0,,2025-04-8,Delivered
+ORD00898,Alice,Gaming Console,Electronics,3.0,144.85,2025-02-1,Delivered
+ORD00899,David,Laptop,Gadgets,3.0,122.95,2025-07-18,Canceled
+ORD00900,Jack,Headphones,Accessories,3.0,610.39,2025-05-15,Canceled
+ORD00901,Hannah,Camera,Accessories,2.0,250.83,2025-08-5,Pending
+ORD00902,,Smartwatch,Gadgets,3.0,445.29,2025-06-23,Pending
+ORD00903,,Gaming Console,Electronics,1.0,71.22,2025-08-6,Canceled
+ORD00904,Alice,Tablet,Electronics,5.0,481.4,2025-07-22,Delivered
+ORD00905,Eve,Smartwatch,Electronics,2.0,390.45,2025-06-14,Pending
+ORD00906,,Headphones,Electronics,1.0,356.28,2025-06-9,Delivered
+ORD00907,Bob,Tablet,Electronics,5.0,964.4,2025-06-25,Canceled
+ORD00908,Frank,Smartwatch,Gadgets,3.0,781.71,2025-01-24,Pending
+ORD00909,Charlie,Smartwatch,Accessories,2.0,909.56,2025-05-6,Canceled
+ORD00910,,Laptop,Accessories,1.0,974.75,2025-06-16,Canceled
+ORD00911,Charlie,Laptop,Accessories,5.0,317.96,2025-07-2,Delivered
+ORD00912,Charlie,Camera,Electronics,,367.15,2025-07-20,Delivered
+ORD00913,,Camera,Electronics,,441.09,,Pending
+ORD00914,David,Tablet,Gadgets,4.0,543.87,2025-09-7,Canceled
+ORD00915,Hannah,Laptop,Electronics,1.0,647.39,,Pending
+ORD00916,,Mobile Phone,Gadgets,1.0,122.99,2025-04-25,Delivered
+ORD00917,Bob,Smartwatch,Gadgets,4.0,697.14,2025-06-5,Canceled
+ORD00918,Alice,Smartwatch,Accessories,3.0,271.66,2025-04-13,Canceled
+ORD00919,,Tablet,Electronics,1.0,421.45,2025-03-25,Pending
+ORD00920,David,Mobile Phone,Gadgets,2.0,266.18,2025-02-1,Delivered
+ORD00921,Eve,Laptop,Gadgets,,428.88,2025-04-19,Pending
+ORD00922,Frank,Gaming Console,Accessories,4.0,639.45,2025-04-10,Canceled
+ORD00923,,Headphones,Electronics,2.0,,2025-06-21,Canceled
+ORD00924,David,Laptop,Accessories,5.0,,2025-03-25,Pending
+ORD00925,Bob,Mobile Phone,Accessories,5.0,401.34,2025-05-11,Pending
+ORD00926,Charlie,Laptop,Electronics,5.0,348.67,2025-04-25,Delivered
+ORD00927,Hannah,Mobile Phone,Accessories,3.0,225.3,2025-07-26,Delivered
+ORD00928,Grace,Headphones,Accessories,3.0,494.26,2025-04-11,Canceled
+ORD00929,Jack,Laptop,Electronics,1.0,252.83,2025-08-9,Canceled
+ORD00930,Frank,Gaming Console,Electronics,5.0,344.64,,Pending
+ORD00931,David,Gaming Console,Gadgets,5.0,118.83,2025-03-6,Delivered
+ORD00932,,Headphones,Electronics,5.0,634.55,,Pending
+ORD00933,Frank,Gaming Console,Electronics,3.0,,2025-07-9,Delivered
+ORD00934,Hannah,Laptop,Accessories,4.0,732.67,2025-05-2,Canceled
+ORD00935,Alice,Camera,Electronics,5.0,881.63,,Pending
+ORD00936,,Smartwatch,Accessories,,643.02,,Delivered
+ORD00937,Charlie,Tablet,Gadgets,2.0,642.41,2025-08-21,Canceled
+ORD00938,,Headphones,Electronics,1.0,874.41,2025-03-22,Delivered
+ORD00939,Jack,Smartwatch,Gadgets,5.0,789.56,2025-08-7,Canceled
+ORD00940,Grace,Smartwatch,Gadgets,,67.95,2025-06-14,Pending
+ORD00941,Bob,Headphones,Gadgets,2.0,950.06,2025-09-10,Canceled
+ORD00942,Bob,Mobile Phone,Electronics,3.0,200.51,2025-07-15,Pending
+ORD00943,Jack,Smartwatch,Electronics,5.0,,2025-08-28,Delivered
+ORD00944,,Gaming Console,Gadgets,,228.99,2025-05-18,Delivered
+ORD00945,Frank,Headphones,Gadgets,1.0,829.9,,Pending
+ORD00946,,Camera,Accessories,4.0,233.55,2025-04-10,Delivered
+ORD00947,,Headphones,Accessories,5.0,701.81,2025-08-16,Delivered
+ORD00948,Eve,Laptop,Gadgets,3.0,362.29,2025-09-23,Delivered
+ORD00949,Hannah,Mobile Phone,Gadgets,,199.42,2025-05-26,Canceled
+ORD00950,Jack,Mobile Phone,Accessories,1.0,349.84,2025-03-2,Pending
+ORD00951,,Gaming Console,Gadgets,2.0,461.35,2025-09-28,Canceled
+ORD00952,Frank,Gaming Console,Gadgets,,641.87,2025-08-20,Pending
+ORD00953,Ivy,Laptop,Gadgets,5.0,794.36,2025-01-13,Delivered
+ORD00954,Bob,Laptop,Accessories,1.0,,2025-07-27,Canceled
+ORD00955,,Headphones,Gadgets,4.0,217.67,2025-09-23,Delivered
+ORD00956,Hannah,Laptop,Accessories,3.0,269.07,,Delivered
+ORD00957,Charlie,Smartwatch,Accessories,5.0,150.42,2025-03-11,Pending
+ORD00958,Eve,Camera,Gadgets,,673.74,2025-03-24,Pending
+ORD00959,Jack,Camera,Gadgets,1.0,478.29,,Canceled
+ORD00960,,Camera,Electronics,1.0,273.72,2025-01-1,Delivered
+ORD00961,,Tablet,Accessories,4.0,402.22,2025-09-7,Delivered
+ORD00962,Grace,Mobile Phone,Accessories,1.0,793.77,,Canceled
+ORD00963,Jack,Laptop,Gadgets,3.0,169.24,2025-03-8,Canceled
+ORD00964,David,Camera,Electronics,4.0,132.26,,Delivered
+ORD00965,,Smartwatch,Electronics,4.0,132.23,2025-02-7,Canceled
+ORD00966,,Mobile Phone,Accessories,1.0,447.72,2025-04-24,Delivered
+ORD00967,,Headphones,Accessories,2.0,130.06,,Delivered
+ORD00968,Frank,Tablet,Electronics,1.0,145.55,2025-04-24,Delivered
+ORD00969,Jack,Gaming Console,Gadgets,,200.63,2025-01-15,Delivered
+ORD00970,Alice,Camera,Accessories,4.0,870.1,2025-04-23,Pending
+ORD00971,,Gaming Console,Accessories,1.0,775.06,2025-09-26,Pending
+ORD00972,Hannah,Smartwatch,Gadgets,3.0,877.79,,Pending
+ORD00973,Alice,Mobile Phone,Electronics,3.0,885.26,2025-08-18,Canceled
+ORD00974,,Mobile Phone,Accessories,5.0,358.75,2025-06-12,Pending
+ORD00975,Alice,Gaming Console,Accessories,,911.82,2025-06-5,Delivered
+ORD00976,Bob,Smartwatch,Gadgets,1.0,395.07,2025-01-5,Pending
+ORD00977,Ivy,Tablet,Accessories,4.0,,2025-04-5,Pending
+ORD00978,,Laptop,Gadgets,5.0,364.02,,Canceled
+ORD00979,David,Smartwatch,Gadgets,2.0,493.0,2025-01-8,Pending
+ORD00980,Jack,Tablet,Gadgets,3.0,155.16,2025-05-24,Pending
+ORD00981,Ivy,Smartwatch,Gadgets,,820.76,2025-08-1,Pending
+ORD00982,Frank,Mobile Phone,Accessories,2.0,986.7,2025-01-1,Canceled
+ORD00983,Frank,Gaming Console,Electronics,1.0,948.94,2025-03-6,Delivered
+ORD00984,Hannah,Smartwatch,Electronics,1.0,,2025-04-5,Pending
+ORD00985,Jack,Laptop,Gadgets,1.0,281.05,2025-04-3,Delivered
+ORD00986,,Laptop,Gadgets,,252.08,2025-06-18,Canceled
+ORD00987,David,Smartwatch,Accessories,4.0,164.47,2025-03-24,Canceled
+ORD00988,Grace,Mobile Phone,Gadgets,2.0,583.62,2025-02-5,Canceled
+ORD00989,,Smartwatch,Electronics,4.0,756.33,2025-05-7,Canceled
+ORD00990,Grace,Laptop,Accessories,5.0,158.74,2025-03-22,Canceled
+ORD00991,Hannah,Mobile Phone,Gadgets,2.0,,,Delivered
+ORD00992,David,Mobile Phone,Electronics,1.0,85.19,2025-04-11,Pending
+ORD00993,,Camera,Gadgets,4.0,526.7,2025-04-14,Pending
+ORD00994,,Tablet,Accessories,2.0,646.19,2025-06-25,Delivered
+ORD00995,Ivy,Camera,Electronics,4.0,261.9,2025-09-5,Canceled
+ORD00996,Frank,Headphones,Gadgets,4.0,,2025-08-4,Canceled
+ORD00997,Bob,Tablet,Gadgets,3.0,353.16,2025-08-2,Pending
+ORD00998,Eve,Gaming Console,Accessories,1.0,190.69,2025-06-11,Canceled
+ORD00999,Charlie,Smartwatch,Accessories,4.0,435.99,2025-05-10,Delivered
+ORD01000,Eve,Laptop,Accessories,3.0,476.54,2025-09-18,Delivered
